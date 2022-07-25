@@ -1,0 +1,11 @@
+1.  Edit the file named "main.swift"
+2.  Within this file, write a program which will sort the array of integers
+    using Insertion Sort.
+3.  The output should be as follows:
+    Pass: <p>, Swaps: <pass swap count>/<total swap count>, Array: [<comma-delimitted array contents>]
+    For example:
+        Pass 0, Swaps: 0/0, Array: [4, 3, 2, 10, 12, 1, 5, 6]
+        Pass 1, Swaps: 1/1, Array: [3, 4, 2, 10, 12, 1, 5, 6]
+
+
+

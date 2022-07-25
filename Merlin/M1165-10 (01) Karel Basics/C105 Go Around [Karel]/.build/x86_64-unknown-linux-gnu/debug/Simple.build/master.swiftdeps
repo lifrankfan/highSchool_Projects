@@ -1,0 +1,7 @@
+version: "Swift version 5.3.2 (swift-5.3.2-RELEASE)"
+options: "1b3d298d686a7ea245d6dd758909cce1"
+build_time: [1619920287, 68326311]
+inputs:
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C105 Go Around [Karel]/ActionPlan.swift": [1619920285, 616677706]
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C105 Go Around [Karel]/WorldPlanner.swift": [1619917786, 96501876]
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C105 Go Around [Karel]/main.swift": [1619917786, 120500838]

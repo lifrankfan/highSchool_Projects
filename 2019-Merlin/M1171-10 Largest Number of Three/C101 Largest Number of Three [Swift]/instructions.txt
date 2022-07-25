@@ -1,0 +1,18 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+1.  Edit a file named "main.swift"
+2.  The file will contain three double constants identified as a, b, and c
+
+3.  Print the identifier, an equal sign, and the value of each constant
+
+4.  Print the text "The largest value is " and the identifier for the largest
+
+    of the three values
+
+     
+
+      
+
+ 
+

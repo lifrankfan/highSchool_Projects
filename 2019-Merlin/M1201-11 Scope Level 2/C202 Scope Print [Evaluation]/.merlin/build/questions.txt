@@ -1,0 +1,11 @@
+let e = -556
+let n = 138
+let j = -702
+func q() {
+    let w = 822
+    let p = -566
+    print(w)
+    print(p)
+}
+print(e)
+print(e)

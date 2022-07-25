@@ -1,0 +1,7 @@
+version: "Swift version 5.3.2 (swift-5.3.2-RELEASE)"
+options: "8d076d89531a89c91ac6f1a64b3437e8"
+build_time: [1619995391, 558011128]
+inputs:
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C103 Gates On The Edge [Karel]/ActionPlan.swift": [1619995389, 332177610]
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C103 Gates On The Edge [Karel]/WorldPlanner.swift": [1619994376, 463142211]
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C103 Gates On The Edge [Karel]/main.swift": [1619994376, 483141367]

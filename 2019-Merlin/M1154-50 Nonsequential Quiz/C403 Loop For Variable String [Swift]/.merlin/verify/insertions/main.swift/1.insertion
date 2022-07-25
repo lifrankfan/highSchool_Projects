@@ -1,0 +1,2 @@
+let lowerLimit : Int = 1
+let upperLimit : Int = 3

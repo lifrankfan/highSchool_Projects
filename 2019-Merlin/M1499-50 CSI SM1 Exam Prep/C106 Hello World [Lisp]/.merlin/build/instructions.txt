@@ -1,0 +1,4 @@
+1.  Edit the file "main.lisp"
+*.  Note the opening "(" BEFORE the print function name.
+*.  Also note the more cryptic syntax and generous use of parentheses.
+2.  Identify the line to be modified so that "Hello, World!" is printed to the console

@@ -1,0 +1,23 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "greet" which accepts two String parameters.
+
+     The first parameter is named "from" and the second is named "to".
+
+     The function returns nothing but produces as a side effect the printing of
+
+     "Greetings from ", then the name specified in the parameter "from", then
+
+     " to " and then the name specified in the parameter "to" and ends with a period.
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

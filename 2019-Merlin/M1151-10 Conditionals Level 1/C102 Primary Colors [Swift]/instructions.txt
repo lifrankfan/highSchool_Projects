@@ -1,0 +1,7 @@
+ 1.  Edit a file named "main.swift"
+ 2.  If color is "Red", "Green", or "Blue" print "color is primary", where color is replaced
+     by the actual color name specified.
+     Otherwise, print "color is not primary", where color is replaced by the actual color
+     name specified.
+
+

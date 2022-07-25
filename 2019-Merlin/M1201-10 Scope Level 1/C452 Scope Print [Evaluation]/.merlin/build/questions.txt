@@ -1,0 +1,37 @@
+let b = -726
+var i = -299
+func f() {
+    let t = 790
+    var i = 686
+    var p = 174
+    do {
+        let w = -118
+        let c = 184
+        var i = 293
+        do {
+            let z = 644
+            let s = -723
+            var f = 835
+            print(c)
+            print(z)
+            print(s)
+        }
+        do {
+            let e = 51
+            let h = 512
+            var d = -956
+            print(w)
+            print(i)
+            print(i)
+        }
+        print(i)
+        print(t)
+    }
+    print(b)
+    print(b)
+    print(b)
+}
+f()
+f()
+print(i)
+print(b)

@@ -1,0 +1,15 @@
+String = -95
+String = 1000
+String = -503
+String = -188
+String = -203
+String = 946
+String = -95
+String = 1000
+String = -503
+String = -188
+String = -203
+String = 946
+String = 372
+String = 372
+String = 372

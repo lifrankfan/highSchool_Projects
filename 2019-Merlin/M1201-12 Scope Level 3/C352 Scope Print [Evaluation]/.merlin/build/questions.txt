@@ -1,0 +1,11 @@
+let q = 395
+let d = -437
+do {
+    let n = -533
+    let s = 933
+    let a = -316
+    print(s)
+    print(d)
+}
+print(q)
+print(d)

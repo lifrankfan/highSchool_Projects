@@ -1,0 +1,7 @@
+version: "Swift version 5.3.2 (swift-5.3.2-RELEASE)"
+options: "b79b2bc9df24d988369a9019ef58062c"
+build_time: [1619998435, 827087088]
+inputs:
+  "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C105 I Got This [Karel]/ActionPlan.swift": [1619998434, 542107623]
+  "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C105 I Got This [Karel]/WorldPlanner.swift": [1619997945, 918964310]
+  "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C105 I Got This [Karel]/main.swift": [1619997945, 938963456]

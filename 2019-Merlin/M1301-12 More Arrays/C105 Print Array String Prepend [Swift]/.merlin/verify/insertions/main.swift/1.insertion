@@ -1,0 +1,3 @@
+let words : [String] = []
+print(words)
+print(prependPrevious(words:words))

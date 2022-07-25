@@ -1,0 +1,47 @@
+let m = -492
+let c = 721
+var z = -414
+var h = 218
+h = 447
+do {
+    let x = 107
+    var v = -996
+    var j = -912
+    j = 718
+    do {
+        let z = -214
+        var j = -347
+        var h = -264
+        do {
+            let a = 918
+            var s = 794
+            s = -850
+            s = 798
+            do {
+                let j = -910
+                var y = 336
+                var x = -434
+                v = 720
+                s = 295
+                y = -62
+                print(s)
+                print(x)
+            }
+            j = -173
+            s = -990
+            print(s)
+            print(s)
+            print(a)
+        }
+        h = -1000
+        print(j)
+        print(z)
+    }
+    h = -721
+    v = 127
+    print(z)
+    print(x)
+}
+h = -975
+print(c)
+print(c)

@@ -1,0 +1,64 @@
+// Add your code below:
+import Foundation
+
+class Node : CustomStringConvertible {
+
+    private var value: String
+    private var children: [Node]
+    let alpha = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+    
+    init() {
+        self.value = ""
+        self.children = [Node]()
+    }
+
+    init(value: String) {
+        self.value = value
+        self.children = [Node]()
+    }
+
+
+
+    public var description : String {
+        var ret : String
+
+        if children.count <= 0 {
+            ret = "\(value)"
+        } else {
+            let ret2 = "\(value)\(children)"
+            let ret3 = ret2.replacingOccurrences(of: "[", with: "{")
+            ret = ret3.replacingOccurrences(of: "]", with: "}")
+        }
+        return ret
+    }
+
+    func add(child:Node) {
+        let fLetter = child.character(at:1)
+        print(fLetter)
+        children.append(child)
+    }
+}
+
+extension String {
+
+    func index(at position: Int, from start: Index? = nil) -> Index? {
+        let startingIndex = start ?? startIndex
+        return index(startingIndex, offsetBy: position, limitedBy: endIndex)
+    }
+
+    func character(at position: Int) -> Character? {
+        guard position >= 0, let indexPosition = index(at: position) else {
+            return nil
+        }
+        return self[indexPosition]
+    }
+}
+
+
+// Add your code above
+
+// ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩
+// DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
+
+// DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
+// ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧

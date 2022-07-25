@@ -1,0 +1,32 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "classify" which accepts a single parameter named "integers"
+
+     of type array of integer.
+
+     On separate rows,  print a comma-delmited list of those integers in the array, that match
+
+     each of the below criteria.  Each list must be in array-order.
+
+     - First row: Only those integers which are odd
+
+     - Second row: Only those integers which are even
+
+     - Third row: Only those integers which are negative
+
+     - Fourth row: Only those integers which are positive
+
+     
+
+     Return an integer that specifies the total count of all integers printed.
+
+      
+
+     
+
+      
+
+ 
+

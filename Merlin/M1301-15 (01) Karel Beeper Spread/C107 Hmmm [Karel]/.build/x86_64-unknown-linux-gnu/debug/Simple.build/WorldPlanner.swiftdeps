@@ -1,0 +1,283 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WorldPlanner"
+provides-nominal:
+- "6Simple12WorldPlannerC"
+provides-member:
+- ["6Simple12WorldPlannerC", ""]
+depends-top-level:
+- "+"
+- !private "-"
+- "..."
+- !private "..<"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "FloatLiteralType"
+- !private "GridLocation"
+- "Int"
+- "IntegerLiteralType"
+- !private "Self"
+- "Situation"
+- "WallLocations"
+- "WorldPlan"
+- "WorldPlanner"
+- !private "avenues"
+- !private "beeperAvenue"
+- !private "beeperCountPerRow"
+- !private "beeperRows"
+- !private "beeperSpreadAvenue"
+- "leftMargin"
+- "maxBeeperRows"
+- "maxBeepersPerRow"
+- !private "streets"
+- "topMargin"
+- !private "wallAvenue"
+depends-member:
+- ["s18AdditiveArithmeticP", ""]
+- ["s18AdditiveArithmeticP", "random"]
+- !private ["Sa", "init"]
+- !private ["Sa", "subscript"]
+- ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "random"]
+- !private ["SK", ""]
+- !private ["SK", "init"]
+- !private ["SK", "subscript"]
+- ["Sz", ""]
+- ["Sz", "random"]
+- ["s7CVarArgP", "random"]
+- !private ["Sl", ""]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- ["SL", ""]
+- !private ["SL", "init"]
+- ["SL", "random"]
+- !private ["11MerlinKarel16CompassDirectionO", "north"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "random"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "GridLocationBeeperCounts"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "random"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "init"]
+- ["Se", "random"]
+- !private ["Se", "subscript"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "init"]
+- ["SE", "random"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "GridLocationBeeperCounts"]
+- ["SQ", ""]
+- !private ["SQ", "init"]
+- !private ["SQ", "north"]
+- ["SQ", "random"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s27ExpressibleByIntegerLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "random"]
+- ["s17FixedWidthIntegerP", "random"]
+- !private ["11MerlinKarel12GridLocationV", "init"]
+- ["SH", ""]
+- !private ["SH", "init"]
+- !private ["SH", "north"]
+- ["SH", "random"]
+- !private ["SH", "subscript"]
+- ["Si", "random"]
+- ["16ScenesAnimations14InterpolatableP", "random"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["s25LosslessStringConvertibleP", "random"]
+- ["s10MirrorPathP", "random"]
+- !private ["SM", ""]
+- !private ["SM", "init"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- ["21NIOConcurrencyHelpers18NIOAtomicPrimitiveP", "random"]
+- ["Sj", ""]
+- ["Sj", "random"]
+- !private ["Sk", ""]
+- !private ["Sk", "init"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", ""]
+- !private ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "north"]
+- ["s10SIMDScalarP", "random"]
+- !private ["ST", "Element"]
+- !private ["ST", "Iterator"]
+- !private ["ST", ""]
+- !private ["ST", "init"]
+- !private ["ST", "makeIterator"]
+- !private ["ST", "subscript"]
+- ["SZ", "random"]
+- ["s13SignedNumericP", ""]
+- ["s13SignedNumericP", "random"]
+- !private ["11MerlinKarel9SituationC", "GridLocationBeeperCounts"]
+- !private ["11MerlinKarel9SituationC", "init"]
+- ["Sx", ""]
+- ["Sx", "random"]
+- !private ["11MerlinKarel13WallLocationsV", "init"]
+- !private ["11MerlinKarel9WorldPlanC", "GridLocation"]
+- ["11MerlinKarel9WorldPlanC", "Int"]
+- !private ["11MerlinKarel9WorldPlanC", "Self"]
+- ["11MerlinKarel9WorldPlanC", "Situation"]
+- ["11MerlinKarel9WorldPlanC", "WallLocations"]
+- ["11MerlinKarel9WorldPlanC", ""]
+- !private ["11MerlinKarel9WorldPlanC", "addWallSegment"]
+- ["11MerlinKarel9WorldPlanC", "avenueCount"]
+- ["11MerlinKarel9WorldPlanC", "avenues"]
+- ["11MerlinKarel9WorldPlanC", "beeperAvenue"]
+- ["11MerlinKarel9WorldPlanC", "beeperCountPerRow"]
+- ["11MerlinKarel9WorldPlanC", "beeperRows"]
+- ["11MerlinKarel9WorldPlanC", "beeperSpreadAvenue"]
+- ["11MerlinKarel9WorldPlanC", "goalSituation"]
+- ["11MerlinKarel9WorldPlanC", "init"]
+- ["11MerlinKarel9WorldPlanC", "initialSituation"]
+- ["11MerlinKarel9WorldPlanC", "leftMargin"]
+- ["11MerlinKarel9WorldPlanC", "maxBeeperRows"]
+- ["11MerlinKarel9WorldPlanC", "maxBeepersPerRow"]
+- ["11MerlinKarel9WorldPlanC", "shouldIncludeWall"]
+- ["11MerlinKarel9WorldPlanC", "streetCount"]
+- ["11MerlinKarel9WorldPlanC", "streets"]
+- ["11MerlinKarel9WorldPlanC", "topMargin"]
+- ["11MerlinKarel9WorldPlanC", "wallAvenue"]
+- ["11MerlinKarel9WorldPlanC", "wallLocations"]
+- !private ["6Simple12WorldPlannerC", "GridLocation"]
+- ["6Simple12WorldPlannerC", "Int"]
+- !private ["6Simple12WorldPlannerC", "Self"]
+- ["6Simple12WorldPlannerC", "Situation"]
+- ["6Simple12WorldPlannerC", "WallLocations"]
+- !private ["6Simple12WorldPlannerC", "addWallSegment"]
+- ["6Simple12WorldPlannerC", "avenueCount"]
+- ["6Simple12WorldPlannerC", "avenues"]
+- ["6Simple12WorldPlannerC", "beeperAvenue"]
+- ["6Simple12WorldPlannerC", "beeperCountPerRow"]
+- ["6Simple12WorldPlannerC", "beeperRows"]
+- ["6Simple12WorldPlannerC", "beeperSpreadAvenue"]
+- ["6Simple12WorldPlannerC", "deinit"]
+- ["6Simple12WorldPlannerC", "goalSituation"]
+- ["6Simple12WorldPlannerC", "init"]
+- ["6Simple12WorldPlannerC", "initialSituation"]
+- ["6Simple12WorldPlannerC", "leftMargin"]
+- ["6Simple12WorldPlannerC", "maxBeeperRows"]
+- ["6Simple12WorldPlannerC", "maxBeepersPerRow"]
+- ["6Simple12WorldPlannerC", "shouldIncludeWall"]
+- ["6Simple12WorldPlannerC", "streetCount"]
+- ["6Simple12WorldPlannerC", "streets"]
+- ["6Simple12WorldPlannerC", "topMargin"]
+- ["6Simple12WorldPlannerC", "wallAvenue"]
+- ["6Simple12WorldPlannerC", "wallLocations"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["10Foundation13_CFBridgeableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- ["s30_CustomPlaygroundQuickLookableP", "random"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "random"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "random"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "random"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- !private "Sa"
+- "21NIOConcurrencyHelpers15AtomicPrimitiveP"
+- !private "SK"
+- "Sz"
+- "s7CVarArgP"
+- !private "Sl"
+- "SL"
+- !private "11MerlinKarel16CompassDirectionO"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- !private "SD"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s17FixedWidthIntegerP"
+- !private "11MerlinKarel12GridLocationV"
+- "SH"
+- "Si"
+- "16ScenesAnimations14InterpolatableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "21NIOConcurrencyHelpers18NIOAtomicPrimitiveP"
+- "Sj"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "s10SIMDScalarP"
+- !private "ST"
+- "SZ"
+- "s13SignedNumericP"
+- !private "11MerlinKarel9SituationC"
+- "Sx"
+- !private "11MerlinKarel13WallLocationsV"
+- "11MerlinKarel9WorldPlanC"
+- "6Simple12WorldPlannerC"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIOHTTP1.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIO.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug/MerlinKarel.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug/Scenes.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/Igis.swiftmodule"
+- "/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug/ScenesAnimations.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIOWebSocket.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOSHA1.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIODarwin.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOHTTPParser.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOAtomics.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "6c7c342768e5326b67976af1d5adecbf"

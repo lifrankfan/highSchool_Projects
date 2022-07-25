@@ -1,0 +1,5 @@
+let sideA : UInt32 = 36
+let sideB : Float = 1651.175
+let sideC : Int = 404
+let base : Int = 4887
+let height : Double = 3950.672

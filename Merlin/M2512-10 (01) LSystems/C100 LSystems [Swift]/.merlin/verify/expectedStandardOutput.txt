@@ -1,0 +1,4 @@
+terminals:["#", "-", "Q"]
+nonTerminals:["+", "0", "5", "W"]
+generation[0]:5#W0Q-+
+generation[1]:0W+#-+0Q5#W+Q5W-Q-#Q5W-

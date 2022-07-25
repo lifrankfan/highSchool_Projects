@@ -1,0 +1,25 @@
+1. Redirection may be used to direct standard output to a file.
+	A.  True
+	B.  False
+
+2. A directory provides a logical grouping of related files and potentially other directories.
+	A.  True
+	B.  False
+
+3. What command, by default, can be used to remove an empty directory?
+	A.  rmdir
+	B.  rd
+	C.  rm
+	D.  remove
+
+4. The command to change to a new directory temporarily is:
+	A.  popd
+	B.  pushd
+	C.  cd
+	D.  cwd
+
+5. What command can be used to view a directory hierarchy?
+	A.  tree
+	B.  pwd
+	C.  shrb
+	D.  ls

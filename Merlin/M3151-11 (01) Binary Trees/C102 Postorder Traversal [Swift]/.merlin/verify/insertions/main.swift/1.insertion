@@ -1,0 +1,17 @@
+let C = Node(value:"root")
+let CLC = Node(value:"locket")
+let CLCLC = Node(value:"common")
+let CLCLCRC = Node(value:"tramp")
+let CLCLCRCLC = Node(value:"entertain")
+CLCLCRC.add(leftChild:CLCLCRCLC)
+CLCLC.add(rightChild:CLCLCRC)
+CLC.add(leftChild:CLCLC)
+C.add(leftChild:CLC)
+let CRC = Node(value:"drunk")
+let CRCRC = Node(value:"crown")
+CRC.add(rightChild:CRCRC)
+C.add(rightChild:CRC)
+let values = Node.nodeValues(C.postorder())
+for value in values {
+	print(value)
+}

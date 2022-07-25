@@ -1,0 +1,29 @@
+let k = -641
+let c = 958
+var x = -518
+x = 744
+func r() {
+    let d = 851
+    let x = -349
+    var k = 179
+    k = -497
+    k = -655
+    k = -71
+    print(d)
+}
+func t() {
+    let z = 440
+    let c = 165
+    let v = -440
+    var k = -329
+    k = -971
+    k = 794
+    k = -566
+    k = -501
+    print(c)
+    print(k)
+}
+x = -440
+r()
+print(x)
+print(k)

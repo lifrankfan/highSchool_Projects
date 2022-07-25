@@ -1,0 +1,3 @@
+cd 1.  Edit the file "main.py"
+*.  Note that for the purposes of this challenge, Python syntax is similar to Swift.
+2.  Identify the line to be modified so that "Hello, World!" is printed to the console

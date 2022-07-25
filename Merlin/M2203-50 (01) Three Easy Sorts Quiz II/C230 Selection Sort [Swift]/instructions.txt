@@ -1,0 +1,15 @@
+1.  Edit the file named "main.swift"
+2.  Within this file, write a program which will sort the array of strings
+    using Selection Sort.
+3.  The output should be as follows:
+    Pass: <p>, Swaps: <pass swap count>/<total swap count>, Array: [<comma-delimitted array contents>]
+    For example:
+    	Pass: 0, Swaps: 0/0, Array: ["tub", "lonely", "price", "five", "murder", "spell"]
+	Pass: 1, Swaps: 1/1, Array: ["five", "lonely", "price", "tub", "murder", "spell"]
+	Pass: 2, Swaps: 1/2, Array: ["five", "lonely", "price", "tub", "murder", "spell"]
+	Pass: 3, Swaps: 1/3, Array: ["five", "lonely", "murder", "tub", "price", "spell"]
+	Pass: 4, Swaps: 1/4, Array: ["five", "lonely", "murder", "price", "tub", "spell"]
+	Pass: 5, Swaps: 1/5, Array: ["five", "lonely", "murder", "price", "spell", "tub"] 
+
+
+

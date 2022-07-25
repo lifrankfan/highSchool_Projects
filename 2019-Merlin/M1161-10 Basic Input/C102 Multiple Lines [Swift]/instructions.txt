@@ -1,0 +1,4 @@
+1.  Edit a file named "main.swift"
+2.  Write a function named "echoLines" which accepts no parameters and returns nothing.
+3.  The function must read lines of text from Standard Input until end-of-file is reached.
+    Each line must be printed to Standard Output.

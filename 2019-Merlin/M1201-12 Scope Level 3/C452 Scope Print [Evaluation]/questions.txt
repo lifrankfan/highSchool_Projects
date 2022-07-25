@@ -1,0 +1,30 @@
+let u = 372
+var j = 388
+func e() {
+    let q = -188
+    var a = 475
+    var g = -203
+    func i() {
+        let r = -95
+        var y = -856
+        var v = 946
+        do {
+            let q = 1000
+            let u = -891
+            var p = -503
+            var v = 973
+            print(r)
+            print(q)
+            print(p)
+        }
+        print(q)
+        print(g)
+        print(v)
+    }
+    i()
+    i()
+    print(u)
+}
+e()
+print(u)
+print(u)

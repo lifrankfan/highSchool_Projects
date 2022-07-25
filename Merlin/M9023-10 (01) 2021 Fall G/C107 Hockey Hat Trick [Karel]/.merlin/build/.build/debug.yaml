@@ -1,0 +1,61 @@
+client:
+  name: basic
+tools: {}
+targets:
+  "PackageStructure": ["<PackageStructure>"]
+  "Simple-debug.exe": ["<Simple-debug.exe>"]
+  "Simple-debug.module": ["<Simple-debug.module>"]
+  "main": ["<Simple-debug.exe>","<Simple-debug.module>"]
+  "test": ["<Simple-debug.exe>","<Simple-debug.module>"]
+default: "main"
+nodes:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/":
+    is-directory-structure: true
+commands:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule.o":
+    tool: shell
+    inputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule"]
+    outputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule.o"]
+    description: "Wrapping AST for Simple for debugging"
+    args: ["/opt/swift-5.4.2-RELEASE-ubuntu20.04/usr/bin/swiftc","-modulewrap","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule","-o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule.o","-target","x86_64-unknown-linux-gnu"]
+
+  "<Simple-debug.exe>":
+    tool: phony
+    inputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple"]
+    outputs: ["<Simple-debug.exe>"]
+
+  "<Simple-debug.module>":
+    tool: phony
+    inputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule"]
+    outputs: ["<Simple-debug.module>"]
+
+  "C.Simple-debug.exe":
+    tool: shell
+    inputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"]
+    outputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple"]
+    description: "Linking ./.build/x86_64-unknown-linux-gnu/debug/Simple"
+    args: ["/opt/swift-5.4.2-RELEASE-ubuntu20.04/usr/bin/swiftc","-L","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug","-o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple","-module-name","Simple","-emit-executable","-Xlinker","-rpath=$ORIGIN","@/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.product/Objects.LinkFileList","-target","x86_64-unknown-linux-gnu","-I","/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug","-L","/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug","-lIgis","-I","/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug","-L","/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug","-lScenes","-I","/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug","-L","/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug","-lScenesAnimations","-I","/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug","-L","/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug","-lMerlinKarel","-L","/opt/swift-5.4.2-RELEASE-ubuntu20.04/usr/lib"]
+
+  "C.Simple-debug.module":
+    tool: swift-compiler
+    inputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/ActionPlan.swift","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/WorldPlanner.swift","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/main.swift"]
+    outputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule"]
+    executable: "/opt/swift-5.4.2-RELEASE-ubuntu20.04/usr/bin/swiftc"
+    module-name: "Simple"
+    module-output-path: "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule"
+    import-paths: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug"]
+    temps-path: "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build"
+    objects: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"]
+    other-args: ["-target","x86_64-unknown-linux-gnu","-swift-version","5","-enable-batch-mode","-index-store-path","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/index/store","-Onone","-enable-testing","-g","-j8","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/ModuleCache","-parseable-output","-I","/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug","-L","/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug","-lIgis","-I","/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug","-L","/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug","-lScenes","-I","/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug","-L","/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug","-lScenesAnimations","-I","/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug","-L","/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug","-lMerlinKarel"]
+    sources: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/ActionPlan.swift","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/WorldPlanner.swift","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/main.swift"]
+    is-library: false
+    enable-whole-module-optimization: false
+    num-threads: 8
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: ["/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/Package.swift","/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/Package.resolved"]
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+

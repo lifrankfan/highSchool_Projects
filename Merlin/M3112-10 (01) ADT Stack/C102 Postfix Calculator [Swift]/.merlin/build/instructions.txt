@@ -1,0 +1,8 @@
+1.  Create a file named "main.swift"
+2.  Read lines from standard input until EOF
+3.  Process each line as a token to an RPN calculator where each token
+    is either a positive integer or one of: +, -, *
+    Process the resultant expression from left to right
+4.  Print the evaluation of each operator and its two operands as <result>=<operand1><operator><operand2>
+5.  Print the final result
+

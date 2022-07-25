@@ -1,0 +1,14 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "printStringsAtEvenIndex" which:
+
+         - accepts a single parameter name "strings" of type array of strings
+
+     	 - returns the number of elements printed
+
+	 - prints each string located at an even index, in array order
+
+ 
+

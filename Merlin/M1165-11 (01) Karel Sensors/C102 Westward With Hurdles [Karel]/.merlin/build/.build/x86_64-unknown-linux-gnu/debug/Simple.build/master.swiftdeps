@@ -1,0 +1,7 @@
+version: "Swift version 5.3.2 (swift-5.3.2-RELEASE)"
+options: "2b605764f5c3b53c1cd391579484a0a0"
+build_time: [1619994356, 885248202]
+inputs:
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C102 Westward With Hurdles [Karel]/.merlin/build/ActionPlan.swift": [1619994356, 447985510]
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C102 Westward With Hurdles [Karel]/.merlin/build/WorldPlanner.swift": [1619994356, 395987700]
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C102 Westward With Hurdles [Karel]/.merlin/build/main.swift": [1619994356, 407987195]

@@ -1,0 +1,27 @@
+let i = -555
+var m = 197
+do {
+    let v = -409
+    let z = -466
+    var t = -205
+    do {
+        let s = 536
+        var c = 902
+        do {
+            let x = 470
+            let f = -436
+            var k = -514
+            print(c)
+            print(s)
+        }
+        print(i)
+        print(z)
+        print(c)
+    }
+    print(v)
+    print(z)
+    print(i)
+}
+print(i)
+print(i)
+print(m)

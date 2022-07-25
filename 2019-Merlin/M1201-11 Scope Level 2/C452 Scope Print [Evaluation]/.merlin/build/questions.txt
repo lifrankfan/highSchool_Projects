@@ -1,0 +1,40 @@
+let a = 166
+var w = -502
+func d() {
+    let x = -278
+    let n = 499
+    var c = -79
+    var a = -587
+    func t() {
+        let x = -583
+        var n = 242
+        do {
+            let q = 715
+            let x = -629
+            var e = 466
+            var c = -16
+            print(a)
+            print(e)
+            print(q)
+        }
+        do {
+            let a = 192
+            let v = -63
+            var d = -594
+            print(x)
+            print(d)
+        }
+        print(a)
+    }
+    t()
+    t()
+    t()
+    print(c)
+    print(a)
+    print(x)
+}
+d()
+d()
+d()
+print(a)
+print(w)

@@ -1,0 +1,11 @@
+1.  Edit the file named "main.swift"
+2.  Examine the structure and array defined in the file
+3.  Create a square field of size "fieldSize" where each cell is represented by a period (".")
+4.  Onto this field, add one or more squares in accordance with the array "squares"
+    Each square will be of size squareSize and offset from the top left corner by
+    leftOffset, topOffset.
+5.  In no case may the square depart from the field.  Any pixels of any square which
+    extend beyond the field should be ignored.
+6.  Each cell in a square should be represented by an asterisk ("*")
+7.  Print the result.
+

@@ -1,0 +1,42 @@
+let k = 241
+let b = -34
+var j = -415
+do {
+    let j = -350
+    var x = -686
+    do {
+        let g = -65
+        var f = -1000
+        do {
+            let j = -779
+            var w = 530
+            var h = -470
+            do {
+                let b = -706
+                let d = 233
+                var g = -929
+                var r = 620
+                print(r)
+                print(j)
+            }
+            do {
+                let j = -729
+                var u = -325
+                var i = 276
+                print(g)
+                print(h)
+                print(j)
+            }
+            print(j)
+            print(w)
+        }
+        print(j)
+        print(k)
+        print(k)
+    }
+    print(x)
+    print(j)
+}
+print(j)
+print(j)
+print(j)

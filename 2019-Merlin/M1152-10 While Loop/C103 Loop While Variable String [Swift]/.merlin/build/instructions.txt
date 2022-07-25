@@ -1,0 +1,5 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Add a while loop that executes through the limit specified by the constant upperLimit
+ 3.  Each time through the loop print "Flying through space at warp n" (where n is replaced by the count of iterations so far,
+     beginning with 1)
+ 

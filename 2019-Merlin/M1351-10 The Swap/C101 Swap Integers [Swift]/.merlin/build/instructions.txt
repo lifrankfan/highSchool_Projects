@@ -1,0 +1,9 @@
+1.  Edit the file named "main.swift"
+2.  Define a function named swap which accepts three parameters:
+    	   * A parameter named 'integers', a modifiable array of Int
+	   * A parameter named 'firstIndex', an Int
+	   * A parameter named 'secondIndex', an Int
+    The function must swap the values contained in the array at the index
+    specified by 'firstIndex' with the value contained in the array at the
+    index specified by 'secondIndex'
+

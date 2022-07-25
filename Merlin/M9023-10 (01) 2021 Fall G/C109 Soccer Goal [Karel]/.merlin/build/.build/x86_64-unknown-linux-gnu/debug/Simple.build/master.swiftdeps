@@ -1,0 +1,7 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "c6d53776f0cba26ef9230ed414899a51"
+build_time: [1635374301, 68905960]
+inputs:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C109 Soccer Goal [Karel]/.merlin/build/ActionPlan.swift": [1635374300, 689808294]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C109 Soccer Goal [Karel]/.merlin/build/WorldPlanner.swift": [1635374300, 653810130]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C109 Soccer Goal [Karel]/.merlin/build/main.swift": [1635374300, 661809721]

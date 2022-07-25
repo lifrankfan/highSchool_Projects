@@ -1,0 +1,45 @@
+let v = 300
+let j = 163
+var k = -376
+var a = 389
+k = -590
+func d() {
+    let v = 285
+    var k = 827
+    var z = 600
+    func c() {
+        let c = 838
+        let q = 20
+        var j = 21
+        var i = -756
+        a = -1000
+        i = 61
+        func p() {
+            let x = 514
+            let n = 386
+            var q = -953
+            var z = -779
+            print(x)
+            print(q)
+            print(n)
+        }
+        p()
+        p()
+        print(j)
+        print(q)
+        print(i)
+    }
+    k = 156
+    c()
+    c()
+    print(z)
+    print(v)
+}
+a = -866
+a = 746
+d()
+d()
+d()
+print(j)
+print(k)
+print(j)

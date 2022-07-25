@@ -1,0 +1,29 @@
+let b = -623
+let h = -379
+var k = -614
+k = 899
+func c() {
+    let s = -556
+    let b = -97
+    var u = 236
+    u = -58
+    print(b)
+    print(k)
+}
+do {
+    let w = 375
+    let k = -757
+    let j = 664
+    var a = 385
+    var f = -421
+    a = -639
+    a = -45
+    f = -643
+    print(j)
+    print(k)
+}
+k = -772
+k = -189
+c()
+c()
+print(b)

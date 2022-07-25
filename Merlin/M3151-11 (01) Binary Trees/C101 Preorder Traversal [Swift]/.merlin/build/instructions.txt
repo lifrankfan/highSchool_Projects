@@ -1,0 +1,38 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1. Edit a file named "main.swift"
+ 2. Create a class Node implementing a binary tree with a "value" property of type string
+
+ 3. Add a default initializer which initializes the value to an empty string
+
+ 4. Add an initializer with a single argument labeled "value" and set the value accordingly
+
+ 5. Add two functions to set the child nodes:
+
+    add(leftChild:Node) and add(rightChild:Node)
+
+ 6. Add a function "preorder" that generates an ordered array of nodes traversed in "preorder"
+
+ 7. Add a static function named "nodeValues" that accepts a single argument, "_ nodes:[Node]"
+
+    and returns an array of String containing the corresponding values of each node in the
+
+    input array, preserving ordering
+
+    
+
+    
+
+ 
+
+ 
+
+ 
+
+     
+
+      
+
+ 
+

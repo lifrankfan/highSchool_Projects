@@ -1,0 +1,9 @@
+1. Edit a file named "main.swift"
+2. Implement functions on the Real struct with the following signatures which implement the expected behavior:
+     add(_ other:Real) -> Real
+     subtract(_ other:Real) -> Real
+     multiply(_ other:Real) -> Real
+     divide(_ other:Real) -> Real
+
+
+   

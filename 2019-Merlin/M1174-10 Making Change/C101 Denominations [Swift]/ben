@@ -1,0 +1,121 @@
+func digit(character:Character) -> Int? {
+    var number : Int?
+    
+    switch character {
+    case "0":
+        number = 0
+    case "1":
+        number = 1
+    case "2":
+        number = 2
+    case "3":
+        number = 3
+    case "4":
+        number = 4
+    case "5":
+        number = 5
+    case "6":
+        number = 6
+    case "7":
+        number = 7
+    case "8":
+        number = 8
+    case "9":
+        number = 9
+    default:
+        number = nil
+    }
+    
+    return number
+}
+
+func number(string:String) -> Int {
+    var n = 0
+    for character in string {
+        let digitValue = digit(character:character)
+        if digitValue != nil {
+            n *= 10
+            n += digitValue!
+        }
+    }
+    return n
+}
+
+func printBill(dollars:Int, billValue:Int) -> Int {
+    var billCount = 0
+    var remainingDollars = dollars
+
+    while remainingDollars >= billValue {
+        billCount += 1
+        remainingDollars -= billValue
+    }
+
+    let printString = "\(billCount) x $\(billValue) bill"
+    print(printString)
+
+    return billCount
+}
+    
+func printBills(dollars:Int) -> Int {
+    var totalBillsIssued = 0
+    var remainingDollars = dollars
+
+    let hundredsValue = 100
+    let hundredsIssued = printBill(dollars:remainingDollars, billValue:hundredsValue)
+    totalBillsIssued += hundredsIssued
+    remainingDollars -= hundredsIssued * hundredsIssued
+
+    let fiftiesValue = 50
+    let fiftiesIssued = printBill(dollars:remainingDollars, billValue:fiftiesValue)
+    totalBillsIssued += fiftiesIssued
+    remainingDollars -= fiftiesIssued * fiftiesIssued
+
+    
+    let twentiesValue = 50
+    let twentiesIssued = printBill(dollars:remainingDollars, billValue:twentiesValue)
+    totalBillsIssued += twentiesIssued
+    remainingDollars -= twentiesIssued * twentiesIssued
+
+    
+    let tensValue = 50
+    let tensIssued = printBill(dollars:remainingDollars, billValue:tensValue)
+    totalBillsIssued += tensIssued
+    remainingDollars -= tensIssued * tensIssued
+
+    let fivesValue = 50
+    let fivesIssued = printBill(dollars:remainingDollars, billValue:fivesValue)
+    totalBillsIssued += fivesIssued
+    remainingDollars -= fivesIssued * fivesIssued
+
+
+    let twosValue = 50
+    let twosIssued = printBill(dollars:remainingDollars, billValue:twosValue)
+    totalBillsIssued += twosIssued
+    remainingDollars -= twosIssued * twosIssued
+
+    
+    let onesValue = 50
+    let onesIssued = printBill(dollars:remainingDollars, billValue:onesValue)
+    totalBillsIssued += onesIssued
+    remainingDollars -= onesIssued * onesIssued
+}
+
+
+
+func currencyString(dollars:Int, cents:Int) -> String {
+    let dollarsString = "$\(dollars)"
+    var centsString = "\(cents)"
+    if centsString.count < 2 {
+        centsString = "0" + centsString
+    }
+}
+
+func printDenominations(forSum:String) {
+    let totalCents = number(string:forSum)
+    let dollars = totalCents / 100
+    let cents = totalCents % 100
+    let originalSum = "Original sum: \(currencyString(dollars:dollars, cents:cents))"
+    print (originalSum)
+
+    let billsPrinted = printBills(dollars:dollars)
+}

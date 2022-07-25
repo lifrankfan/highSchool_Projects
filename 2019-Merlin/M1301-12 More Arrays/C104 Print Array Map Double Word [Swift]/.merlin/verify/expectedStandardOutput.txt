@@ -1,0 +1,2 @@
+["partner", "burning", "hand", "cough", "out", "healer"]
+["partnerpartner", "burningburning", "handhand", "coughcough", "outout", "healerhealer"]

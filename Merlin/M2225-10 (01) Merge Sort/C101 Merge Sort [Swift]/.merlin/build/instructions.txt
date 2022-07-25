@@ -1,0 +1,8 @@
+1.  Edit the file named "main.swift"
+2.  Within this file, write a program which will sort the array of integers
+    using Merge Sort.
+3.  The output should be as follows, demonstrating the progressive division and merge
+    of each step in the sort.
+    Array: [<contents_of_array>]
+
+

@@ -1,0 +1,29 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "printEvenAfterOddIntegers" which:
+
+         - accepts a single parameter named "integers" of type array of integers
+
+     	 - in array order, prints each even element which occurs after an odd element
+
+	 - returns the number of integers printed
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

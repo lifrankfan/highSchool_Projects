@@ -1,0 +1,11 @@
+Original sum: $195.59
+1 x $100 bill
+1 x $50 bill
+2 x $20 bills
+1 x $5 bill
+1 x half-dollar coin
+1 x nickel
+4 x pennies
+
+Bills: 5
+Coins: 6

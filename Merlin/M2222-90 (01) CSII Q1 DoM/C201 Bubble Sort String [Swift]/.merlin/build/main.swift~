@@ -1,0 +1,27 @@
+
+
+// ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩
+// DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
+let unsortedStrings = ["senior", "hold", "laws", "repealed", "victory"]
+// DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
+// ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧
+
+
+// Add your code below:
+var array = unsortedStrings
+func swap(strings:inout[String], firstIndex:Int, secondIndex:Int) {
+    let fI = strings[firstIndex]
+    strings.remove(at:firstIndex)
+    strings.insert(strings[secondIndex], at:firstIndex)
+    strings.remove(at:secondIndex)
+    strings.insert(fI,at:secondIndex)
+}
+
+
+for pass in 0 ..< array.count - 1 {
+    for index in pass ..< array.count - 1{
+        if array[index] > array[index+1] {
+            swap(strings:&array,firstIndex:index,secondIndex:index+1)
+        }      
+    }
+}

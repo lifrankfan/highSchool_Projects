@@ -1,0 +1,29 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "printOddIntegers" which:
+
+         - accepts a single parameter named "integers" of type array of integers
+
+     	 - returns the number of odd elements in the array
+
+	 - prints each odd element, in order, on a separate line
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

@@ -1,0 +1,40 @@
+let a = 511
+var f = 821
+func m() {
+    let d = -605
+    var h = -165
+    var z = -909
+    func u(v:Int, k:Int) {
+        let v = 369
+        var q = 63
+        var m = 507
+        func c(s:Int) {
+            let k = 201
+            var w = -672
+            func x(r:Int) {
+                let b = -864
+                let a = -810
+                var j = 847
+                print(a)
+                print(j)
+            }
+            x(r:d)
+            x(r:k)
+            print(k)
+            print(w)
+        }
+        c(s:q)
+        c(s:q)
+        c(s:-155)
+        print(h)
+        print(m)
+    }
+    u(v:d, k:f)
+    print(a)
+    print(h)
+    print(d)
+}
+m()
+m()
+print(a)
+print(f)

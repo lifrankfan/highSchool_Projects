@@ -1,0 +1,16 @@
+let j = -591
+let k = 241
+let y = -91
+do {
+    let c = -495
+    let x = 961
+    print(c)
+    print(x)
+}
+do {
+    let i = 713
+    let m = -854
+    print(m)
+}
+print(k)
+print(k)

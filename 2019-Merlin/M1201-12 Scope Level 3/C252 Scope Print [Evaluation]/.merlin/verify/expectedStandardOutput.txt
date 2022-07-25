@@ -1,0 +1,3 @@
+String = -150
+String = 142
+String = 578

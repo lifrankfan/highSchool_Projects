@@ -1,0 +1,28 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "average" which accepts a single parameter named "scores"
+
+     of type array of integer.  The array will contain at least one score.
+
+ 3.  The function must return the average of the scores.
+
+     
+
+     
+
+     
+
+     
+
+     
+
+      
+
+     
+
+      
+
+ 
+

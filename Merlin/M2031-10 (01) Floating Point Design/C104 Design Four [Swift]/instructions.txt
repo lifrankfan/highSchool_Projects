@@ -1,0 +1,3 @@
+1. Edit a file named "main.swift"
+2. Implement the CustomStringConvertible protocol on the Real struct which produces a Double in standard format
+

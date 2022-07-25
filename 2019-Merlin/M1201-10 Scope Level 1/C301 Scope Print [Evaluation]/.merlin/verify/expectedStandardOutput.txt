@@ -1,0 +1,3 @@
+String = 826
+String = -922
+String = 353

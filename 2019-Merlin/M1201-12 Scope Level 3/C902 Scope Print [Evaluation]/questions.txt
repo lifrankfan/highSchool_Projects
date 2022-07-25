@@ -1,0 +1,66 @@
+let t = -562
+var x = 322
+do {
+    let d = -905
+    var h = -569
+    var y = -410
+    do {
+        let x = -840
+        let w = -926
+        var p = 651
+        do {
+            let m = -581
+            var g = 419
+            do {
+                let d = 685
+                let z = -274
+                var q = 143
+                var j = 310
+                print(d)
+                print(m)
+            }
+            do {
+                let y = 616
+                let d = -809
+                var p = -574
+                print(y)
+                print(d)
+                print(d)
+            }
+            print(t)
+            print(g)
+            print(x)
+        }
+        do {
+            let e = 704
+            var y = 699
+            var t = -809
+            do {
+                let x = -58
+                let p = -363
+                var d = 300
+                var y = 183
+                print(y)
+                print(t)
+            }
+            do {
+                let w = 846
+                var q = -529
+                var p = 255
+                print(q)
+                print(y)
+                print(d)
+            }
+            print(e)
+            print(e)
+            print(d)
+        }
+        print(p)
+        print(d)
+    }
+    print(x)
+    print(t)
+}
+print(t)
+print(t)
+print(t)

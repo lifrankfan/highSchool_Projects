@@ -1,0 +1,18 @@
+let p = -966
+let k = -249
+do {
+    let c = -516
+    let y = -601
+    print(y)
+    print(k)
+}
+func w() {
+    let q = -373
+    let m = -943
+    let n = 12
+    print(m)
+}
+w()
+w()
+print(k)
+print(p)

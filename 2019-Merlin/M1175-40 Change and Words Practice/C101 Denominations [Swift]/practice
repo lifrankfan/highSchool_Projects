@@ -1,0 +1,5 @@
+func digit(character:Character) -> Int? {
+     var number : Int?
+
+     switch "0":
+     	    

@@ -1,0 +1,9 @@
+let numbers = [12, 16, -19]
+
+func multiplyBy2(_ n: Int) -> Int {
+return n*2
+}
+
+let numbers2 = numbers.map {multiplyBy2($0)}
+
+print(numbers2)

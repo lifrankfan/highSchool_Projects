@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/ActionPlan.swift": {
+    "dependencies": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.d",
+    "object": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/WorldPlanner.swift": {
+    "dependencies": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.d",
+    "object": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/main.swift": {
+    "dependencies": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

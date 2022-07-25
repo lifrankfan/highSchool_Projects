@@ -1,0 +1,36 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "printIntegersAndIndex" which:
+
+         - accepts a single parameter name "integers" of type array of integers
+
+     	 - returns the number of elements in the array
+
+	 - in array order, prints each index surrounded by brackets, an arrow (->), the element,
+
+	   and then " is odd" iff the element is odd, otherwise " is even"
+
+	   Each element should be on a separate line.
+
+	   
+
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

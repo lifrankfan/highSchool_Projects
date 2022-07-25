@@ -1,0 +1,2 @@
+1. Edit a file named "main.swift"
+2. Add an initializer to the Real struct with signature: init(_ n:Int)

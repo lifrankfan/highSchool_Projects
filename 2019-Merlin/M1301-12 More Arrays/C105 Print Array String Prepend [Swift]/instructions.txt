@@ -1,0 +1,33 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "prependPrevious" which:
+
+      - accepts one parameter
+
+         - the sole parameter is "words" of type array of String
+
+      - forms a new array by prepending each string after the first with
+
+	with the prior string
+
+      - returns an array containing the new values
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

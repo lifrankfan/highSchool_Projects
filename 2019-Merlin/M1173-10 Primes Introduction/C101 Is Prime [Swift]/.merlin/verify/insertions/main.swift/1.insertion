@@ -1,0 +1,2 @@
+let n = 4801
+print(n, isPrime(n:n))

@@ -1,0 +1,2 @@
+print(numberAsWord(number:7))
+print(numberAsWord(number:6))

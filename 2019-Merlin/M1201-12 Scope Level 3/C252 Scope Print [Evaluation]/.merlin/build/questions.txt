@@ -1,0 +1,10 @@
+let v = 288
+let b = 578
+do {
+    let j = -150
+    let x = 142
+    let s = -298
+    print(j)
+    print(x)
+}
+print(b)

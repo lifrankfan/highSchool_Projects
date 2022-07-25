@@ -1,0 +1,40 @@
+let e = -374
+let j = -570
+var i = -244
+do {
+    let w = 234
+    let x = -315
+    var h = 915
+    do {
+        let j = -349
+        var v = -316
+        do {
+            let i = -71
+            var p = 704
+            var d = 876
+            do {
+                let u = -269
+                var r = -802
+                var k = -10
+                print(j)
+                print(i)
+                print(i)
+            }
+            do {
+                let k = -713
+                var n = -296
+                print(n)
+                print(n)
+                print(n)
+            }
+            print(i)
+            print(i)
+        }
+        print(i)
+        print(h)
+    }
+    print(e)
+    print(e)
+}
+print(i)
+print(i)

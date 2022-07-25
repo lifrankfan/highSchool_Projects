@@ -1,0 +1,15 @@
+let C = Node(value:"root")
+let CLC = Node(value:"oranges")
+let CLCRC = Node(value:"argue")
+let CLCRCLC = Node(value:"sick")
+let CLCRCLCRC = Node(value:"funny")
+CLCRCLC.add(rightChild:CLCRCLCRC)
+CLCRC.add(leftChild:CLCRCLC)
+let CLCRCRC = Node(value:"worried")
+CLCRC.add(rightChild:CLCRCRC)
+CLC.add(rightChild:CLCRC)
+C.add(leftChild:CLC)
+let values = Node.nodeValues(C.depthorder())
+for value in values {
+	print(value)
+}

@@ -1,0 +1,16 @@
+calm
+potato
+calm{potato}
+calm{potato{copper, plan}}
+enchanting
+calm{enchanting, potato{copper, plan}}
+calm{enchanting{base, erect}, potato{copper, plan}}
+delicate
+calm{delicate, enchanting{base, erect}, potato{copper, plan}}
+calm{delicate{race}, enchanting{base, erect}, potato{copper, plan}}
+waste
+calm{delicate{race}, enchanting{base, erect}, potato{copper, plan}, waste}
+calm{delicate{race}, enchanting{base, erect}, potato{copper, plan}, waste{reward}}
+rod
+calm{delicate{race}, enchanting{base, erect}, potato{copper, plan}, rod, waste{reward}}
+calm{delicate{race}, enchanting{base, erect}, potato{copper, plan}, rod{observe}, waste{reward}}

@@ -1,0 +1,5 @@
+1.  Edit the file "main.prolog"
+*.  Prolog requires a bit more "scaffolding" than Swift, but all required
+    lines are already included for you.
+*.  Note the "halt." as the final statement.
+2.  Identify the line to be modified so that "Hello, World!" is printed to the console

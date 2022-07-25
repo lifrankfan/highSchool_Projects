@@ -1,0 +1,17 @@
+1. Refer to the table W1014-Annex-1. Which symbol represents a two-output demultiplexer?
+
+2. Refer to the table W1014-Annex-1. Which symbol represents an XOR gate?
+
+3. Refer to the table W1014-Annex-1.  Which symbol represents an AND gate?
+
+4. Refer to the table W1014-Annex-1. Which symbol represents a NOR gate?
+
+5. Refer to the table W1014-Annex-1. Which symbol represents a two-input multiplexer?
+
+6. Refer to the table W1014-Annex-1. Which symbol represents an OR gate?
+
+7. Refer to the table W1014-Annex-1. Which symbol represents a NAND gate?
+
+8. Refer to the table W1014-Annex-1. Which symbol represents a NOT gate?
+
+9. Refer to the table W1014-Annex-1. Which symbol represents a NXOR gate?

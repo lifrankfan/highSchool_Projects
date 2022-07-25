@@ -1,0 +1,7 @@
+version: "Swift version 5.3.2 (swift-5.3.2-RELEASE)"
+options: "5148e22930d047c986637fe41ede0c4d"
+build_time: [1619920340, 808116724]
+inputs:
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/ActionPlan.swift": [1619920329, 318789576]
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/WorldPlanner.swift": [1619920329, 238793032]
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/main.swift": [1619920329, 258792168]

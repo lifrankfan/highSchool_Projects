@@ -1,0 +1,4 @@
+1.  Edit the file "main.pl"
+*.  Note that for the purposes of this challenge, Perl syntax is similar to Swift.
+    However, also note the lack of parentheses.
+2.  Identify the line to be modified so that "Hello, World!" is printed to the console

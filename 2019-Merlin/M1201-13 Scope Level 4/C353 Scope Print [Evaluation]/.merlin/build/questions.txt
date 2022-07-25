@@ -1,0 +1,71 @@
+let i = -920
+let a = -962
+let g = 874
+var t = 454
+var j = -179
+j = -210
+do {
+    let q = -315
+    let b = -304
+    let h = 573
+    var z = -266
+    var i = -750
+    z = 771
+    do {
+        let p = 438
+        let j = 11
+        let u = 171
+        var f = 118
+        var r = 112
+        t = 927
+        print(j)
+        print(r)
+    }
+    do {
+        let u = -890
+        let r = -622
+        var a = -624
+        var e = -31
+        j = -602
+        e = -460
+        j = 279
+        print(g)
+        print(j)
+    }
+    j = -648
+    t = -365
+    print(g)
+    print(q)
+    print(q)
+}
+do {
+    let z = 626
+    let h = 895
+    let p = 305
+    var d = -722
+    j = 340
+    j = -600
+    do {
+        let s = -857
+        let b = -669
+        let v = 908
+        var x = 424
+        var a = 985
+        d = 193
+        x = -288
+        d = 207
+        print(g)
+        print(a)
+        print(x)
+    }
+    d = -628
+    d = -488
+    print(z)
+    print(p)
+    print(t)
+}
+t = 438
+t = 795
+print(g)
+print(a)
+print(t)

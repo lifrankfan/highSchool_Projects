@@ -1,0 +1,132 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ActionPlan"
+provides-nominal:
+- "6Simple10ActionPlanC"
+provides-member:
+- ["6Simple10ActionPlanC", ""]
+depends-top-level:
+- !private "!="
+- !private "+="
+- !private "-="
+- !private "..."
+- !private "=="
+- "ActionPlan"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "KarelExecutor"
+- !private "anyBeepersInBag"
+- !private "drop"
+- !private "isBeeperHere"
+- !private "isFrontClear"
+- !private "isLeftClear"
+- !private "isRightClear"
+- !private "move"
+- !private "pickUp"
+- !private "pickUpBeeper"
+- !private "print"
+- !private "putDownBeeper"
+- !private "scaleBack"
+- !private "scaleWall"
+- !private "totalBeeps"
+- !private "turnAround"
+- !private "turnLeft"
+- !private "turnRight"
+- !private "wall"
+depends-member:
+- !private ["6Simple10ActionPlanC", "anyBeepersInBag"]
+- ["6Simple10ActionPlanC", "deinit"]
+- ["6Simple10ActionPlanC", "drop"]
+- ["6Simple10ActionPlanC", "init"]
+- !private ["6Simple10ActionPlanC", "isBeeperHere"]
+- !private ["6Simple10ActionPlanC", "isFrontClear"]
+- !private ["6Simple10ActionPlanC", "isLeftClear"]
+- !private ["6Simple10ActionPlanC", "isRightClear"]
+- !private ["6Simple10ActionPlanC", "move"]
+- ["6Simple10ActionPlanC", "moveUntilBlock"]
+- ["6Simple10ActionPlanC", "pickUp"]
+- !private ["6Simple10ActionPlanC", "pickUpBeeper"]
+- !private ["6Simple10ActionPlanC", "print"]
+- !private ["6Simple10ActionPlanC", "putDownBeeper"]
+- ["6Simple10ActionPlanC", "run"]
+- ["6Simple10ActionPlanC", "scaleBack"]
+- ["6Simple10ActionPlanC", "scaleWall"]
+- ["6Simple10ActionPlanC", "totalBeeps"]
+- ["6Simple10ActionPlanC", "turnAround"]
+- !private ["6Simple10ActionPlanC", "turnLeft"]
+- ["6Simple10ActionPlanC", "turnRight"]
+- ["6Simple10ActionPlanC", "wall"]
+- !private ["SL", ""]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["SQ", ""]
+- !private ["SH", ""]
+- ["11MerlinKarel0B8ExecutorC", ""]
+- !private ["11MerlinKarel0B8ExecutorC", "anyBeepersInBag"]
+- ["11MerlinKarel0B8ExecutorC", "drop"]
+- ["11MerlinKarel0B8ExecutorC", "init"]
+- !private ["11MerlinKarel0B8ExecutorC", "isBeeperHere"]
+- !private ["11MerlinKarel0B8ExecutorC", "isFrontClear"]
+- !private ["11MerlinKarel0B8ExecutorC", "isLeftClear"]
+- !private ["11MerlinKarel0B8ExecutorC", "isRightClear"]
+- !private ["11MerlinKarel0B8ExecutorC", "move"]
+- ["11MerlinKarel0B8ExecutorC", "moveUntilBlock"]
+- ["11MerlinKarel0B8ExecutorC", "pickUp"]
+- !private ["11MerlinKarel0B8ExecutorC", "pickUpBeeper"]
+- !private ["11MerlinKarel0B8ExecutorC", "print"]
+- !private ["11MerlinKarel0B8ExecutorC", "putDownBeeper"]
+- ["11MerlinKarel0B8ExecutorC", "run"]
+- ["11MerlinKarel0B8ExecutorC", "scaleBack"]
+- ["11MerlinKarel0B8ExecutorC", "scaleWall"]
+- ["11MerlinKarel0B8ExecutorC", "totalBeeps"]
+- ["11MerlinKarel0B8ExecutorC", "turnAround"]
+- !private ["11MerlinKarel0B8ExecutorC", "turnLeft"]
+- ["11MerlinKarel0B8ExecutorC", "turnRight"]
+- ["11MerlinKarel0B8ExecutorC", "wall"]
+- !private ["Sj", ""]
+- !private ["ST", "Element"]
+- !private ["ST", "Iterator"]
+- !private ["ST", "makeIterator"]
+- !private ["Sx", ""]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+depends-nominal:
+- "6Simple10ActionPlanC"
+- !private "SL"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "SH"
+- "11MerlinKarel0B8ExecutorC"
+- !private "Sj"
+- !private "ST"
+- !private "Sx"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIOHTTP1.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIO.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug/MerlinKarel.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug/Scenes.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/Igis.swiftmodule"
+- "/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug/ScenesAnimations.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/NIOWebSocket.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOSHA1.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIODarwin.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOHTTPParser.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOAtomics.build/module.modulemap"
+- "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "15b102ac7bd5978fda78699f69d1e860"

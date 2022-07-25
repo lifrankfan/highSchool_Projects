@@ -1,0 +1,52 @@
+let q = 515
+var s = 462
+do {
+    let w = -219
+    var r = -461
+    var n = 139
+    do {
+        let y = -161
+        var a = 340
+        do {
+            let w = -195
+            let z = -485
+            var q = 159
+            do {
+                let s = -78
+                var r = 140
+                var v = -795
+                print(w)
+                print(s)
+            }
+            print(a)
+            print(y)
+        }
+        do {
+            let c = 44
+            var m = 233
+            var q = -418
+            do {
+                let z = 451
+                var f = -302
+                print(c)
+                print(y)
+                print(c)
+            }
+            do {
+                let r = -776
+                var c = -530
+                print(a)
+                print(w)
+            }
+            print(c)
+            print(q)
+        }
+        print(a)
+        print(n)
+    }
+    print(n)
+    print(w)
+}
+print(s)
+print(q)
+print(s)

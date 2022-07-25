@@ -1,0 +1,14 @@
+String = -622
+String = -942
+String = 601
+String = -125
+String = -810
+String = 855
+String = 855
+String = 855
+String = 360
+String = -351
+String = -557
+String = -351
+String = -351
+String = -946

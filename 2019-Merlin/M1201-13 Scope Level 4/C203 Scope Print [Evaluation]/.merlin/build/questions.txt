@@ -1,0 +1,28 @@
+let z = 475
+let r = -333
+var e = -349
+var d = -64
+e = 853
+d = -683
+do {
+    let u = -752
+    let e = 113
+    var n = 617
+    n = 504
+    n = 369
+    n = 209
+    print(n)
+}
+func c() {
+    let p = 0
+    let c = -113
+    var b = -334
+    var j = 461
+    j = 130
+    b = -69
+    print(p)
+    print(j)
+}
+e = -130
+print(z)
+print(r)

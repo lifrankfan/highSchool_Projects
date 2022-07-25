@@ -1,0 +1,18 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1. Edit a file named "main.swift"
+ 2. Support the protocol CustomStringConvertible
+
+    a. If a node does not contain children, return the value of the current node
+
+    b. If the node does have children, return the value of the current node, then, within braces, return a comma-space-delimited list of child nodes
+
+ 
+
+     
+
+      
+
+ 
+

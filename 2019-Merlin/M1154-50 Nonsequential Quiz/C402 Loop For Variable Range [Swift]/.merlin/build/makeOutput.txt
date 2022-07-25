@@ -1,0 +1,79 @@
+(source_file "main.swift"
+  (top_level_code_decl range=[main.swift:3:1 - line:3:24]
+    (brace_stmt implicit range=[main.swift:3:1 - line:3:24]
+      (pattern_binding_decl range=[main.swift:3:1 - line:3:24]
+        (pattern_typed type='Int'
+          (pattern_named type='Int' 'lowerLimit')
+          (type_ident
+            (component id='Int' bind=Swift.(file).Int)))
+        (call_expr implicit type='Int' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] nothrow arg_labels=_builtinIntegerLiteral:
+          (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] nothrow
+            (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+            (type_expr implicit type='Int.Type' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] typerepr='Int'))
+          (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] names=_builtinIntegerLiteral
+            (integer_literal_expr type='Builtin.IntLiteral' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] value=15))))
+))
+  (var_decl range=[main.swift:3:5 - line:3:5] "lowerLimit" type='Int' interface type='Int' access=internal let readImpl=stored immutable)
+  (top_level_code_decl range=[main.swift:4:1 - line:4:24]
+    (brace_stmt implicit range=[main.swift:4:1 - line:4:24]
+      (pattern_binding_decl range=[main.swift:4:1 - line:4:24]
+        (pattern_typed type='Int'
+          (pattern_named type='Int' 'upperLimit')
+          (type_ident
+            (component id='Int' bind=Swift.(file).Int)))
+        (call_expr implicit type='Int' location=main.swift:4:24 range=[main.swift:4:24 - line:4:24] nothrow arg_labels=_builtinIntegerLiteral:
+          (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' location=main.swift:4:24 range=[main.swift:4:24 - line:4:24] nothrow
+            (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' location=main.swift:4:24 range=[main.swift:4:24 - line:4:24] decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+            (type_expr implicit type='Int.Type' location=main.swift:4:24 range=[main.swift:4:24 - line:4:24] typerepr='Int'))
+          (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' location=main.swift:4:24 range=[main.swift:4:24 - line:4:24] names=_builtinIntegerLiteral
+            (integer_literal_expr type='Builtin.IntLiteral' location=main.swift:4:24 range=[main.swift:4:24 - line:4:24] value=21))))
+))
+  (var_decl range=[main.swift:4:5 - line:4:5] "upperLimit" type='Int' interface type='Int' access=internal let readImpl=stored immutable)
+  (top_level_code_decl range=[main.swift:8:1 - line:10:1]
+    (brace_stmt range=[main.swift:8:1 - line:10:1]
+      (for_each_stmt range=[main.swift:8:1 - line:10:1]
+        (pattern_named type='Int' 'x')
+        (pattern_named type='Int' 'x')
+        (call_expr type='StrideTo<Int>' location=main.swift:8:10 range=[main.swift:8:10 - line:8:55] nothrow arg_labels=from:to:by:
+          (declref_expr type='(Int, Int, Int) -> StrideTo<Int>' location=main.swift:8:10 range=[main.swift:8:10 - line:8:10] decl=Swift.(file).stride(from:to:by:) [with (substitution_map generic_signature=<T where T : Strideable> (substitution T -> Int))] function_ref=single)
+          (tuple_expr type='(from: Int, to: Int, by: Int)' location=main.swift:8:16 range=[main.swift:8:16 - line:8:55] names=from,to,by
+            (declref_expr type='Int' location=main.swift:8:23 range=[main.swift:8:23 - line:8:23] decl=main.(file).lowerLimit@main.swift:3:5 function_ref=unapplied)
+            (declref_expr type='Int' location=main.swift:8:39 range=[main.swift:8:39 - line:8:39] decl=main.(file).upperLimit@main.swift:4:5 function_ref=unapplied)
+            (call_expr implicit type='Int' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] nothrow arg_labels=_builtinIntegerLiteral:
+              (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] nothrow
+                (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+                (type_expr implicit type='Int.Type' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] typerepr='Int'))
+              (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] names=_builtinIntegerLiteral
+                (integer_literal_expr type='Builtin.IntLiteral' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] value=1)))))
+        (pattern_binding_decl implicit range=[main.swift:8:1 - line:8:55]
+          (pattern_named implicit '$x$generator')
+          (call_expr implicit type='StrideToIterator<Int>' location=main.swift:8:10 range=[main.swift:8:10 - line:8:55] nothrow arg_labels=
+            (dot_syntax_call_expr implicit type='() -> StrideToIterator<Int>' location=main.swift:8:10 range=[main.swift:8:10 - line:8:55] nothrow
+              (declref_expr implicit type='(__owned StrideTo<Int>) -> () -> StrideToIterator<Int>' location=main.swift:8:55 range=[main.swift:8:55 - line:8:55] decl=Swift.(file).StrideTo extension.makeIterator() [with (substitution_map generic_signature=<Element where Element : Strideable> (substitution Element -> Int))] function_ref=single)
+              (paren_expr implicit type='(__owned StrideTo<Int>)' location=main.swift:8:10 range=[main.swift:8:10 - line:8:55]
+                (call_expr type='StrideTo<Int>' location=main.swift:8:10 range=[main.swift:8:10 - line:8:55] nothrow arg_labels=from:to:by:
+                  (declref_expr type='(Int, Int, Int) -> StrideTo<Int>' location=main.swift:8:10 range=[main.swift:8:10 - line:8:10] decl=Swift.(file).stride(from:to:by:) [with (substitution_map generic_signature=<T where T : Strideable> (substitution T -> Int))] function_ref=single)
+                  (tuple_expr type='(from: Int, to: Int, by: Int)' location=main.swift:8:16 range=[main.swift:8:16 - line:8:55] names=from,to,by
+                    (declref_expr type='Int' location=main.swift:8:23 range=[main.swift:8:23 - line:8:23] decl=main.(file).lowerLimit@main.swift:3:5 function_ref=unapplied)
+                    (declref_expr type='Int' location=main.swift:8:39 range=[main.swift:8:39 - line:8:39] decl=main.(file).upperLimit@main.swift:4:5 function_ref=unapplied)
+                    (call_expr implicit type='Int' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] nothrow arg_labels=_builtinIntegerLiteral:
+                      (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] nothrow
+                        (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+                        (type_expr implicit type='Int.Type' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] typerepr='Int'))
+                      (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] names=_builtinIntegerLiteral
+                        (integer_literal_expr type='Builtin.IntLiteral' location=main.swift:8:54 range=[main.swift:8:54 - line:8:54] value=1)))))))
+            (tuple_expr implicit type='()' location=main.swift:8:10 range=[main.swift:8:10 - line:8:55])))
+
+        (call_expr implicit type='Int?' location=main.swift:8:7 range=[main.swift:8:7 - line:8:7] nothrow arg_labels=
+          (dot_syntax_call_expr implicit type='() -> Int?' location=main.swift:8:7 range=[main.swift:8:7 - line:8:7] nothrow
+            (declref_expr implicit type='(inout StrideToIterator<Int>) -> () -> Int?' location=main.swift:8:7 range=[main.swift:8:7 - line:8:7] decl=Swift.(file).StrideToIterator extension.next() [with (substitution_map generic_signature=<Element where Element : Strideable> (substitution Element -> Int))] function_ref=single)
+            (inout_expr implicit type='inout StrideToIterator<Int>' location=main.swift:8:7 range=[main.swift:8:7 - line:8:7]
+              (declref_expr implicit type='@lvalue StrideToIterator<Int>' location=main.swift:8:7 range=[main.swift:8:7 - line:8:7] decl=main.(file).top-level code.$x$generator@main.swift:8:7 function_ref=unapplied)))
+          (tuple_expr implicit type='()' location=main.swift:8:7 range=[main.swift:8:7 - line:8:7]))
+        (brace_stmt range=[main.swift:8:56 - line:10:1]
+          (call_expr type='()' location=main.swift:9:5 range=[main.swift:9:5 - line:9:12] nothrow arg_labels=_:
+            (declref_expr type='(Any..., String, String) -> ()' location=main.swift:9:5 range=[main.swift:9:5 - line:9:5] decl=Swift.(file).print(_:separator:terminator:) function_ref=single)
+            (tuple_shuffle_expr implicit type='(Any..., separator: String, terminator: String)' location=main.swift:9:11 range=[main.swift:9:10 - line:9:12] scalar_to_tuple elements=[-2, -1, -1] variadic_sources=[0] default_args_owner=Swift.(file).print(_:separator:terminator:)
+              (paren_expr type='(Any)' location=main.swift:9:11 range=[main.swift:9:10 - line:9:12]
+                (erasure_expr implicit type='Any' location=main.swift:9:11 range=[main.swift:9:11 - line:9:11]
+                  (declref_expr type='Int' location=main.swift:9:11 range=[main.swift:9:11 - line:9:11] decl=main.(file).top-level code.x@main.swift:8:5 function_ref=unapplied))))))))))

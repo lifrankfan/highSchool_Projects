@@ -1,0 +1,6 @@
+1. Edit a file named "main.swift"
+2. Implement the operators on the Real struct with the following signatures which implement the expected behavior:
+   +, -, *, /
+
+
+   

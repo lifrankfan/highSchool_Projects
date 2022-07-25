@@ -1,0 +1,34 @@
+var ops : [String] = ["0"]
+var nums : [Int] = [0]
+
+func main() {
+
+    while let line = readLine() {
+        print(line)
+        if let integer = Int(line) {
+            nums.append(integer)
+        }
+        else {            
+            ops.append(line)
+        }
+    }
+    print(ops)
+    print(nums)
+    maths(nums:nums,ops:ops)
+}
+main()
+
+
+func maths(nums:[Int],ops:[String]) {
+    var sum = nums[1]
+    var num1 : Int
+    var num2 : Int
+    for index in 1 ..< nums.count - 1{
+        num1 = nums[index]
+        num2 = nums[index+1]
+        sum = num1 + num2
+//        print(num1)
+  //      print(num2)
+    }
+    print("lol \(sum)")
+}

@@ -1,0 +1,7 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "713e83622058fc35a1797e0bfd1f1226"
+build_time: [1635375859, 822684855]
+inputs:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C108 Football Rush [Karel]/.merlin/build/ActionPlan.swift": [1635375859, 426322947]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C108 Football Rush [Karel]/.merlin/build/WorldPlanner.swift": [1635375859, 390324784]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C108 Football Rush [Karel]/.merlin/build/main.swift": [1635375859, 398324376]

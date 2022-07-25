@@ -1,0 +1,7 @@
+var integers = [618, 693, -211, -421, 680, -623, 329, -876, 85, 515, -919]
+let firstIndex = 6
+let secondIndex = 1
+print("Before swapping: \(integers)")
+print("Swapping value at index \(firstIndex) with value at index \(secondIndex)")
+swap(integers:&integers, firstIndex:firstIndex, secondIndex:secondIndex)
+print("After swapping: \(integers)")

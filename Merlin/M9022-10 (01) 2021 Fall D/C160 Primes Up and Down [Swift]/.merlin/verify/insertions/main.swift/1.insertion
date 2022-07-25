@@ -1,0 +1,2 @@
+let integers = [3773, 764, 1622, 338, 4635, 1685, 1288, 1748, 1273, 3607, 1984, 3613, 3357]
+adjacentPrimes(integers:integers)

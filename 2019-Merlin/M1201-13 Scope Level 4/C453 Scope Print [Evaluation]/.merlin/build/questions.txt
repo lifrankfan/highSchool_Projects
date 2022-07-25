@@ -1,0 +1,46 @@
+let m = 989
+let r = -735
+var i = 617
+i = -859
+i = 219
+do {
+    let m = 833
+    let w = 335
+    var g = -176
+    g = 857
+    do {
+        let d = 293
+        var t = -165
+        i = 381
+        do {
+            let s = 434
+            let c = -422
+            var m = -110
+            g = -148
+            print(m)
+            print(i)
+        }
+        do {
+            let s = 59
+            var e = -605
+            t = -591
+            e = -930
+            i = 751
+            print(d)
+            print(r)
+        }
+        g = 575
+        g = 309
+        print(d)
+        print(w)
+        print(t)
+    }
+    g = -594
+    g = -538
+    print(i)
+    print(w)
+    print(i)
+}
+i = -544
+print(m)
+print(i)

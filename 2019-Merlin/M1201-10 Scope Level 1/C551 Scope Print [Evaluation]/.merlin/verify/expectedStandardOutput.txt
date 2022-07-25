@@ -1,0 +1,15 @@
+String = 620
+String = -779
+String = -65
+String = -470
+String = -729
+String = -779
+String = 530
+String = -350
+String = 241
+String = 241
+String = -686
+String = -350
+String = -415
+String = -415
+String = -415

@@ -1,0 +1,12 @@
+String = -492
+String = 650
+String = 152
+String = -492
+String = -823
+String = 561
+String = -492
+String = -492
+String = 662
+String = -470
+String = -470
+String = 256

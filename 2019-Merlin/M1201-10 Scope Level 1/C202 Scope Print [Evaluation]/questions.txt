@@ -1,0 +1,17 @@
+let p = -955
+let v = -980
+let z = -451
+do {
+    let a = -123
+    let m = 761
+    let p = -307
+    print(m)
+    print(a)
+}
+func u() {
+    let h = 563
+    let v = 784
+    print(h)
+    print(v)
+}
+print(v)

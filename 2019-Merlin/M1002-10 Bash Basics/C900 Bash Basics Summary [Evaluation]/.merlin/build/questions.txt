@@ -1,0 +1,77 @@
+1. In Linux, all files are integrated into a single, hierarchical directory structure that appears as an inverted tree.
+	A.  True
+	B.  False
+
+2. The command used to create a new directory is:
+	A.  cwd
+	B.  createdir
+	C.  cd
+	D.  mkdir
+
+3. The client-server model typically requires that users of the service purchase very expensive hardware, sufficiently powerful to provide the services required.
+	A.  True
+	B.  False
+
+4. What symbol is used to represent the user's home directory?
+	A.  $ (a dollar sign)
+	B.  \ ( a backslash)
+	C.  ~ (a tilde)
+	D.  / (a slash or forward slash)
+
+5. The command to list the contents of a directory is:
+	A.  list
+	B.  listdir
+	C.  ld (lowercase "L", lowercase "D")
+	D.  ls (lowercase "L", lowercase "S")
+
+6. The term used to describe the user interface which provides access to an operating system's services is:
+	A.  bus
+	B.  CPU
+	C.  shell
+	D.  ALU
+
+7. The command to change to a new directory temporarily is:
+	A.  popd
+	B.  cwd
+	C.  pushd
+	D.  cd
+
+8. A directory provides a logical grouping of related files and potentially other directories.
+	A.  True
+	B.  False
+
+9. The client-server model is typically only effective over short distances.
+	A.  True
+	B.  False
+
+10. A process is a program that is being executed by the operating system.
+	A.  True
+	B.  False
+
+11. What command can be used to view a directory hierarchy?
+	A.  ls
+	B.  tree
+	C.  pwd
+	D.  shrb
+
+12. Unix integrates all files into a single directory structure.
+	A.  True
+	B.  False
+
+13. The command to return to the previous directory after a command was issued to temporarily change the directory is:
+	A.  pwd
+	B.  popd
+	C.  pd
+	D.  pushd
+
+14. A command which will print the contents of a file to standard output is:
+	A.  echo
+	B.  dog
+	C.  cat
+	D.  print
+
+15. Which of the following commands will append text to an existing file?
+	A.  echo "Hello, again!" << out.txt
+	B.  echo "Hello, again!" >> out.txt
+	C.  echo "Hello, again!" < out.txt
+	D.  echo "Hello, again!" > out.txt

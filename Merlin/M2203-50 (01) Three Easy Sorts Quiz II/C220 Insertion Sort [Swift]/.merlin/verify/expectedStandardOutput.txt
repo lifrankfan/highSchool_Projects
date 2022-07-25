@@ -1,0 +1,8 @@
+Pass: 0, Swaps: 0/0, Array: ["ear", "undesirable", "smooth", "aboriginal", "raspy", "wry", "picture", "helpful"]
+Pass: 1, Swaps: 0/0, Array: ["ear", "undesirable", "smooth", "aboriginal", "raspy", "wry", "picture", "helpful"]
+Pass: 2, Swaps: 1/1, Array: ["ear", "smooth", "undesirable", "aboriginal", "raspy", "wry", "picture", "helpful"]
+Pass: 3, Swaps: 3/4, Array: ["aboriginal", "ear", "smooth", "undesirable", "raspy", "wry", "picture", "helpful"]
+Pass: 4, Swaps: 2/6, Array: ["aboriginal", "ear", "raspy", "smooth", "undesirable", "wry", "picture", "helpful"]
+Pass: 5, Swaps: 0/6, Array: ["aboriginal", "ear", "raspy", "smooth", "undesirable", "wry", "picture", "helpful"]
+Pass: 6, Swaps: 4/10, Array: ["aboriginal", "ear", "picture", "raspy", "smooth", "undesirable", "wry", "helpful"]
+Pass: 7, Swaps: 5/15, Array: ["aboriginal", "ear", "helpful", "picture", "raspy", "smooth", "undesirable", "wry"]

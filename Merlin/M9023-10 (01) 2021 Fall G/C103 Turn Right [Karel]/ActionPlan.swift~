@@ -1,0 +1,21 @@
+import MerlinKarel
+
+class ActionPlan: KarelExecutor {
+
+    // Declare functions here:
+
+    override func run() {
+
+        func turnRight() {
+            for x in 1 ... 3 {
+                turnLeft()
+                x += 1
+        }
+        
+        
+        // Insert your code here:
+        turnRight()
+        move()
+    }
+    
+}

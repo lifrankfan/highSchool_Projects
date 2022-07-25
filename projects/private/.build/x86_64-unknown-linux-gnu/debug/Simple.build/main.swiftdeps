@@ -1,0 +1,36 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "block"
+- "b"
+provides-nominal:
+- "6Simple5blockC"
+provides-member:
+- ["6Simple5blockC", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "b"
+- "block"
+- !private "changeHeight"
+- "print"
+depends-member:
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["6Simple5blockC", "Int"]
+- ["6Simple5blockC", "calculate"]
+- !private ["6Simple5blockC", "changeHeight"]
+- ["6Simple5blockC", "deinit"]
+- ["6Simple5blockC", "getHeight"]
+- !private ["6Simple5blockC", "height"]
+- ["6Simple5blockC", "init"]
+- !private ["6Simple5blockC", "width"]
+depends-nominal:
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "6Simple5blockC"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "848e97aeacf9f5116ab4259ecda3e56b"

@@ -1,0 +1,84 @@
+3let g = -309
+let d = -462
+var m = -809
+m = -144
+m = 670
+do {
+    let p = 762
+    var u = -134
+    var j = -652
+    m = 552
+    j = 950
+    do {
+        let u = -684
+        let m = 842
+        var f = -648
+        var x = -191
+        x = 740
+        do {
+            let e = -817
+            var z = 284
+            var r = -743
+            j = -867
+            do {
+                let f = -608
+                var s = 428
+                s = 550
+                print(s)
+                print(x)
+                print(r)
+            }
+            do {
+                let y = 514
+                var m = -827
+                var t = -352
+                t = -979
+                t = -539
+                print(r)
+                print(f)
+            }
+            f = 635
+            print(u)
+            print(e)
+            print(e)
+        }
+        do {
+            let w = -23
+            var i = 555
+            var z = 470
+            z = -273
+            x = -392
+            do {
+                let x = -517
+                var z = -859
+                z = -81
+                j = -66
+                print(w)
+                print(i)
+                print(m)
+            }
+            do {
+                let i = -483
+                var m = -610
+                z = -457
+                x = 846
+                print(w)
+                print(w)
+            }
+            z = 645
+            print(w)
+            print(d)
+        }
+        f = -899
+        f = 847
+        print(f)
+        print(m)
+    }
+    m = 281
+    j = -473
+    print(m)
+    print(j)
+}
+m = -646
+print(g)
+print(m)

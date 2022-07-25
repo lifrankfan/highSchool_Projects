@@ -1,0 +1,10 @@
+let b = -864
+let x = 120
+let i = -851
+do {
+    let v = 577
+    let y = -315
+    print(v)
+}
+print(b)
+print(i)

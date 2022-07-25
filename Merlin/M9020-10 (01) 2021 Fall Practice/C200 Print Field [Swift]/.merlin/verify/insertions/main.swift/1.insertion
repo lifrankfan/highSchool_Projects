@@ -1,0 +1,9 @@
+struct Square {
+    let leftOffset : Int
+    let topOffset : Int
+    let squareSize : Int
+}
+let fieldSize=11
+let squares = [
+Square(leftOffset:11, topOffset:4, squareSize:9)
+]

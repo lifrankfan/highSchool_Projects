@@ -1,0 +1,3 @@
+Before swapping: [618, 693, -211, -421, 680, -623, 329, -876, 85, 515, -919]
+Swapping value at index 6 with value at index 1
+After swapping: [618, 329, -211, -421, 680, -623, 693, -876, 85, 515, -919]

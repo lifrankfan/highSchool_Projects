@@ -1,0 +1,13 @@
+true
+false
+true/false/false
+false
+false
+x && y && z => true && false && false => false
+true
+true
+x || y || z => true || false || false => true
+!x => !true => false
+x == y => true == false => false
+true
+false

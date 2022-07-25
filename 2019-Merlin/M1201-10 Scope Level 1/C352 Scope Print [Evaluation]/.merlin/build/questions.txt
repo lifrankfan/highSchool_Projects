@@ -1,0 +1,11 @@
+let p = 259
+let j = 442
+let v = -871
+func m() {
+    let t = -219
+    let j = -412
+    let k = 953
+}
+m()
+print(j)
+print(v)

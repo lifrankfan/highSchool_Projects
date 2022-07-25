@@ -1,0 +1,4 @@
+let integers : [Int] = [-7426, 7489, -238, 3535, -7480]
+print(integers)
+let count = printSameOddnessIntegers(integers:integers)
+print(count)

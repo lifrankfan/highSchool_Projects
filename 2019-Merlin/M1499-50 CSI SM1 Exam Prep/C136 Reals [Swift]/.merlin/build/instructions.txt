@@ -1,0 +1,14 @@
+1.  Create a file named "main.swift"
+2.  Print true
+3.  Print false
+4.  Print the Boolean values referenced by the constants x, y, and z separated by forward slashes
+5.  Print the result of the conjunction of x and y
+6.  Print the result of the conjunction of x, y, and z
+7.  Print the expression and result of the conjunction of x, y, and z
+8.  Print the result of the disjunction of x and y
+9.  Print the result of the disjunction of x, y, and z
+10. Print the expression and result of the disjunction of x, y, and z
+11. Print the expression and the negation of x
+12. Print the expression and result of the equivalence of x and y
+13. Print the result of exlusive or'ing y and not z
+12. Print the result of p implies q

@@ -1,0 +1,59 @@
+================================================================================
+1. The recursive nature of the L-system rules leads to self-similarity and thereby, fractal-like forms are difficult to describe with an L-system.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. An L-system or Lindenmayer system is a parallel rewriting system and a type of formal grammar.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. L-systems may be defined as a tuple: G = (Δ, ω, Λ)
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+4. A production rule consists of two strings, the predecessor and the successor.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. In an L-system, the alphabet is a set of symbols containing both elements that can be replaced and those which cannot be replaced.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+6. In every case where the identity production A → A applies the predecessor is considered a terminal.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7. L-systems may be defined as a tuple: G = (V, ω, P)
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+8. In an L-system, the axiom is a string of symbols from the alphabet defining the INITIAL state of the system.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+9. L-systems can be used to generate self-similar fractals.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+10. Lindenmayer used L-systems to describe the behaviour of plant cells and to model the growth processes of plant development.
+------------------------------------------------------------
+	A.  True
+	B.  False

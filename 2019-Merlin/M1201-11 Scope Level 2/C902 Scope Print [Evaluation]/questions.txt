@@ -1,0 +1,38 @@
+let z = -46
+let h = -946
+var k = 360
+var s = -351
+do {
+    let a = -810
+    var z = -557
+    var u = 427
+    do {
+        let z = -500
+        let r = 855
+        var t = -125
+        do {
+            let p = 635
+            var s = -622
+            do {
+                let r = 601
+                let y = 918
+                var f = 782
+                var z = -942
+                print(s)
+                print(z)
+                print(r)
+            }
+            print(t)
+            print(a)
+            print(r)
+        }
+        print(r)
+        print(r)
+        print(k)
+    }
+    print(s)
+    print(z)
+    print(s)
+}
+print(s)
+print(h)

@@ -1,0 +1,50 @@
+let b = -939
+let f = -171
+var w = -125
+var q = -66
+do {
+    let h = -148
+    var q = 629
+    var v = -732
+    do {
+        let v = 936
+        let p = -850
+        var b = 642
+        var j = 317
+        do {
+            let m = 35
+            let k = 752
+            var a = -182
+            var y = -827
+            do {
+                let u = -325
+                var z = -913
+                print(z)
+                print(k)
+            }
+            print(k)
+            print(v)
+        }
+        do {
+            let t = -221
+            var m = 838
+            var b = -317
+            do {
+                let r = 227
+                let v = 202
+                var b = -522
+                var e = 13
+                print(e)
+                print(r)
+            }
+            print(j)
+            print(t)
+        }
+        print(j)
+        print(p)
+    }
+    print(h)
+    print(h)
+}
+print(w)
+print(b)

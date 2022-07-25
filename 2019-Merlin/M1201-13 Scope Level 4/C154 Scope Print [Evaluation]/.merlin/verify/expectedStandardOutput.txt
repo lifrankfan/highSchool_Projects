@@ -1,0 +1,4 @@
+String = 50
+String = -134
+String = -808
+String = 291

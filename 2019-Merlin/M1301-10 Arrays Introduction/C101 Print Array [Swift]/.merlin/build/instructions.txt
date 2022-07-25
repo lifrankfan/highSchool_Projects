@@ -1,0 +1,29 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "printIntegers" which:
+
+         - accepts a single parameter name "integers" of type array of integers
+
+     	 - returns the number of elements in the array
+
+	 - prints each element, in order, on a separate line
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

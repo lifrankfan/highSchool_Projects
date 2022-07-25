@@ -1,0 +1,70 @@
+let g = 445
+let z = 477
+var f = 295
+var j = 733
+j = 97
+do {
+    let f = -765
+    let n = 875
+    var x = -698
+    do {
+        let h = -472
+        let g = 878
+        var y = 784
+        var q = -177
+        q = 85
+        j = -536
+        print(q)
+        print(f)
+    }
+    do {
+        let t = -429
+        let q = 276
+        var d = 49
+        var e = 70
+        d = -228
+        d = 360
+        e = -666
+        print(z)
+        print(j)
+    }
+    x = -834
+    x = -247
+    print(f)
+    print(x)
+    print(g)
+}
+do {
+    let s = -176
+    let n = 773
+    var z = 37
+    var y = 781
+    y = -657
+    do {
+        let i = -380
+        let y = -962
+        let s = -619
+        var c = -123
+        c = -509
+        f = 661
+        print(n)
+        print(j)
+        print(f)
+    }
+    do {
+        let s = 975
+        let h = -691
+        var q = -763
+        q = 662
+        q = 588
+        q = 269
+        print(q)
+        print(h)
+    }
+    y = -475
+    print(y)
+    print(n)
+}
+j = -900
+print(j)
+print(g)

@@ -1,0 +1,16 @@
+prevent
+holistic
+prevent{holistic}
+prevent{holistic{repeat, fit}}
+grandfather
+prevent{holistic{repeat, fit}, grandfather}
+prevent{holistic{repeat, fit}, grandfather{deer, unnatural}}
+questionable
+prevent{holistic{repeat, fit}, grandfather{deer, unnatural}, questionable}
+prevent{holistic{repeat, fit}, grandfather{deer, unnatural}, questionable{amuck, snow}}
+careful
+prevent{holistic{repeat, fit}, grandfather{deer, unnatural}, questionable{amuck, snow}, careful}
+prevent{holistic{repeat, fit}, grandfather{deer, unnatural}, questionable{amuck, snow}, careful{ocean}}
+visitor
+prevent{holistic{repeat, fit}, grandfather{deer, unnatural}, questionable{amuck, snow}, careful{ocean}, visitor}
+prevent{holistic{repeat, fit}, grandfather{deer, unnatural}, questionable{amuck, snow}, careful{ocean}, visitor}

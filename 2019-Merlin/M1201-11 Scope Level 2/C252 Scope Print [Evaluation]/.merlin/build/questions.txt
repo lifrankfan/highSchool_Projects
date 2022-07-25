@@ -1,0 +1,18 @@
+let z = 562
+let r = -437
+let d = -915
+func e() {
+    let u = -306
+    let b = 795
+    print(u)
+    print(u)
+}
+func i() {
+    let i = 70
+    let u = -124
+    print(i)
+    print(i)
+}
+e()
+print(z)
+print(r)

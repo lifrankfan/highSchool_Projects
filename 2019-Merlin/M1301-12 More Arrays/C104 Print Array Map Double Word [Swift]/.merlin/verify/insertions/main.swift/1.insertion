@@ -1,0 +1,3 @@
+let words : [String] = ["partner", "burning", "hand", "cough", "out", "healer"]
+print(words)
+print(doubleWords(words:words))

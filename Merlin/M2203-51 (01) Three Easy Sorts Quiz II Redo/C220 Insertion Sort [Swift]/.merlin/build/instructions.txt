@@ -1,0 +1,14 @@
+1.  Edit the file named "main.swift"
+2.  Within this file, write a program which will sort the array of strings
+    using Insertion Sort.
+3.  The output should be as follows:
+    Pass: <p>, Swaps: <pass swap count>/<total swap count>, Array: [<comma-delimitted array contents>]
+    For example:
+    	Pass: 0, Swaps: 0/0, Array: ["disturbed", "jewel", "prickly", "bathe", "cherry"]
+	Pass: 1, Swaps: 0/0, Array: ["disturbed", "jewel", "prickly", "bathe", "cherry"]
+	Pass: 2, Swaps: 0/0, Array: ["disturbed", "jewel", "prickly", "bathe", "cherry"]
+	Pass: 3, Swaps: 3/3, Array: ["bathe", "disturbed", "jewel", "prickly", "cherry"]
+	Pass: 4, Swaps: 3/6, Array: ["bathe", "cherry", "disturbed", "jewel", "prickly"]
+
+
+

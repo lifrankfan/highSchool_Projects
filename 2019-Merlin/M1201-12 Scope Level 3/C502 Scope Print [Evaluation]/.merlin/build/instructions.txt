@@ -1,0 +1,7 @@
+1.  Read the text in the file questions.txt.
+2.  Enter, in appropriate order, the output of the print statements in the
+    file answers.txt.
+*   Be attentive to spacing and line breaks.
+*   Ensure you are placing the output on the appropriate line.
+    Begin your output on the FIRST line of the file.
+

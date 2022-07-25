@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/ActionPlan.swift": {
+    "dependencies": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.d",
+    "object": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/WorldPlanner.swift": {
+    "dependencies": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.d",
+    "object": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/main.swift": {
+    "dependencies": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/.merlin/build/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

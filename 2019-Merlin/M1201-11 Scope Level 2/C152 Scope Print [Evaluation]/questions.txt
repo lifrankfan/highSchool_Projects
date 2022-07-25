@@ -1,0 +1,12 @@
+let i = -31
+let t = 13
+let d = 355
+do {
+    let a = 563
+    let c = 296
+    let n = -294
+    print(n)
+    print(a)
+}
+print(i)
+print(t)

@@ -1,0 +1,16 @@
+String = 85
+String = -765
+String = 477
+String = -536
+String = -765
+String = -247
+String = 445
+String = 773
+String = -536
+String = 661
+String = 269
+String = -691
+String = -475
+String = 773
+String = -900
+String = 445

@@ -1,0 +1,15 @@
+let u = -482
+let h = 133
+do {
+    let j = -34
+    let x = 649
+    print(h)
+    print(u)
+}
+do {
+    let i = 54
+    let e = 393
+    print(u)
+}
+print(u)
+print(h)

@@ -1,0 +1,33 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LSystem"
+provides-nominal:
+- "6Simple7LSystemC"
+provides-member:
+- ["6Simple7LSystemC", ""]
+depends-top-level:
+- "Character"
+- "LSystem"
+- "ProductionRule"
+- "ProductionRules"
+- "Set"
+- "String"
+depends-member:
+- ["6Simple7LSystemC", "Character"]
+- ["6Simple7LSystemC", "ProductionRule"]
+- ["6Simple7LSystemC", "ProductionRules"]
+- ["6Simple7LSystemC", "Set"]
+- ["6Simple7LSystemC", "String"]
+- !private ["6Simple7LSystemC", "alphabet"]
+- !private ["6Simple7LSystemC", "axiom"]
+- ["6Simple7LSystemC", "deinit"]
+- ["6Simple7LSystemC", "init"]
+- !private ["6Simple7LSystemC", "productionRules"]
+depends-nominal:
+- "6Simple7LSystemC"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "40a839b3bc4596fbc6f47ffd0cc5f302"

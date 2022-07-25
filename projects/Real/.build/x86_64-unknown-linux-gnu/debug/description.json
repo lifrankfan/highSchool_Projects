@@ -1,0 +1,20 @@
+{
+  "allExecutables" : [
+    "Simple"
+  ],
+  "builtTestProducts" : [
+    
+  ],
+  "copyCommands" : {
+    
+  },
+  "rootExecutables" : [
+    "Simple"
+  ],
+  "swiftTargetMap" : {
+    "C.Simple-debug.module" : "Simple"
+  },
+  "testDiscoveryCommands" : {
+    
+  }
+}

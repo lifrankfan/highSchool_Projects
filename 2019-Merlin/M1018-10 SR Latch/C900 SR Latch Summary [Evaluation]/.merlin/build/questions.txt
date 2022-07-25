@@ -1,0 +1,21 @@
+t (ms) |    S   |    R   
+    0  |  false |   true 
+   10  |  false |   true 
+   20  |  false |   true 
+   30  |   true |  false 
+   40  |  false |  false 
+   50  |  false |   true 
+   60  |  false |  false 
+   70  |   true |  false 
+   80  |  false |   true 
+   90  |  false |  false 
+1. What is the value of Q at 5 ms?
+2. What is the value of Q at 15 ms?
+3. What is the value of Q at 25 ms?
+4. What is the value of Q at 35 ms?
+5. What is the value of Q at 45 ms?
+6. What is the value of Q at 55 ms?
+7. What is the value of Q at 65 ms?
+8. What is the value of Q at 75 ms?
+9. What is the value of Q at 85 ms?
+10. What is the value of Q at 95 ms?

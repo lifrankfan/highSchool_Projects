@@ -1,0 +1,5 @@
+Pass: 0, Swaps: 0/0, Array: ["love", "perfect", "cynical", "believe", "bridge", "seed"]
+Pass: 1, Swaps: 3/3, Array: ["love", "cynical", "believe", "bridge", "perfect", "seed"]
+Pass: 2, Swaps: 3/6, Array: ["cynical", "believe", "bridge", "love", "perfect", "seed"]
+Pass: 3, Swaps: 2/8, Array: ["believe", "bridge", "cynical", "love", "perfect", "seed"]
+Pass: 4, Swaps: 0/8, Array: ["believe", "bridge", "cynical", "love", "perfect", "seed"]

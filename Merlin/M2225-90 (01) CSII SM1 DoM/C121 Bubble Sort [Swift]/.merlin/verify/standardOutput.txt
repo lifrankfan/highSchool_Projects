@@ -1,0 +1,7 @@
+Pass: 0, Swaps: 0/0, Array: ["chicken", "massive", "books", "crush", "needy", "marked", "cherry", "scorch", "crooked", "rabbits"]
+Pass: 1, Swaps: 6/6, Array: ["chicken", "books", "crush", "massive", "marked", "cherry", "needy", "crooked", "rabbits", "scorch"]
+Pass: 2, Swaps: 4/10, Array: ["books", "chicken", "crush", "marked", "cherry", "massive", "crooked", "needy", "rabbits", "scorch"]
+Pass: 3, Swaps: 2/12, Array: ["books", "chicken", "crush", "cherry", "marked", "crooked", "massive", "needy", "rabbits", "scorch"]
+Pass: 4, Swaps: 2/14, Array: ["books", "chicken", "cherry", "crush", "crooked", "marked", "massive", "needy", "rabbits", "scorch"]
+Pass: 5, Swaps: 2/16, Array: ["books", "cherry", "chicken", "crooked", "crush", "marked", "massive", "needy", "rabbits", "scorch"]
+Pass: 6, Swaps: 0/16, Array: ["books", "cherry", "chicken", "crooked", "crush", "marked", "massive", "needy", "rabbits", "scorch"]

@@ -1,0 +1,7 @@
+ 1.  Edit a file named "main.swift"
+ 2.  If x is greater than y, print the "x is greater than y", where x and y
+     are replaced by their actual values.
+     Otherwise, print "y is greater than or equal to x", where x and y
+     are replaced by their actual values.
+
+

@@ -1,0 +1,5 @@
+1.  This is an evaluation.  Be sure to review the rules in the file evaluations.txt.
+2.  Read the questions in the file questions.txt.
+3.  For each question, provide an answer in the file answers.txt.
+4.  For terminals and non-terminals, list all characters adjacent to one another in
+    alphabetical order.  Numeric characters come before alphabetic characters.

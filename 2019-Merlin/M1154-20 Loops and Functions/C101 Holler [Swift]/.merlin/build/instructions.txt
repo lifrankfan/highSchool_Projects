@@ -1,0 +1,10 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "hollers" which accepts two String parameters
+     and an Integer parameter.
+     The first parameter is named "from" and the second is named "to".
+     The third parameter is named "repeated".
+     The function returns nothing but produces as a side effect the printing of
+     the name specified in "from", then " hollers ", then the name specified in "to"
+     repeated "repeated" times, separated by commas and a space.
+     After each "to" name, exclamation points are used consistent with the number
+     of times the name is specified up to that point.

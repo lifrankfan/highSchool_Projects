@@ -1,0 +1,37 @@
+let i = 662
+let q = 256
+var h = 561
+var c = -470
+do {
+    let r = -690
+    let y = -595
+    var f = -952
+    do {
+        let q = -851
+        let s = 181
+        var i = -492
+        do {
+            let t = 650
+            let d = 225
+            var n = 152
+            var m = 454
+            print(i)
+            print(t)
+            print(n)
+        }
+        do {
+            let x = -823
+            var t = -336
+            var u = -747
+            print(i)
+            print(x)
+        }
+        print(h)
+        print(i)
+        print(i)
+    }
+    print(i)
+    print(c)
+}
+print(c)
+print(q)

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/li-fan/Merlin/M2512-10 (01) LSystems/C100 LSystems [Swift]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M2512-10 (01) LSystems/C100 LSystems [Swift]/main.swift": {
+    "dependencies": "/home/li-fan/Merlin/M2512-10 (01) LSystems/C100 LSystems [Swift]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/li-fan/Merlin/M2512-10 (01) LSystems/C100 LSystems [Swift]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M2512-10 (01) LSystems/C100 LSystems [Swift]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M2512-10 (01) LSystems/C100 LSystems [Swift]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

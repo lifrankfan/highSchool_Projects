@@ -1,0 +1,6 @@
+[0]->worm
+[1]->nothing
+[2]->shall
+[3]->piano
+[4]->watch
+5

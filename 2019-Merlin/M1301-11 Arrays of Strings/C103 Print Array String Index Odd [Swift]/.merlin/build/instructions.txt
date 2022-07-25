@@ -1,0 +1,34 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "printStringsAndIndex" which:
+
+         - accepts a single parameter name "strings" of type array of strings
+
+     	 - returns the number of elements in the array
+
+	 - prints odd indices surrounded by brackets, an arrow (->), and the element, in array order,
+
+	   each element on a separate line.
+
+	   
+
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

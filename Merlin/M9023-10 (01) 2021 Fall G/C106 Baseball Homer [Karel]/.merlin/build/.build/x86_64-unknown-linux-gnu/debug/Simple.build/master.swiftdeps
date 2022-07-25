@@ -1,0 +1,7 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "5b68114d03598f2b8a3cad937f2e441c"
+build_time: [1635374766, 836672647]
+inputs:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C106 Baseball Homer [Karel]/.merlin/build/ActionPlan.swift": [1635374766, 474057712]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C106 Baseball Homer [Karel]/.merlin/build/WorldPlanner.swift": [1635374766, 442059344]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C106 Baseball Homer [Karel]/.merlin/build/main.swift": [1635374766, 450058935]

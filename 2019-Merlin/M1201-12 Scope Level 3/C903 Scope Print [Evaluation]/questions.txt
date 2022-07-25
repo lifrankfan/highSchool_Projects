@@ -1,0 +1,35 @@
+let p = -561
+var k = -93
+do {
+    let i = -777
+    let c = 23
+    var p = -215
+    do {
+        let u = -563
+        let z = 214
+        var r = 126
+        var t = 914
+        do {
+            let f = -233
+            let u = -372
+            var b = -466
+            do {
+                let q = 376
+                let h = 697
+                var n = -301
+                var t = 952
+                print(f)
+                print(u)
+                print(u)
+            }
+            print(b)
+            print(b)
+        }
+        print(r)
+        print(p)
+    }
+    print(p)
+    print(k)
+}
+print(k)
+print(k)

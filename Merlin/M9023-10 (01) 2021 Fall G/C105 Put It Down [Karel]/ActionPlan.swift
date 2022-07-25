@@ -1,0 +1,24 @@
+import MerlinKarel
+
+class ActionPlan: KarelExecutor {
+
+    // Declare functions here:
+
+    override func run() {
+
+        func turnRight() {
+            turnLeft()
+            turnLeft()
+            turnLeft()
+        }        
+        
+        // Insert your code here:
+        move()
+        pickUpBeeper()
+        move()
+        putDownBeeper()
+        move()
+    }
+    
+    
+}

@@ -1,0 +1,3 @@
+let integers : [Int] = [-6800]
+let count = printIntegersAndIndex(integers:integers)
+print(count)

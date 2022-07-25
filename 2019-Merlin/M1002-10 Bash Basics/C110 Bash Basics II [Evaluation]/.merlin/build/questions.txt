@@ -1,0 +1,21 @@
+1. The client-server model typically requires that users of the service purchase very expensive hardware, sufficiently powerful to provide the services required.
+	A.  True
+	B.  False
+
+2. Paths which begin at the root are called relative paths.
+	A.  True
+	B.  False
+
+3. The client-server model is typically only effective over short distances.
+	A.  True
+	B.  False
+
+4. What command, by default, can be used to remove an empty directory?
+	A.  rmdir
+	B.  rm
+	C.  remove
+	D.  rd
+
+5. Redirection may be used to direct standard output to a file.
+	A.  True
+	B.  False

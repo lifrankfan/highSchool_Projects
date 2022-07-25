@@ -1,0 +1,10 @@
+String = C
+String = A
+String = B
+String = D
+String = B
+String = B
+String = A
+String = B
+String = C
+String = A

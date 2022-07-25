@@ -1,0 +1,7 @@
+1.  This is an evaluation.  Be sure to review the rules in the file evaluations.txt.
+2.  Read the questions in the file questions.txt.
+3.  For each question, provide an answer in the file answers.txt.
+4.  Solve each addition equation in the SPECIFIED base in questions.txt
+    and answer in the SAME BASE in answers.txt.
+5.  Do not include any specification of the base in your answer.
+

@@ -1,0 +1,16 @@
+let t = -240
+let s = -717
+var b = -45
+b = -72
+b = -528
+do {
+    let c = -455
+    let d = 965
+    var q = 601
+    q = 427
+    q = 967
+    q = 315
+    print(d)
+}
+b = 265
+print(b)

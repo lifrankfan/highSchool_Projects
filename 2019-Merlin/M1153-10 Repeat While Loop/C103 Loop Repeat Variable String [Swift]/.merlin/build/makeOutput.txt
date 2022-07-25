@@ -1,0 +1,151 @@
+(source_file "main.swift"
+  (top_level_code_decl range=[main.swift:3:1 - line:3:24]
+    (brace_stmt implicit range=[main.swift:3:1 - line:3:24]
+      (pattern_binding_decl range=[main.swift:3:1 - line:3:24]
+        (pattern_typed type='Int'
+          (pattern_named type='Int' 'upperLimit')
+          (type_ident
+            (component id='Int' bind=Swift.(file).Int)))
+        (call_expr implicit type='Int' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] nothrow arg_labels=_builtinIntegerLiteral:
+          (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] nothrow
+            (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+            (type_expr implicit type='Int.Type' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] typerepr='Int'))
+          (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] names=_builtinIntegerLiteral
+            (integer_literal_expr type='Builtin.IntLiteral' location=main.swift:3:24 range=[main.swift:3:24 - line:3:24] value=4))))
+))
+  (var_decl range=[main.swift:3:5 - line:3:5] "upperLimit" type='Int' interface type='Int' access=internal let readImpl=stored immutable)
+  (top_level_code_decl range=[main.swift:8:1 - line:8:9]
+    (brace_stmt implicit range=[main.swift:8:1 - line:8:9]
+      (pattern_binding_decl range=[main.swift:8:1 - line:8:9]
+        (pattern_named type='Int' 'x')
+        (call_expr implicit type='Int' location=main.swift:8:9 range=[main.swift:8:9 - line:8:9] nothrow arg_labels=_builtinIntegerLiteral:
+          (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' location=main.swift:8:9 range=[main.swift:8:9 - line:8:9] nothrow
+            (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' location=main.swift:8:9 range=[main.swift:8:9 - line:8:9] decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+            (type_expr implicit type='Int.Type' location=main.swift:8:9 range=[main.swift:8:9 - line:8:9] typerepr='Int'))
+          (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' location=main.swift:8:9 range=[main.swift:8:9 - line:8:9] names=_builtinIntegerLiteral
+            (integer_literal_expr type='Builtin.IntLiteral' location=main.swift:8:9 range=[main.swift:8:9 - line:8:9] value=1))))
+))
+  (var_decl range=[main.swift:8:5 - line:8:5] "x" type='Int' interface type='Int' access=internal readImpl=stored writeImpl=stored readWriteImpl=stored)
+  (top_level_code_decl range=[main.swift:9:1 - line:12:13]
+    (brace_stmt range=[main.swift:9:1 - line:12:13]
+      (repeat_while_stmt range=[main.swift:9:1 - line:12:13]
+        (brace_stmt range=[main.swift:9:8 - line:12:1]
+          (call_expr type='()' location=main.swift:10:5 range=[main.swift:10:5 - line:10:32] nothrow arg_labels=_:
+            (declref_expr type='(Any..., String, String) -> ()' location=main.swift:10:5 range=[main.swift:10:5 - line:10:5] decl=Swift.(file).print(_:separator:terminator:) function_ref=single)
+            (tuple_shuffle_expr implicit type='(Any..., separator: String, terminator: String)' location=main.swift:10:11 range=[main.swift:10:10 - line:10:32] scalar_to_tuple elements=[-2, -1, -1] variadic_sources=[0] default_args_owner=Swift.(file).print(_:separator:terminator:)
+              (paren_expr type='(Any)' location=main.swift:10:11 range=[main.swift:10:10 - line:10:32]
+                (erasure_expr implicit type='Any' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11]
+                  (interpolated_string_literal_expr type='String' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] literal_capacity=15 interpolation_count=1
+                    (tap_expr implicit type='DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] var=main.(file).top-level code.$interpolation
+                      (call_expr implicit type='DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] nothrow arg_labels=literalCapacity:interpolationCount:
+                        (constructor_ref_call_expr implicit type='(Int, Int) -> DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] nothrow
+                          (declref_expr implicit type='(DefaultStringInterpolation.Type) -> (Int, Int) -> DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] decl=Swift.(file).DefaultStringInterpolation.init(literalCapacity:interpolationCount:) function_ref=single)
+                          (type_expr implicit type='DefaultStringInterpolation.Type' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] typerepr='DefaultStringInterpolation'))
+                        (tuple_expr implicit type='(literalCapacity: Int, interpolationCount: Int)' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] names=literalCapacity,interpolationCount
+                          (call_expr implicit type='Int' nothrow arg_labels=_builtinIntegerLiteral:
+                            (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' nothrow
+                              (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+                              (type_expr implicit type='Int.Type' typerepr='<<NULL>>'))
+                            (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' names=_builtinIntegerLiteral
+                              (integer_literal_expr implicit type='Builtin.IntLiteral' value=15)))
+                          (call_expr implicit type='Int' nothrow arg_labels=_builtinIntegerLiteral:
+                            (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' nothrow
+                              (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+                              (type_expr implicit type='Int.Type' typerepr='<<NULL>>'))
+                            (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' names=_builtinIntegerLiteral
+                              (integer_literal_expr implicit type='Builtin.IntLiteral' value=1)))))
+                      (brace_stmt range=[main.swift:10:11 - line:10:32]
+                        (var_decl implicit "$interpolation" type='DefaultStringInterpolation' interface type='DefaultStringInterpolation' access=fileprivate non_pattern_init readImpl=stored writeImpl=stored readWriteImpl=stored)
+
+                        (call_expr implicit type='()' location=main.swift:10:12 range=[main.swift:10:12 - line:10:11] nothrow arg_labels=_:
+                          (dot_syntax_call_expr implicit type='(String) -> ()' location=main.swift:10:12 range=[main.swift:10:12 - line:10:12] nothrow
+                            (declref_expr implicit type='(inout DefaultStringInterpolation) -> (String) -> ()' decl=Swift.(file).DefaultStringInterpolation.appendLiteral function_ref=single)
+                            (inout_expr implicit type='inout DefaultStringInterpolation' location=main.swift:10:12 range=[main.swift:10:12 - line:10:12]
+                              (declref_expr implicit type='@lvalue DefaultStringInterpolation' location=main.swift:10:12 range=[main.swift:10:12 - line:10:12] decl=main.(file).top-level code.$interpolation function_ref=unapplied)))
+                          (paren_expr implicit type='(String)' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11]
+                            (string_literal_expr type='String' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] encoding=utf8 value="Orbiting " builtin_initializer=Swift.(file).String extension.init(_builtinStringLiteral:utf8CodeUnitCount:isASCII:) initializer=**NULL**)))
+                        (call_expr type='()' location=main.swift:10:22 range=[main.swift:10:22 - line:10:24] nothrow arg_labels=_:
+                          (dot_syntax_call_expr implicit type='(Int) -> ()' location=main.swift:10:22 range=[main.swift:10:22 - line:10:22] nothrow
+                            (declref_expr implicit type='(inout DefaultStringInterpolation) -> (Int) -> ()' decl=Swift.(file).DefaultStringInterpolation.appendInterpolation [with (substitution_map generic_signature=<T where T : CustomStringConvertible> (substitution T -> Int))] function_ref=single)
+                            (inout_expr implicit type='inout DefaultStringInterpolation' location=main.swift:10:22 range=[main.swift:10:22 - line:10:22]
+                              (declref_expr implicit type='@lvalue DefaultStringInterpolation' location=main.swift:10:22 range=[main.swift:10:22 - line:10:22] decl=main.(file).top-level code.$interpolation function_ref=unapplied)))
+                          (paren_expr type='(Int)' location=main.swift:10:23 range=[main.swift:10:22 - line:10:24]
+                            (load_expr implicit type='Int' location=main.swift:10:23 range=[main.swift:10:23 - line:10:23]
+                              (declref_expr type='@lvalue Int' location=main.swift:10:23 range=[main.swift:10:23 - line:10:23] decl=main.(file).x@main.swift:8:5 function_ref=unapplied))))
+                        (call_expr implicit type='()' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] nothrow arg_labels=_:
+                          (dot_syntax_call_expr implicit type='(String) -> ()' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] nothrow
+                            (declref_expr implicit type='(inout DefaultStringInterpolation) -> (String) -> ()' decl=Swift.(file).DefaultStringInterpolation.appendLiteral function_ref=single)
+                            (inout_expr implicit type='inout DefaultStringInterpolation' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25]
+                              (declref_expr implicit type='@lvalue DefaultStringInterpolation' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] decl=main.(file).top-level code.$interpolation function_ref=unapplied)))
+                          (paren_expr implicit type='(String)' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25]
+                            (string_literal_expr type='String' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] encoding=utf8 value=" times" builtin_initializer=Swift.(file).String extension.init(_builtinStringLiteral:utf8CodeUnitCount:isASCII:) initializer=**NULL**)))))
+                    (semantic_expr
+                      (call_expr implicit type='String' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] nothrow arg_labels=stringInterpolation:
+                        (constructor_ref_call_expr implicit type='(DefaultStringInterpolation) -> String' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] nothrow
+                          (declref_expr implicit type='(String.Type) -> (DefaultStringInterpolation) -> String' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] decl=Swift.(file).String extension.init(stringInterpolation:) function_ref=single)
+                          (type_expr implicit type='String.Type' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] typerepr='String'))
+                        (tuple_expr implicit type='(stringInterpolation: DefaultStringInterpolation)' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] names=stringInterpolation
+                          (tap_expr implicit type='DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] var=main.(file).top-level code.$interpolation
+                            (call_expr implicit type='DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] nothrow arg_labels=literalCapacity:interpolationCount:
+                              (constructor_ref_call_expr implicit type='(Int, Int) -> DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] nothrow
+                                (declref_expr implicit type='(DefaultStringInterpolation.Type) -> (Int, Int) -> DefaultStringInterpolation' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] decl=Swift.(file).DefaultStringInterpolation.init(literalCapacity:interpolationCount:) function_ref=single)
+                                (type_expr implicit type='DefaultStringInterpolation.Type' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] typerepr='DefaultStringInterpolation'))
+                              (tuple_expr implicit type='(literalCapacity: Int, interpolationCount: Int)' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] names=literalCapacity,interpolationCount
+                                (call_expr implicit type='Int' nothrow arg_labels=_builtinIntegerLiteral:
+                                  (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' nothrow
+                                    (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+                                    (type_expr implicit type='Int.Type' typerepr='<<NULL>>'))
+                                  (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' names=_builtinIntegerLiteral
+                                    (integer_literal_expr implicit type='Builtin.IntLiteral' value=15)))
+                                (call_expr implicit type='Int' nothrow arg_labels=_builtinIntegerLiteral:
+                                  (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' nothrow
+                                    (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+                                    (type_expr implicit type='Int.Type' typerepr='<<NULL>>'))
+                                  (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' names=_builtinIntegerLiteral
+                                    (integer_literal_expr implicit type='Builtin.IntLiteral' value=1)))))
+                            (brace_stmt range=[main.swift:10:11 - line:10:32]
+                              (var_decl implicit "$interpolation" type='DefaultStringInterpolation' interface type='DefaultStringInterpolation' access=fileprivate non_pattern_init readImpl=stored writeImpl=stored readWriteImpl=stored)
+
+                              (call_expr implicit type='()' location=main.swift:10:12 range=[main.swift:10:12 - line:10:11] nothrow arg_labels=_:
+                                (dot_syntax_call_expr implicit type='(String) -> ()' location=main.swift:10:12 range=[main.swift:10:12 - line:10:12] nothrow
+                                  (declref_expr implicit type='(inout DefaultStringInterpolation) -> (String) -> ()' decl=Swift.(file).DefaultStringInterpolation.appendLiteral function_ref=single)
+                                  (inout_expr implicit type='inout DefaultStringInterpolation' location=main.swift:10:12 range=[main.swift:10:12 - line:10:12]
+                                    (declref_expr implicit type='@lvalue DefaultStringInterpolation' location=main.swift:10:12 range=[main.swift:10:12 - line:10:12] decl=main.(file).top-level code.$interpolation function_ref=unapplied)))
+                                (paren_expr implicit type='(String)' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11]
+                                  (string_literal_expr type='String' location=main.swift:10:11 range=[main.swift:10:11 - line:10:11] encoding=utf8 value="Orbiting " builtin_initializer=Swift.(file).String extension.init(_builtinStringLiteral:utf8CodeUnitCount:isASCII:) initializer=**NULL**)))
+                              (call_expr type='()' location=main.swift:10:22 range=[main.swift:10:22 - line:10:24] nothrow arg_labels=_:
+                                (dot_syntax_call_expr implicit type='(Int) -> ()' location=main.swift:10:22 range=[main.swift:10:22 - line:10:22] nothrow
+                                  (declref_expr implicit type='(inout DefaultStringInterpolation) -> (Int) -> ()' decl=Swift.(file).DefaultStringInterpolation.appendInterpolation [with (substitution_map generic_signature=<T where T : CustomStringConvertible> (substitution T -> Int))] function_ref=single)
+                                  (inout_expr implicit type='inout DefaultStringInterpolation' location=main.swift:10:22 range=[main.swift:10:22 - line:10:22]
+                                    (declref_expr implicit type='@lvalue DefaultStringInterpolation' location=main.swift:10:22 range=[main.swift:10:22 - line:10:22] decl=main.(file).top-level code.$interpolation function_ref=unapplied)))
+                                (paren_expr type='(Int)' location=main.swift:10:23 range=[main.swift:10:22 - line:10:24]
+                                  (load_expr implicit type='Int' location=main.swift:10:23 range=[main.swift:10:23 - line:10:23]
+                                    (declref_expr type='@lvalue Int' location=main.swift:10:23 range=[main.swift:10:23 - line:10:23] decl=main.(file).x@main.swift:8:5 function_ref=unapplied))))
+                              (call_expr implicit type='()' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] nothrow arg_labels=_:
+                                (dot_syntax_call_expr implicit type='(String) -> ()' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] nothrow
+                                  (declref_expr implicit type='(inout DefaultStringInterpolation) -> (String) -> ()' decl=Swift.(file).DefaultStringInterpolation.appendLiteral function_ref=single)
+                                  (inout_expr implicit type='inout DefaultStringInterpolation' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25]
+                                    (declref_expr implicit type='@lvalue DefaultStringInterpolation' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] decl=main.(file).top-level code.$interpolation function_ref=unapplied)))
+                                (paren_expr implicit type='(String)' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25]
+                                  (string_literal_expr type='String' location=main.swift:10:25 range=[main.swift:10:25 - line:10:25] encoding=utf8 value=" times" builtin_initializer=Swift.(file).String extension.init(_builtinStringLiteral:utf8CodeUnitCount:isASCII:) initializer=**NULL**)))))))))))))
+          (binary_expr type='()' location=main.swift:11:7 range=[main.swift:11:5 - line:11:10] nothrow
+            (dot_syntax_call_expr implicit type='(inout Int, Int) -> ()' location=main.swift:11:7 range=[main.swift:11:7 - line:11:7] nothrow
+              (declref_expr type='(Int.Type) -> (inout Int, Int) -> ()' location=main.swift:11:7 range=[main.swift:11:7 - line:11:7] decl=Swift.(file).Int.+= function_ref=unapplied)
+              (type_expr implicit type='Int.Type' location=main.swift:11:7 range=[main.swift:11:7 - line:11:7] typerepr='Int'))
+            (tuple_expr implicit type='(inout Int, Int)' location=main.swift:11:5 range=[main.swift:11:5 - line:11:10]
+              (inout_expr implicit type='inout Int' location=main.swift:11:5 range=[main.swift:11:5 - line:11:5]
+                (declref_expr type='@lvalue Int' location=main.swift:11:5 range=[main.swift:11:5 - line:11:5] decl=main.(file).x@main.swift:8:5 function_ref=unapplied))
+              (call_expr implicit type='Int' location=main.swift:11:10 range=[main.swift:11:10 - line:11:10] nothrow arg_labels=_builtinIntegerLiteral:
+                (constructor_ref_call_expr implicit type='(IntLiteral) -> Int' location=main.swift:11:10 range=[main.swift:11:10 - line:11:10] nothrow
+                  (declref_expr implicit type='(Int.Type) -> (IntLiteral) -> Int' location=main.swift:11:10 range=[main.swift:11:10 - line:11:10] decl=Swift.(file).Int.init(_builtinIntegerLiteral:) function_ref=single)
+                  (type_expr implicit type='Int.Type' location=main.swift:11:10 range=[main.swift:11:10 - line:11:10] typerepr='Int'))
+                (tuple_expr implicit type='(_builtinIntegerLiteral: Builtin.IntLiteral)' location=main.swift:11:10 range=[main.swift:11:10 - line:11:10] names=_builtinIntegerLiteral
+                  (integer_literal_expr type='Builtin.IntLiteral' location=main.swift:11:10 range=[main.swift:11:10 - line:11:10] value=1))))))
+        (binary_expr type='Bool' location=main.swift:12:10 range=[main.swift:12:8 - line:12:13] nothrow
+          (dot_syntax_call_expr implicit type='(Int, Int) -> Bool' location=main.swift:12:10 range=[main.swift:12:10 - line:12:10] nothrow
+            (declref_expr type='(Int.Type) -> (Int, Int) -> Bool' location=main.swift:12:10 range=[main.swift:12:10 - line:12:10] decl=Swift.(file).Int extension.<= function_ref=unapplied)
+            (type_expr implicit type='Int.Type' location=main.swift:12:10 range=[main.swift:12:10 - line:12:10] typerepr='Int'))
+          (tuple_expr implicit type='(Int, Int)' location=main.swift:12:8 range=[main.swift:12:8 - line:12:13]
+            (load_expr implicit type='Int' location=main.swift:12:8 range=[main.swift:12:8 - line:12:8]
+              (declref_expr type='@lvalue Int' location=main.swift:12:8 range=[main.swift:12:8 - line:12:8] decl=main.(file).x@main.swift:8:5 function_ref=unapplied))
+            (declref_expr type='Int' location=main.swift:12:13 range=[main.swift:12:13 - line:12:13] decl=main.(file).upperLimit@main.swift:3:5 function_ref=unapplied)))))))

@@ -1,0 +1,7 @@
+Pass: 0, Swaps: 0/0, Array: ["sassy", "special", "envious", "combative", "children", "well-to-do", "ratty", "moor", "lamentable"]
+Pass: 1, Swaps: 6/6, Array: ["sassy", "envious", "combative", "children", "special", "ratty", "moor", "lamentable", "well-to-do"]
+Pass: 2, Swaps: 6/12, Array: ["envious", "combative", "children", "sassy", "ratty", "moor", "lamentable", "special", "well-to-do"]
+Pass: 3, Swaps: 5/17, Array: ["combative", "children", "envious", "ratty", "moor", "lamentable", "sassy", "special", "well-to-do"]
+Pass: 4, Swaps: 3/20, Array: ["children", "combative", "envious", "moor", "lamentable", "ratty", "sassy", "special", "well-to-do"]
+Pass: 5, Swaps: 1/21, Array: ["children", "combative", "envious", "lamentable", "moor", "ratty", "sassy", "special", "well-to-do"]
+Pass: 6, Swaps: 0/21, Array: ["children", "combative", "envious", "lamentable", "moor", "ratty", "sassy", "special", "well-to-do"]

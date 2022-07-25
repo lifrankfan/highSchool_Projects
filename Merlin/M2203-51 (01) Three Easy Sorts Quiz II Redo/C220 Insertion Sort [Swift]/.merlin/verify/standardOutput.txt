@@ -1,0 +1,5 @@
+Pass: 0, Swaps: 0/0, Array: ["stereotyped", "parcel", "machine", "inform", "lethal"]
+Pass: 1, Swaps: 1/1, Array: ["parcel", "stereotyped", "machine", "inform", "lethal"]
+Pass: 2, Swaps: 2/3, Array: ["machine", "parcel", "stereotyped", "inform", "lethal"]
+Pass: 3, Swaps: 3/6, Array: ["inform", "machine", "parcel", "stereotyped", "lethal"]
+Pass: 4, Swaps: 3/9, Array: ["inform", "lethal", "machine", "parcel", "stereotyped"]

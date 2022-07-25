@@ -1,0 +1,5 @@
+let C = Node(value:"root")
+let values = Node.nodeValues(C.inorder())
+for value in values {
+	print(value)
+}

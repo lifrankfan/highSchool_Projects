@@ -1,0 +1,20 @@
+================================================================================
+1. Refer to the table W1014-Annex-1. Which symbol represents a ¬ gate?
+
+================================================================================
+2. Refer to the table W1014-Annex-1. Which symbol represents a ⊼ gate?
+
+================================================================================
+3. Refer to the table W1014-Annex-1. Which symbol represents a ⊽ gate?
+
+================================================================================
+4. Refer to the table W1014-Annex-1. Which symbol represents an ∧ gate?
+
+================================================================================
+5. Refer to the table W1014-Annex-1. Which symbol represents an ⊕ gate?
+
+================================================================================
+6. Refer to the table W1014-Annex-1. Which symbol represents an ∨ gate?
+
+================================================================================
+7. Refer to the table W1014-Annex-1. Which symbol represents a ⊻ gate?

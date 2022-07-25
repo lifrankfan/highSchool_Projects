@@ -1,0 +1,1 @@
+Pass: 0, Swaps: 0/0, Array: ["zephyr", "parsimonious", "shiver", "yoke", "military", "fax", "throne", "jealous", "fall"]

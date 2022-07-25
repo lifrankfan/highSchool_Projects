@@ -1,0 +1,58 @@
+func random() -> Double {
+  let d = Double.random(in: Double.leastNormalMagnitude ... Double.greatestFiniteMagnitude)
+  return Bool.random() ? d : -d
+}
+func validate(double:Double, real:Real) {
+  precondition(real.asDouble() == double,
+               "real.asDouble \(real.asDouble()) doesn't match double \(double)")
+  precondition(double.sign == (real.isNegative ? FloatingPointSign.minus : FloatingPointSign.plus),
+               "double.sign \(double.sign) doesn't match real.isNegative \(real.isNegative)")
+  precondition(double.significandBitPattern == real.significandBitPattern,
+               "double.significandBitPattern \(double.significandBitPattern) doesn't match real.signficiandBitPattern \(real.significandBitPattern)")
+  
+  precondition(double.exponentBitPattern == real.exponentBitPattern,
+               "double.exponentBitPattern \(double.exponentBitPattern) doesn't match real.expondentBitPattern \(real.exponentBitPattern)")
+  precondition("\(real)" == "\(double)",
+               "real \(real) doesn't match double \(double)")
+}
+for _ in 0 ..< 100 {
+  // da and ra are always created as a random double
+  let da = random()
+  let ra = da.asReal()
+  // db may be created from a random double or an int
+  let db : Double
+  let rb : Real
+  if Bool.random() {
+      db = random()
+      rb = db.asReal()
+  } else {
+      let n = Int.random(in: Int.min ... Int.max)
+      db = Double(n)
+      rb = Real(n)
+  }
+  
+  validate(double: da, real: ra)
+  validate(double: db, real: rb)
+  precondition(ra.add(rb).asDouble() == da + db,
+               "Adding reals using .add didn't yield the result expected: \(da) + \(db) = \(da + db)")
+               
+  precondition(ra.subtract(rb).asDouble() == da - db,
+               "Subtracting reals using .subtract didn't yield the result expected: \(da) - \(db) = \(da - db)")
+  precondition(ra.multiply(rb).asDouble() == da * db,
+               "Multiplying reals using .multiply didn't yield the result expected: \(da) * \(db) = \(da * db)")
+  precondition(ra.divide(rb).asDouble() == da / db,
+               "Dividing reals using .divide didn't yield the result expected: \(da) / \(db) = \(da / db)")
+  
+  precondition((ra + rb).asDouble() == da + db,
+               "Adding reals using + didn't yield the result expected: \(da) + \(db) = \(da + db)")
+               
+  precondition((ra - rb).asDouble() == da - db,
+               "Subtracting reals using - didn't yield the result expected: \(da) - \(db) = \(da - db)")
+  precondition((ra * rb).asDouble() == da * db,
+               "Multiplying reals using * didn't yield the result expected: \(da) * \(db) = \(da * db)")
+  precondition((ra / rb).asDouble() == da / db,
+               "Dividing reals using / didn't yield the result expected: \(da) / \(db) = \(da / db)")
+  
+  
+}
+print("Checks completed")

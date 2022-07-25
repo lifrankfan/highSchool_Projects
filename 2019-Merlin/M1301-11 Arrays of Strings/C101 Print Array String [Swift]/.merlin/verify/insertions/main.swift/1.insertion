@@ -1,0 +1,3 @@
+let strings : [String] = ["after", "weasel", "rotten", "remarkable", "sensitive", "chapter", "piano"]
+let count = printStrings(strings:strings)
+print(count)

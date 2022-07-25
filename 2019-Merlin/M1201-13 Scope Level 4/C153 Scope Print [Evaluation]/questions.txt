@@ -1,0 +1,28 @@
+let y = 127
+let k = 170
+let e = -850
+var v = 567
+var p = -121
+v = -162
+do {
+    let i = -743
+    let s = -695
+    var c = 29
+    var g = 438
+    g = 914
+    g = -87
+    print(c)
+}
+do {
+    let v = -35
+    let w = 268
+    var s = -24
+    var p = 120
+    p = -275
+    s = 882
+    print(p)
+    print(w)
+}
+v = 576
+print(v)
+print(v)

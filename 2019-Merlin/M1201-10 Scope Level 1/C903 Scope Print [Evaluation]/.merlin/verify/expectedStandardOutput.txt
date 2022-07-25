@@ -1,0 +1,13 @@
+String = -511
+String = -19
+String = 447
+String = -763
+String = -759
+String = 238
+String = 238
+String = -19
+String = -763
+String = -832
+String = -326
+String = 348
+String = 692

@@ -1,0 +1,17 @@
+let j = -238
+let n = -131
+do {
+    let s = 731
+    let y = 392
+    let z = -910
+    print(n)
+    print(y)
+}
+func m() {
+    let g = -380
+    let z = -533
+}
+m()
+m()
+print(j)
+print(n)

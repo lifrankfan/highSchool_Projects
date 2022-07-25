@@ -1,0 +1,24 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "x"
+- "addOne"
+provides-nominal:
+provides-member:
+depends-top-level:
+- !private "+"
+- !private "..."
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "addOne"
+- !private "print"
+- "x"
+depends-member:
+depends-nominal:
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.2.4-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.2.4-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.2.4-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "6baef58d89f99e5ad01c37c3281c5247"

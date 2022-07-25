@@ -1,0 +1,15 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "sayHello" which accepts no parameters, returns no value,
+
+     and produces the side effect of printing the word "hello".<bold>
+
+
+</bold>
+
+      
+
+ 
+

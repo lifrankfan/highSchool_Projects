@@ -1,0 +1,28 @@
+let a = 22
+let t = 317
+var x = -567
+var r = 172
+do {
+    let x = -584
+    let r = -537
+    var g = 733
+    do {
+        let q = -61
+        let f = -237
+        var s = 453
+        do {
+            let n = 588
+            var w = -570
+            print(w)
+            print(r)
+            print(n)
+        }
+        print(s)
+        print(x)
+    }
+    print(r)
+    print(r)
+    print(g)
+}
+print(r)
+print(t)

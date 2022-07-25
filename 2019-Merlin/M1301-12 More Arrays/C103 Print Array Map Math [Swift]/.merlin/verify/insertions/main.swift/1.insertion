@@ -1,0 +1,7 @@
+let integers : [Int] = [9771, -8112, 251, 2055, -2042, -4746]
+let operand = -805
+let operatorChar : Character = "+"
+print(integers)
+print(operand)
+print(operatorChar)
+print(applyOperation(integers:integers, operand:operand, operatorChar:operatorChar))

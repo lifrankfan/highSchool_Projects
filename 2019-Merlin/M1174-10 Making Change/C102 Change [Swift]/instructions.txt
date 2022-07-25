@@ -1,0 +1,47 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Define a function with the following signature:
+         printReceipt(itemSubtotal:String, tip:String, tax:String, amountPaid:String)
+     
+     Given:
+	itemSubtotal:  Formatted currency string of the sum of all items purchased
+	tip:           Formatted currency string of the desired tip
+	tax:           Formatted currency string of the tax (state and local) required
+	amountPaid:    Formatted currency string of the amount the customer paid
+
+     Determine the amount of change required, and then print, in order from the largest
+     denomination to the smallest, the number of units of each denomination required to
+     produce the sum, each time using the largest denomination possible, and preferring
+     paper bills to coins.
+*    The first line should be the text "Item Subtotal: " followed by the argument, properly
+     formatted for U.S. currency.
+*    The next line should be the the text "Tip: " followed by the argument, properly
+     formatted for U.S. currency.
+*    The next line should be the text "Tax: " followed by the argument, properly
+     formatted for U.S. currency.
+*    The next line should be the text "Total: " followed by the total amount due,
+     formatted for U.S. currency.
+*    The next line should be the text "Amount paid: " followed by the argument, properly
+     formatted for U.S. currency.
+*    The following line should be the constant "Change:"     
+*    The following lines should be one denomination per line, skipping denominations with 
+     zero units.  The first number must be the number of units, followed by a space, an 'x',
+     another space then the name of the denomination as listed below, being sure to use
+     the singular or plural as appropriate.
+*    The final two lines should list the number of "Bills: " and the number of "Coins: ".     
+
+*    Available denominations are limited to:
+     $100 bill
+     $50 bill
+     $20 bill
+     $10 bill
+     $5 bill
+     $2 bill
+     $1 bill
+     
+     $1 (one dollar coin)
+     $0.50 (half-dollar coin)
+     $0.25 (quarter)
+     $0.10 (dime)
+     $0.05 (nickel)
+     $0.01 (penny)
+ 

@@ -1,0 +1,18 @@
+let i = -403
+let j = -872
+var p = -39
+p = 13
+p = 666
+do {
+    let g = -956
+    let y = 200
+    let e = 474
+    var a = -267
+    a = 109
+    a = 618
+    a = 386
+    print(a)
+    print(y)
+}
+p = 813
+print(p)

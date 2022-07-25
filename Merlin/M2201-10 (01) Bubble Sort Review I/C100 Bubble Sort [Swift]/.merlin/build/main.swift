@@ -1,0 +1,57 @@
+
+
+// ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩
+// DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
+let unsortedIntegers = [-148, 831, 263, -936, -618, 960, 668, -268]
+// DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
+// ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧
+
+
+// Add your code below:
+var sorted = unsortedIntegers
+
+
+func swap(integers:inout [Int], firstIndex:Int, secondIndex:Int) {
+
+    /*
+    let firstEle = integers[firstIndex]
+    integers[firstIndex] = integers[secondIndex]
+    integers[secondIndex] = firstEle
+    
+     */
+
+    let fI = integers[firstIndex]
+    let sI = integers[secondIndex]
+    
+    integers.remove(at:firstIndex)
+    integers.insert(sI, at:firstIndex)
+    integers.remove(at:secondIndex)    
+    integers.insert(fI, at:secondIndex)
+
+    
+ 
+}
+
+var passes = 0
+var swaps = 0
+var tSwaps = 0
+var totalp = 1
+var lastTime = false
+print("Pass: \(passes), Swaps: \(swaps)/\(tSwaps), Array: \(sorted)")
+
+repeat {
+    totalp += 1
+    for x in 0 ..< sorted.count - 1 {
+        if sorted[x] > sorted[x+1] {
+            swaps += 1
+            tSwaps += 1
+            swap(integers:&sorted,firstIndex:x,secondIndex:x+1)
+        }
+    }
+    passes += 1
+    print("Pass: \(passes), Swaps: \(swaps)/\(tSwaps), Array: \(sorted)")
+    if swaps == 0 {
+        lastTime = true
+    }
+    swaps = 0
+}while lastTime == false && totalp < sorted.count

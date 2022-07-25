@@ -1,0 +1,28 @@
+let e = 198
+var r = 371
+do {
+    let h = -896
+    let m = 349
+    var q = -658
+    var y = -512
+    do {
+        let w = 629
+        var n = 960
+        var h = 820
+        do {
+            let k = -214
+            let t = -367
+            var y = -606
+            var h = 39
+            print(k)
+            print(e)
+        }
+        print(r)
+        print(r)
+    }
+    print(q)
+    print(e)
+    print(e)
+}
+print(r)
+print(e)

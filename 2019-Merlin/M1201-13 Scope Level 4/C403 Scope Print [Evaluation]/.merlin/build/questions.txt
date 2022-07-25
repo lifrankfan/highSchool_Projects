@@ -1,0 +1,49 @@
+let k = -975
+let g = 796
+var s = 354
+var j = 665
+s = 137
+s = 830
+do {
+    let e = 757
+    let i = 682
+    var x = 353
+    var p = -59
+    p = 175
+    x = 210
+    do {
+        let i = 997
+        var c = 887
+        c = 548
+        c = -597
+        do {
+            let g = -836
+            var b = -869
+            s = -946
+            c = 511
+            b = -948
+            print(s)
+            print(g)
+            print(g)
+        }
+        do {
+            let s = 953
+            var i = 423
+            x = -325
+            print(s)
+            print(k)
+            print(i)
+        }
+        p = 820
+        print(x)
+        print(c)
+    }
+    s = 598
+    j = 561
+    print(p)
+    print(s)
+}
+s = 904
+j = -599
+print(s)
+print(k)

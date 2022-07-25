@@ -1,0 +1,5 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Given the dimensions sideA, sideB, and sideC of a triangle:
+     a. Calculate and print the perimeter of the triangle
+ 3.  Given the dimensions base and height of a triangle:     
+     a. Calculate and print the area of the triangle

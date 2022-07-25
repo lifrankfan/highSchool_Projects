@@ -1,0 +1,6 @@
+1.  Edit the file "hello.s"
+*.  Note that the syntax is substantially more complex and appears cryptic.
+*.  It also appears to require many statements for a relatively simple operation.
+2.  Identify the lines to be modified so that "Hello, World!" is printed to the console
+*.  You'll need to modify more than one line to be successful.  Take your time and
+    read through the comments in the code (the text after the # sign).

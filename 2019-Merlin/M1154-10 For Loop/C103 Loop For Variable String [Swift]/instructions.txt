@@ -1,0 +1,6 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Add a for loop that executes from the limit specified by the constant lowerLimit
+     through the limit specified by the constant upperLimit
+ 3.  Each time through the loop print "Bus #23 is stopping at station #n for two minutes." (where n is replaced by the current
+     loop control variable)
+ 

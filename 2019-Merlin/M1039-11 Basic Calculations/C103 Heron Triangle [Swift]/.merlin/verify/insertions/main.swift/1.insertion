@@ -1,0 +1,3 @@
+let sideA : UInt32 = 150
+let sideB : Float = 200.0
+let sideC : Int = 250

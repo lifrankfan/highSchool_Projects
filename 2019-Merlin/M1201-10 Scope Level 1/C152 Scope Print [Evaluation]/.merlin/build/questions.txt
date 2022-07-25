@@ -1,0 +1,9 @@
+let c = -219
+let b = 13
+do {
+    let s = -687
+    let g = 597
+    print(s)
+    print(g)
+}
+print(c)

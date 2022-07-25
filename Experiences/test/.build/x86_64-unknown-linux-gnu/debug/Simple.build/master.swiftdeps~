@@ -1,0 +1,5 @@
+version: "Swift version 5.2.4 (swift-5.2.4-RELEASE)"
+options: "6f3bf2f8441cbf4f2f6f032f70d4566d"
+build_time: [1600708679, 485255223]
+inputs:
+  "/home/li-fan/Experiences/test/main.swift": [1600708679, 110974112]

@@ -1,0 +1,20 @@
+GENERAL RULES FOR EVALUATIONS
+============================================================================
+1.  Read the questions in the file questions.txt
+2.  For each question, provide an answer in the file answers.txt
+3.  Each answer must be on a separate line
+4.  Each answer must be on the line number matching the question number
+
+----- Numeric Answers -----
+5.  If an integer number is required, you MUST NOT include a decimal point
+6.  If a floating point number is required, you MUST include a decimal point
+    followed by a digit (e.g. 0)
+7.  Punctuation in numeric types (commas, spaces, and the underscore) is
+    ignored
+    
+----- Boolean Answers -----
+8.  Boolean answers MUST be answered in lowercase, using either:
+    true or false
+
+----- Multiple Choice Answers -----
+9.  Multiple choice answers must use capital letters

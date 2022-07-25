@@ -1,0 +1,42 @@
+let d = 82
+var p = -611
+var n = -101
+n = 912
+p = 523
+do {
+    let z = -136
+    var a = 124
+    var r = 821
+    a = 716
+    r = -354
+    do {
+        let n = 47
+        var v = 867
+        v = 545
+        v = 34
+        do {
+            let d = 321
+            let a = 952
+            var i = -372
+            i = 212
+            i = 371
+            p = -846
+            print(d)
+            print(d)
+        }
+        p = 298
+        a = 356
+        print(n)
+        print(n)
+        print(r)
+    }
+    a = -286
+    p = 56
+    print(z)
+    print(d)
+}
+n = 677
+p = -486
+print(d)
+print(n)
+print(p)

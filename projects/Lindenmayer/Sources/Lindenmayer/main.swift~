@@ -1,0 +1,36 @@
+// long way to write it
+let numbers = [12, 16, -19]
+
+func multiplyBy2(_ n: Int) -> Int {
+return n*2
+}
+
+let numbers2 = numbers.map {multiplyBy2($0)}
+
+print(numbers2)
+
+
+// short way to write it
+
+/*
+let numbers2 = numbers.map {
+$0 * 2
+}
+
+print(numbers2)
+
+
+
+ */
+
+// filters
+
+/*
+for number in numbers {
+    if number < 0 {
+        print(number)
+    }
+}
+print(numbers.filter {$0 < 0})
+
+ */

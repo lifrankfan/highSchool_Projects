@@ -1,0 +1,32 @@
+let y = -253
+let g = -535
+func p() {
+    let p = 175
+    let q = -379
+    func r() {
+        let n = 15
+        let e = 913
+        let a = 772
+        print(a)
+        print(q)
+    }
+    r()
+    print(y)
+    print(q)
+}
+do {
+    let w = -982
+    let i = -306
+    do {
+        let a = -792
+        let j = -380
+        print(g)
+        print(a)
+        print(a)
+    }
+    print(y)
+    print(g)
+}
+p()
+print(y)
+print(y)

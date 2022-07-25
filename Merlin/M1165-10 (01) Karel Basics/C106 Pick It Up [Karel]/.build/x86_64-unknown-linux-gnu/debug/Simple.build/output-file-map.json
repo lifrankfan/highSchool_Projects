@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/ActionPlan.swift": {
+    "dependencies": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.d",
+    "object": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/WorldPlanner.swift": {
+    "dependencies": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.d",
+    "object": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swiftdeps"
+  },
+  "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/main.swift": {
+    "dependencies": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Merlin/M1165-10 (01) Karel Basics/C106 Pick It Up [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

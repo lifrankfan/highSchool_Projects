@@ -1,0 +1,10 @@
+1. Edit a file named "main.swift"
+2. Implement a function named 'numberAsWord' which takes a single,
+   Int parameter named 'number' and returns a String.
+   The function should return a String which uses words to
+   describe the integer.
+   For example, given the integer 5, the String returned
+   should be "five".
+*  Note the name of the challenge which may indicate relevant
+   constraints.
+   

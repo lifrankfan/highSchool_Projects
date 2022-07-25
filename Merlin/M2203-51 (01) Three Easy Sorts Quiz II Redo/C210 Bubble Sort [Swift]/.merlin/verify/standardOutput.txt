@@ -1,0 +1,6 @@
+Pass: 0, Swaps: 0/0, Array: ["quarrelsome", "ladybug", "writing", "baseball", "plants", "destruction"]
+Pass: 1, Swaps: 4/4, Array: ["ladybug", "quarrelsome", "baseball", "plants", "destruction", "writing"]
+Pass: 2, Swaps: 3/7, Array: ["ladybug", "baseball", "plants", "destruction", "quarrelsome", "writing"]
+Pass: 3, Swaps: 2/9, Array: ["baseball", "ladybug", "destruction", "plants", "quarrelsome", "writing"]
+Pass: 4, Swaps: 1/10, Array: ["baseball", "destruction", "ladybug", "plants", "quarrelsome", "writing"]
+Pass: 5, Swaps: 0/10, Array: ["baseball", "destruction", "ladybug", "plants", "quarrelsome", "writing"]

@@ -1,0 +1,24 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1. Edit a file named "main.swift"
+ 2. Create a class called Node
+
+ 3. Do not specify access modifiers
+
+ 4. Create a property called "value" of type string
+
+ 5. Create a property called "children" of type array of Nodes
+
+ 6. Create a default constructor which initializes value to an empty string and children to an empty array
+
+ 7. Create a constructor which accepts a parameter named value and assigns it to the appropriate property
+
+ 
+
+     
+
+      
+
+ 
+

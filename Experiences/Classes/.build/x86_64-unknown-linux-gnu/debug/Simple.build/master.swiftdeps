@@ -1,0 +1,5 @@
+version: "Swift version 5.3.2 (swift-5.3.2-RELEASE)"
+options: "f4e0037401e4bb2d8ee2a41b8d173d12"
+build_time: [1611945168, 965321870]
+inputs:
+  "/home/li-fan/Experiences/Classes/main.swift": [1611945168, 622114434]

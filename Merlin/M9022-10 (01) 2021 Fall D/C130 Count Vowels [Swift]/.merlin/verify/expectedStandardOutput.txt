@@ -1,0 +1,6 @@
+language:4,4
+letters:2,5
+meeting:3,4
+scary:1,4
+splendid:2,6
+grieving:3,5

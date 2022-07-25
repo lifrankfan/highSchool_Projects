@@ -1,0 +1,15 @@
+1.  Run the challenge (outside of the Merlin Mission Manager) by typing "run".
+2.  Open your browser to your dedicated Igis URL.
+3.  Examine the initial state.
+4.  Press the <SPACE> key.  Examine the goal state.
+5.  Develop a PRECISE and UNAMBIGUOUS plan to reach the GOAL state from the INITIAL state.  
+6.  Construct a flowchart which clearly expresses the plan.
+    Be sure to identify and indicate Function Block Opportunities.
+7.  Edit the file named "ActionPlan.swift"; do not change any other files.
+8.  Implement your plan from the flowchart using Swift.
+9.  Verify your plan using "run" before using "merlin test".
+
+NOTES:
+* This world may be of arbitrary size.
+* The number of hurdles is arbitrary.
+* The height of hurdles is arbitrary.

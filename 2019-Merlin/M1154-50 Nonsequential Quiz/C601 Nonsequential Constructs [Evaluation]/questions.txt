@@ -1,0 +1,77 @@
+================================================================================
+1. Examine W1154-Annex-1. Which assembly language listing best describes a while construct?
+------------------------------------------------------------
+	A.  LISTING 4
+	B.  LISTING 3
+	C.  LISTING 2
+	D.  LISTING 1
+
+================================================================================
+2. Examine W1154-Annex-1. Which flowchart best describes a conditional, non-looping construct?
+------------------------------------------------------------
+	A.  FLOWCHART 1
+	B.  FLOWCHART 2
+	C.  FLOWCHART 3
+
+================================================================================
+3. Examine W1154-Annex-1. Which flowchart best describes a repeat-while construct?
+------------------------------------------------------------
+	A.  FLOWCHART 2
+	B.  FLOWCHART 1
+	C.  FLOWCHART 3
+
+================================================================================
+4. Examine W1154-Annex-1. Which assembly language listing best describes a purely sequential construct?
+------------------------------------------------------------
+	A.  LISTING 2
+	B.  LISTING 4
+	C.  LISTING 1
+	D.  LISTING 3
+
+================================================================================
+5. Examine W1154-Annex-1. Which sequence best describes a while construct?
+------------------------------------------------------------
+	A.  SEQUENCE 4
+	B.  SEQUENCE 3
+	C.  SEQUENCE 2
+	D.  SEQUENCE 1
+
+================================================================================
+6. Examine W1154-Annex-1. Which assembly language listing best describes a conditional, non-looping construct?
+------------------------------------------------------------
+	A.  LISTING 4
+	B.  LISTING 3
+	C.  LISTING 1
+	D.  LISTING 2
+
+================================================================================
+7. Examine W1154-Annex-1. Which assembly language listing best describes a repeat-while construct?
+------------------------------------------------------------
+	A.  LISTING 4
+	B.  LISTING 2
+	C.  LISTING 1
+	D.  LISTING 3
+
+================================================================================
+8. Examine W1154-Annex-1. Which sequence best describes a conditional, non-looping construct?
+------------------------------------------------------------
+	A.  SEQUENCE 2
+	B.  SEQUENCE 1
+	C.  SEQUENCE 3
+	D.  SEQUENCE 4
+
+================================================================================
+9. Examine W1154-Annex-1. Which sequence best describes a repeat-while construct?
+------------------------------------------------------------
+	A.  SEQUENCE 4
+	B.  SEQUENCE 3
+	C.  SEQUENCE 2
+	D.  SEQUENCE 1
+
+================================================================================
+10. Examine W1154-Annex-1.  Which sequence best describes a purely sequential construct?
+------------------------------------------------------------
+	A.  SEQUENCE 4
+	B.  SEQUENCE 3
+	C.  SEQUENCE 2
+	D.  SEQUENCE 1

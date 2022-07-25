@@ -1,0 +1,10 @@
+let y = -703
+let s = -218
+do {
+    let j = -2
+    let w = -614
+    let f = 18
+    print(y)
+}
+print(y)
+print(y)

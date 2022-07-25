@@ -1,0 +1,3 @@
+let string = "83Xx"
+let m = 3
+let base = 10

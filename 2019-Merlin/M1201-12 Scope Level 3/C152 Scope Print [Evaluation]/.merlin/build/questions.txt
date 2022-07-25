@@ -1,0 +1,11 @@
+let k = 757
+let z = 550
+let j = -894
+do {
+    let h = -125
+    let z = 170
+    let v = 319
+    print(v)
+}
+print(z)
+print(z)

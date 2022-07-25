@@ -1,0 +1,7 @@
+version: "Swift version 5.3.2 (swift-5.3.2-RELEASE)"
+options: "9bc3f5c0dbb7ee19b0929e2e8ac11c8a"
+build_time: [1619996600, 855468820]
+inputs:
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/.merlin/build/ActionPlan.swift": [1619996600, 404473832]
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/.merlin/build/WorldPlanner.swift": [1619996600, 364475547]
+  "/home/li-fan/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/.merlin/build/main.swift": [1619996600, 372475203]

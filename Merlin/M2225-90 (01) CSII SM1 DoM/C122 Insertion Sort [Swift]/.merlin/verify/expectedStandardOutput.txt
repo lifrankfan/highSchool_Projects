@@ -1,0 +1,5 @@
+Pass: 0, Swaps: 0/0, Array: ["scold", "afternoon", "kill", "belong", "crown"]
+Pass: 1, Swaps: 1/1, Array: ["afternoon", "scold", "kill", "belong", "crown"]
+Pass: 2, Swaps: 1/2, Array: ["afternoon", "kill", "scold", "belong", "crown"]
+Pass: 3, Swaps: 2/4, Array: ["afternoon", "belong", "kill", "scold", "crown"]
+Pass: 4, Swaps: 2/6, Array: ["afternoon", "belong", "crown", "kill", "scold"]

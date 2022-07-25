@@ -1,0 +1,13 @@
+literate
+dizzy
+literate{dizzy}
+literate{dizzy{fretful, advise}}
+glib
+literate{dizzy{fretful, advise}, glib}
+literate{dizzy{fretful, advise}, glib{distinct}}
+puzzled
+literate{dizzy{fretful, advise}, glib{distinct}, puzzled}
+literate{dizzy{fretful, advise}, glib{distinct}, puzzled}
+ajar
+literate{dizzy{fretful, advise}, glib{distinct}, puzzled, ajar}
+literate{dizzy{fretful, advise}, glib{distinct}, puzzled, ajar{distance, carriage}}

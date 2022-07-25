@@ -1,0 +1,4 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Given the dimensions width and height of a rectangle:
+     3. Calculate and print the perimeter of the rectangle
+     4. Calculate and print the area of the rectangle

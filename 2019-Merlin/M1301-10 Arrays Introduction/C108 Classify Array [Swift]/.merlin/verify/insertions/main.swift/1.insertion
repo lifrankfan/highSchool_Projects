@@ -1,0 +1,2 @@
+let integers = [-1754, -6635, 9005, -7356, 3509, -3932, -2735]
+print(classify(integers:integers))

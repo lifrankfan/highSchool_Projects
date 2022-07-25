@@ -1,0 +1,18 @@
+let y = 367
+let g = 416
+do {
+    let w = 241
+    let h = -922
+    print(h)
+    print(h)
+}
+func r() {
+    let j = 725
+    let c = 126
+    let r = 605
+    print(r)
+    print(r)
+}
+r()
+print(y)
+print(g)

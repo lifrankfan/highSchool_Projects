@@ -1,0 +1,11 @@
+String = 988
+String = 740
+String = -799
+String = -531
+String = -799
+String = -365
+String = -607
+String = -607
+String = -860
+String = -860
+String = 219

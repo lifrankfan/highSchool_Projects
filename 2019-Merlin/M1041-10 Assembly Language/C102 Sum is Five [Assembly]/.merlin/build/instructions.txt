@@ -1,0 +1,5 @@
+1.  Edit the file "add.s"
+2.  Find the comments in the code where two single-digit numbers are being added
+    to determine a sum
+3.  Alter the digits so that the sum will be 5
+*.  Take your time and read through the comments in the code (the text after the # sign).

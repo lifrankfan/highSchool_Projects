@@ -1,0 +1,29 @@
+1. Given a ⊼ b, find the equivalent expression by using DeMorgan's Law:
+	A. ¬ (¬a ∧ ¬b)
+	B. ¬ (¬a ⊽ ¬b)
+	C. ¬ (a ⊽ ¬b)
+	D. ¬ (¬a ⊽ b)
+
+2. Given ¬ (a ⊼ b), find the equivalent expression by using DeMorgan's Law:
+	A. ¬a ∨ ¬b
+	B. ¬a ⊽ ¬b
+	C. a ⊽ ¬b
+	D. ¬a ⊽ b
+
+3. Given ¬ (a ∨ ¬b), find the equivalent expression by using DeMorgan's Law:
+	A. a ∧ b
+	B. ¬a ∧ ¬b
+	C. ¬a ∨ b
+	D. ¬a ∧ b
+
+4. Given ¬ (a ⊼ b), find the equivalent expression by using DeMorgan's Law:
+	A. ¬a ∧ ¬b
+	B. ¬a ⊽ ¬b
+	C. ¬a ⊽ b
+	D. a ⊽ ¬b
+
+5. Given ¬ (a ∧ b), find the equivalent expression by using DeMorgan's Law:
+	A. ¬a ∨ ¬b
+	B. ¬a ∨ b
+	C. a ∨ ¬b
+	D. ¬a ⊽ ¬b

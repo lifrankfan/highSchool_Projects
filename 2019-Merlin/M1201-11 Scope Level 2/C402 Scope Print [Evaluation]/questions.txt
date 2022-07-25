@@ -1,0 +1,42 @@
+let e = -955
+let r = 495
+func u() {
+    let d = -954
+    let w = -753
+    let k = -283
+    func i() {
+        let h = -612
+        let d = 984
+        let u = -892
+        print(r)
+        print(u)
+    }
+    i()
+    print(w)
+    print(r)
+}
+do {
+    let n = 975
+    let q = -843
+    do {
+        let j = -939
+        let f = -348
+        print(j)
+        print(j)
+    }
+    do {
+        let n = 34
+        let g = 516
+        let e = -254
+        print(r)
+        print(q)
+        print(n)
+    }
+    print(r)
+    print(r)
+}
+u()
+u()
+print(e)
+print(r)
+print(e)

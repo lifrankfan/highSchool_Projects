@@ -1,0 +1,49 @@
+1. In emacs, to kill from the cursor position to the end of the current sentence, the correct key sequence is:
+	A.  M-DEL
+	B.  C-k
+	C.  M-k
+	D.  C-DEL
+
+2. In emacs, reinsertion of text is called "yanking".
+	A.  True
+	B.  False
+
+3. In emacs, what happens when you are at the beginning of a line (and there is text above) and you issue a key sequence to move backward a single character?
+	A.  The cursor will not move and the terminal will beep
+	B.  The cursor will move to the end of the previous line
+	C.  The cursor will move to the end of the next line
+	D.  The cursor will move to the end of the current line
+
+4. When using emacs in a text terminal, long text lines which are continued on to another screen line are indicated by which character on the rightmost screen column?
+	A.  ! (an exclamation point)
+	B.  $ (a dollar sign)
+	C.  / (a forward slash)
+	D.  \ (a backslash)
+
+5. In emacs, an incremental reverse search may be initiated with the key sequence:
+	A.  M-r
+	B.  C-r
+	C.  M-x reverse-search
+	D.  C-x C-r
+
+6. In emacs, it is an error to find a file which does not yet exist.
+	A.  True
+	B.  False
+
+7. In emacs, minor modes enable minor modifications to the major mode.
+	A.  True
+	B.  False
+
+8. In emacs, the difference between "killing" and "deleting" text is that "deleted" text can be reinserted at any position, whereas "killed" text cannot be reinserted in this way.
+	A.  True
+	B.  False
+
+9. To end an emacs session, the correct key sequence is:
+	A.  C-c C-x
+	B.  M-x M-c
+	C.  C-x C-c
+	D.  M-c M-x
+
+10. In emacs, in order to make the text you edit permanent, you must save it in a file.
+	A.  True
+	B.  False

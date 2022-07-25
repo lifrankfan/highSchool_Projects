@@ -1,0 +1,16 @@
+1. Create a file named "main.swift".
+2. Use your code from project 2511 as a starting point.
+3. Refactor the code using a Dictionary which maps the predecessor of a rule to the rule itself.
+4. Read from standard input.  Expect the following:
+   - The alphabet of an LSystem prefixed by the string "alphabet:" followed by the alphabet.
+   - A series of one or more production rules, one per line, preceded by the string "productionRule:".
+     Each rule will indicate the predecessor, the string " -> ", followed by the successor.
+   - The axiom, preceded by the string "axiom:".
+   - The generationCount to be produced, preceded by the string "generationCount:".
+5. Produce the following output:
+   - The string "terminals:" followed by a list of terminals, in sorted order.
+   - The string "nonTerminals:" followed by a list of nonterminals, in sorted order.
+   - For the number of generations requested, print each generation on its own line,
+     preceded by the string "generation[n]:" where n is the index of the generation
+     being printed.  
+     

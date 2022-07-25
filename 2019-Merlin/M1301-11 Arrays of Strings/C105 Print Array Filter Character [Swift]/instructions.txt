@@ -1,0 +1,33 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "printStringsStartingWith" which:
+
+     	 - accepts two parameters
+
+ 	 - The first parameter is named "strings" of type array of strings
+
+	 - The second parameter is named "character" of type Character
+
+     	 - returns the number of printed strings
+
+	 - prints each element starting with the specified character, in order, on a separate line
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

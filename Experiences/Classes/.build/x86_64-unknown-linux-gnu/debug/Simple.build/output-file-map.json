@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/li-fan/Experiences/Classes/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/li-fan/Experiences/Classes/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/Classes/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/li-fan/Experiences/Classes/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/Classes/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/Classes/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

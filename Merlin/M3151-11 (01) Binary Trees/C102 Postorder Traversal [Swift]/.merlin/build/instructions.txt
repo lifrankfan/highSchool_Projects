@@ -1,0 +1,10 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1. Edit a file named "main.swift"
+ 2. Add a function "postorder" that generates an ordered array of nodes traversed in "postorder"
+
+       
+
+ 
+

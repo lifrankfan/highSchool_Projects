@@ -1,0 +1,31 @@
+let p = 534
+let g = 564
+let c = -812
+var q = 277
+var s = -865
+q = -455
+do {
+    let b = -134
+    let v = 50
+    let u = -347
+    var e = -283
+    var i = 178
+    e = 369
+    i = -759
+    i = 967
+    print(v)
+    print(b)
+}
+do {
+    let k = 689
+    let u = -303
+    let c = 639
+    var x = 23
+    x = -529
+    x = -46
+    x = -808
+    print(x)
+}
+q = 160
+s = 291
+print(s)

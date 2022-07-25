@@ -1,0 +1,16 @@
+let f = 118
+let b = 769
+func c() {
+    let d = -881
+    let x = -773
+    print(x)
+    print(d)
+}
+func r() {
+    let v = -734
+    let h = 730
+    print(h)
+    print(v)
+}
+print(f)
+print(b)

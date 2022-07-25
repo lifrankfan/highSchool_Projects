@@ -1,0 +1,31 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "doubleWords" which:
+
+      - accepts one parameter
+
+         - the sole parameter is "words" of type array of String
+
+      - forms a new array by 'doubling' each string
+
+      - returns an array containing the new values
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

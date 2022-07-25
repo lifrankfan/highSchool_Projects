@@ -1,0 +1,6 @@
+1.  Edit the file named "main.swift"
+2.  Given an array of String:
+    	  print each string followed by a colon and the count of vowels,
+	  a comma, and a count of consonants, in the order of the original array.
+
+

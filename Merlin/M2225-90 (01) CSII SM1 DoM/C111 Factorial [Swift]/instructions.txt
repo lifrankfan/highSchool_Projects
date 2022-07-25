@@ -1,0 +1,21 @@
+1.  Edit the file named "main.swift"
+
+2.  Within this file, write a program which will generate the value of the specified
+    factorial as follows:
+    	      factorial(n) =
+	      		   1				if n <= 1
+			   n * factorial(n-1)		otherwise
+			   
+3.  The output should be as follows, demonstrating each step through the algorithm:
+    At the beginning of each calculation, print:
+       Calculating factorial(<n>)...
+
+    In the terminal case, print:
+       Terminal case, returning 1.
+
+    In the non-terminal case, print:
+       Non-terminal case, returning <result>.
+
+    After the entire calculcation is complete, print:
+       The final result is: <result>.
+

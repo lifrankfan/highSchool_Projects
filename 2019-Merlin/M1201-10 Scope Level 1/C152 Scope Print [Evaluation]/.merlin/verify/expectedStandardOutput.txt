@@ -1,0 +1,3 @@
+String = -687
+String = 597
+String = -219

@@ -1,0 +1,38 @@
+let x = -2
+var w = -333
+var t = 760
+t = 131
+t = 298
+do {
+    let t = 115
+    var f = 361
+    w = -774
+    do {
+        let b = 115
+        var d = -800
+        var v = 960
+        w = 868
+        w = 853
+        do {
+            let t = 428
+            let u = -415
+            var h = -215
+            h = -766
+            d = -813
+            print(d)
+            print(h)
+        }
+        f = 421
+        print(d)
+        print(x)
+        print(b)
+    }
+    f = 803
+    w = 85
+    print(f)
+    print(w)
+}
+w = 812
+w = 228
+print(x)
+print(x)

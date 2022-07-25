@@ -1,0 +1,42 @@
+let m = 314
+let n = 348
+var a = 692
+func q(j:Int) {
+    let e = -326
+    var p = -832
+    var c = 66
+    do {
+        let p = -19
+        var y = -763
+        do {
+            let d = -387
+            let h = 468
+            var f = 59
+            var t = 238
+            do {
+                let h = 884
+                let s = -929
+                var w = -511
+                print(w)
+                print(p)
+            }
+            do {
+                let s = 447
+                var x = -759
+                var d = -202
+                print(s)
+                print(y)
+                print(x)
+            }
+            print(t)
+            print(t)
+        }
+        print(p)
+        print(y)
+    }
+    print(p)
+    print(e)
+}
+q(j:n)
+print(n)
+print(a)

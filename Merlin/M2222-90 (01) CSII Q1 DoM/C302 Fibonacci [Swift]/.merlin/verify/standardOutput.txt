@@ -1,0 +1,3 @@
+Calculating fibonacci(-2)...
+Terminal case, returning 1.
+The final result is: 1.

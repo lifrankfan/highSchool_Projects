@@ -1,0 +1,28 @@
+class LSystem  {
+    private let alphabet: Set<Character>
+    private let axiom: String
+    private let productionRules: ProductionRules
+
+    public init(alphabet: Set<Character>, axiom: String, productionRules: [ProductionRule]) {
+    }
+
+    func nonTerminals() -> Set<Character> {
+        return Set(productionRules.nonTerminals())
+    }
+
+    func terminals() -> Set<Character> {
+        return Set(productionRules.nonTerminals())
+    }
+
+    func produce(generationCount:Int, initiator:String? = nil) -> String {
+    }
+
+}
+
+func main () {
+    // read from standard input
+
+    // parse the input, evaluate the commands, create the needed structures
+    
+    // create and invoke produce() on L-system
+}

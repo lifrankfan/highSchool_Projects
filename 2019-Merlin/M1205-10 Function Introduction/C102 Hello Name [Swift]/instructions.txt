@@ -1,0 +1,17 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "sayHello" which accepts a single String parameter
+
+     named "name", returns nothing, and produces the side effect of printing the word
+
+     "hello, " followed by the specified name.<bold>
+
+
+</bold>
+
+      
+
+ 
+

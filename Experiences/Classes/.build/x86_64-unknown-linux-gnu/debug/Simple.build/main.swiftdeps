@@ -1,0 +1,80 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "VideoGame"
+- "StrategyGame"
+- "videoGame"
+- "strategyGame"
+- "games"
+provides-nominal:
+- "6Simple9VideoGameC"
+- "6Simple12StrategyGameC"
+provides-member:
+- ["6Simple9VideoGameC", ""]
+- ["6Simple12StrategyGameC", ""]
+depends-top-level:
+- "+="
+- "Array"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "StrategyGame"
+- "String"
+- "StringLiteralType"
+- "VideoGame"
+- "games"
+- "print"
+- "strategyGame"
+- "videoGame"
+depends-member:
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- ["s32ExpressibleByStringInterpolationP", "init"]
+- ["ST", "Element"]
+- ["ST", "Iterator"]
+- ["ST", "makeIterator"]
+- ["6Simple12StrategyGameC", "Int"]
+- ["6Simple12StrategyGameC", "String"]
+- ["6Simple12StrategyGameC", "deinit"]
+- ["6Simple12StrategyGameC", "init"]
+- ["6Simple12StrategyGameC", "name"]
+- ["6Simple12StrategyGameC", "puzzleCount"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["s27StringInterpolationProtocolP", "init"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- ["6Simple9VideoGameC", "Int"]
+- ["6Simple9VideoGameC", "String"]
+- ["6Simple9VideoGameC", ""]
+- ["6Simple9VideoGameC", "deinit"]
+- ["6Simple9VideoGameC", "init"]
+- ["6Simple9VideoGameC", "name"]
+- ["6Simple9VideoGameC", "puzzleCount"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "s23CustomStringConvertibleP"
+- "s26DefaultStringInterpolationV"
+- "s25ExpressibleByArrayLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "ST"
+- "6Simple12StrategyGameC"
+- "s27StringInterpolationProtocolP"
+- "s16TextOutputStreamP"
+- "6Simple9VideoGameC"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "f73ba5ed75b19586e805c2834c829732"

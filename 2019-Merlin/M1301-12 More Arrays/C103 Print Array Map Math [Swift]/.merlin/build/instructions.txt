@@ -1,0 +1,35 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "applyOperation" which:
+
+      - accepts three parameters
+
+         - the first parameter is "integers" of type array of integers
+
+ 	 - the second parameter is "operand" of type integer
+
+	 - the third parameter is "operatorChar" of type character, either "+" or "*"
+
+      - forms a new array by applying the operator to the operand for each element
+
+      - returns an array containing the new values
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

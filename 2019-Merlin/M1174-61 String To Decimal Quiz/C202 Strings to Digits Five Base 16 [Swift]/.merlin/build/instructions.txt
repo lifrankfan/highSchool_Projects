@@ -1,0 +1,12 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Without using an explicit conversion from a String to an Integer,
+     convert the specified string 'string' to a base ten integer, ignoring any
+     characters which are non-digits.
+ *   Digits for bases larger than 10 will use lowercase letters.
+ 3.  Be sure to use the source base specified in the name of the challenge.
+ *   The base will also be specified as a constant.
+ 4.  Divide the result (using integer division) by the integer 'm'.
+ 5.  Print the original string on the first line.
+ 6.  Print the result of the calculation on the second line.
+ 
+ 

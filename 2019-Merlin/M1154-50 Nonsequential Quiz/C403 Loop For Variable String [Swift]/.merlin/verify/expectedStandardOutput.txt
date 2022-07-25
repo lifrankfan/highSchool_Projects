@@ -1,0 +1,3 @@
+Bus #23 is stopping at station #1 for two minutes.
+Bus #23 is stopping at station #2 for two minutes.
+Bus #23 is stopping at station #3 for two minutes.

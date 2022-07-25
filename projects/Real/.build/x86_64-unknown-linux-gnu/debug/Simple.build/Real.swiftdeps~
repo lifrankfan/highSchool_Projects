@@ -1,0 +1,260 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Real"
+- "+"
+- "-"
+- "*"
+- "/"
+provides-nominal:
+- "6Simple4RealV"
+provides-member:
+- ["6Simple4RealV", ""]
+- ["Sd", ""]
+- ["6Simple4RealV", "+"]
+- ["6Simple4RealV", "-"]
+- ["6Simple4RealV", "*"]
+- ["6Simple4RealV", "/"]
+- ["Sd", "asReal"]
+depends-top-level:
+- "*"
+- "+"
+- "-"
+- "/"
+- !private "<"
+- "AssignmentPrecedence"
+- "Bool"
+- "CustomStringConvertible"
+- "Double"
+- !private "FloatLiteralType"
+- !private "FloatingPointSign"
+- !private "IntegerLiteralType"
+- "Real"
+- "String"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "UInt"
+- "UInt64"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "Real"]
+- !private ["s18AdditiveArithmeticP", "asReal"]
+- !private ["s18AdditiveArithmeticP", "exponentBitPattern"]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["s18AdditiveArithmeticP", "significandBitPattern"]
+- !private ["SB", "Real"]
+- !private ["SB", "asReal"]
+- !private ["SB", "exponentBitPattern"]
+- !private ["SB", "init"]
+- !private ["SB", "significandBitPattern"]
+- !private ["s7CVarArgP", "Real"]
+- !private ["s7CVarArgP", "asReal"]
+- !private ["s7CVarArgP", "exponentBitPattern"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "significandBitPattern"]
+- !private ["SL", "Real"]
+- !private ["SL", "asReal"]
+- !private ["SL", "exponentBitPattern"]
+- !private ["SL", "init"]
+- !private ["SL", "significandBitPattern"]
+- !private ["s28CustomDebugStringConvertibleP", "Real"]
+- !private ["s28CustomDebugStringConvertibleP", "asReal"]
+- !private ["s28CustomDebugStringConvertibleP", "exponentBitPattern"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "significandBitPattern"]
+- !private ["s17CustomReflectableP", "Real"]
+- !private ["s17CustomReflectableP", "asReal"]
+- !private ["s17CustomReflectableP", "exponentBitPattern"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "significandBitPattern"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "FloatingPointSign"]
+- !private ["s23CustomStringConvertibleP", "Real"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "add"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "asDouble"]
+- !private ["s23CustomStringConvertibleP", "asReal"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "divide"]
+- !private ["s23CustomStringConvertibleP", "exponentBitPattern"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isNegative"]
+- !private ["s23CustomStringConvertibleP", "multiply"]
+- !private ["s23CustomStringConvertibleP", "significandBitPattern"]
+- !private ["s23CustomStringConvertibleP", "subtract"]
+- !private ["Se", "Real"]
+- !private ["Se", "asReal"]
+- !private ["Se", "exponentBitPattern"]
+- !private ["Se", "init"]
+- !private ["Se", "significandBitPattern"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["Sd", "Real"]
+- ["Sd", "asReal"]
+- !private ["Sd", "exponentBitPattern"]
+- !private ["Sd", "init"]
+- !private ["Sd", "significandBitPattern"]
+- !private ["SE", "Real"]
+- !private ["SE", "asReal"]
+- !private ["SE", "exponentBitPattern"]
+- !private ["SE", "init"]
+- !private ["SE", "significandBitPattern"]
+- !private ["SQ", "Real"]
+- !private ["SQ", "asReal"]
+- !private ["SQ", "exponentBitPattern"]
+- !private ["SQ", "init"]
+- !private ["SQ", "minus"]
+- !private ["SQ", "plus"]
+- !private ["SQ", "significandBitPattern"]
+- !private ["s25ExpressibleByFloatLiteralP", "Real"]
+- !private ["s25ExpressibleByFloatLiteralP", "asReal"]
+- !private ["s25ExpressibleByFloatLiteralP", "exponentBitPattern"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "significandBitPattern"]
+- !private ["s27ExpressibleByIntegerLiteralP", "Real"]
+- !private ["s27ExpressibleByIntegerLiteralP", "asReal"]
+- !private ["s27ExpressibleByIntegerLiteralP", "exponentBitPattern"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "significandBitPattern"]
+- !private ["SF", "Real"]
+- !private ["SF", "asReal"]
+- !private ["SF", "exponentBitPattern"]
+- !private ["SF", "init"]
+- !private ["SF", "significandBitPattern"]
+- !private ["s17FloatingPointSignO", "minus"]
+- !private ["s17FloatingPointSignO", "plus"]
+- !private ["SH", "Real"]
+- !private ["SH", "asReal"]
+- !private ["SH", "exponentBitPattern"]
+- !private ["SH", "init"]
+- !private ["SH", "minus"]
+- !private ["SH", "plus"]
+- !private ["SH", "significandBitPattern"]
+- !private ["s25LosslessStringConvertibleP", "Real"]
+- !private ["s25LosslessStringConvertibleP", "asReal"]
+- !private ["s25LosslessStringConvertibleP", "exponentBitPattern"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "significandBitPattern"]
+- !private ["Sj", "Real"]
+- !private ["Sj", "asReal"]
+- !private ["Sj", "exponentBitPattern"]
+- !private ["Sj", "init"]
+- !private ["Sj", "significandBitPattern"]
+- !private ["SY", "minus"]
+- !private ["SY", "plus"]
+- ["6Simple4RealV", "*"]
+- ["6Simple4RealV", "+"]
+- ["6Simple4RealV", "-"]
+- ["6Simple4RealV", "/"]
+- ["6Simple4RealV", "Bool"]
+- ["6Simple4RealV", "Double"]
+- !private ["6Simple4RealV", "FloatingPointSign"]
+- ["6Simple4RealV", "Real"]
+- ["6Simple4RealV", "String"]
+- ["6Simple4RealV", "UInt"]
+- ["6Simple4RealV", "UInt64"]
+- ["6Simple4RealV", "add"]
+- ["6Simple4RealV", "asDouble"]
+- ["6Simple4RealV", "deinit"]
+- ["6Simple4RealV", "description"]
+- ["6Simple4RealV", "divide"]
+- !private ["6Simple4RealV", "exponentBitPattern"]
+- ["6Simple4RealV", "init"]
+- !private ["6Simple4RealV", "isNegative"]
+- ["6Simple4RealV", "multiply"]
+- !private ["6Simple4RealV", "significandBitPattern"]
+- ["6Simple4RealV", "subtract"]
+- !private ["s10SIMDScalarP", "Real"]
+- !private ["s10SIMDScalarP", "asReal"]
+- !private ["s10SIMDScalarP", "exponentBitPattern"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["s10SIMDScalarP", "significandBitPattern"]
+- !private ["s13SignedNumericP", "Real"]
+- !private ["s13SignedNumericP", "asReal"]
+- !private ["s13SignedNumericP", "exponentBitPattern"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s13SignedNumericP", "significandBitPattern"]
+- !private ["Sx", "Real"]
+- !private ["Sx", "asReal"]
+- !private ["Sx", "exponentBitPattern"]
+- !private ["Sx", "init"]
+- !private ["Sx", "significandBitPattern"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s20TextOutputStreamableP", "Real"]
+- !private ["s20TextOutputStreamableP", "asReal"]
+- !private ["s20TextOutputStreamableP", "exponentBitPattern"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "significandBitPattern"]
+- !private ["s15_CVarArgAlignedP", "Real"]
+- !private ["s15_CVarArgAlignedP", "asReal"]
+- !private ["s15_CVarArgAlignedP", "exponentBitPattern"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "significandBitPattern"]
+- !private ["s22_CVarArgPassedAsDoubleP", "Real"]
+- !private ["s22_CVarArgPassedAsDoubleP", "asReal"]
+- !private ["s22_CVarArgPassedAsDoubleP", "exponentBitPattern"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "significandBitPattern"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Real"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "asReal"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "exponentBitPattern"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "significandBitPattern"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "Real"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "asReal"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "exponentBitPattern"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "significandBitPattern"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "Real"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "asReal"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "exponentBitPattern"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "significandBitPattern"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "Real"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "asReal"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "exponentBitPattern"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "significandBitPattern"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SB"
+- !private "s7CVarArgP"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- "Sd"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "SF"
+- !private "s17FloatingPointSignO"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "Sj"
+- !private "SY"
+- "6Simple4RealV"
+- !private "s10SIMDScalarP"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.2.4-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.2.4-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.2.4-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "8585161b7b0b8c78699c7d9e78b5a5f4"

@@ -1,0 +1,18 @@
+Item Subtotal: $733.00
+Tip: $109.95
+Tax: $58.64
+Total: $901.59
+Amount paid: $1000.00
+Change:
+1 x $50 bill
+2 x $20 bills
+1 x $5 bill
+1 x $2 bill
+1 x $1 bill
+1 x quarter
+1 x dime
+1 x nickel
+1 x penny
+
+Bills: 6
+Coins: 4

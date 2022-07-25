@@ -1,0 +1,16 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Given the integer 'number' in the range of 0 ..<< 10, print the number as a word.
+     For example, given:  <bold>let number : Int = 5
+
+     </bold>Your output should be: <bold>five
+
+
+</bold>
+
+      
+
+ 
+

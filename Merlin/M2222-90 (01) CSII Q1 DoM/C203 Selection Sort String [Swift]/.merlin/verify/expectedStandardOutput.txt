@@ -1,0 +1,8 @@
+Pass: 0, Swaps: 0/0, Array: ["knowledge", "rice", "typical", "passenger", "meddle", "direful", "aquatic", "ghost"]
+Pass: 1, Swaps: 1/1, Array: ["aquatic", "rice", "typical", "passenger", "meddle", "direful", "knowledge", "ghost"]
+Pass: 2, Swaps: 1/2, Array: ["aquatic", "direful", "typical", "passenger", "meddle", "rice", "knowledge", "ghost"]
+Pass: 3, Swaps: 1/3, Array: ["aquatic", "direful", "ghost", "passenger", "meddle", "rice", "knowledge", "typical"]
+Pass: 4, Swaps: 1/4, Array: ["aquatic", "direful", "ghost", "knowledge", "meddle", "rice", "passenger", "typical"]
+Pass: 5, Swaps: 1/5, Array: ["aquatic", "direful", "ghost", "knowledge", "meddle", "rice", "passenger", "typical"]
+Pass: 6, Swaps: 1/6, Array: ["aquatic", "direful", "ghost", "knowledge", "meddle", "passenger", "rice", "typical"]
+Pass: 7, Swaps: 1/7, Array: ["aquatic", "direful", "ghost", "knowledge", "meddle", "passenger", "rice", "typical"]

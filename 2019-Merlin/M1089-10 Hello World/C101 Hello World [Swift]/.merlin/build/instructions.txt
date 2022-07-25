@@ -1,0 +1,2 @@
+1.  Create a file named "main.swift"
+2.  Add a single instruction to print "Hello, World!" to the console

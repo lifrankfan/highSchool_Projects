@@ -1,0 +1,5 @@
+1.  Edit the file "main.c"
+*.  C requires a bit more "scaffolding" than Swift, but all required
+    lines are already included for you.
+*.  Also note that a semicolon is required at the end of each statement.    
+2.  Identify the line to be modified so that "Hello, World!" is printed to the console

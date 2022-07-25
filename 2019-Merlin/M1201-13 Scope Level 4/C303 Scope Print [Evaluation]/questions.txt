@@ -1,0 +1,18 @@
+let s = 265
+let k = 510
+let a = -909
+var r = -508
+var u = -159
+u = 901
+do {
+    let f = -156
+    let k = 504
+    var h = -242
+    u = 316
+    r = 697
+    u = -382
+    r = -924
+    print(s)
+}
+r = -480
+print(s)

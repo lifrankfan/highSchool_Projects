@@ -1,0 +1,6 @@
+String = -922
+String = -922
+String = 605
+String = 605
+String = 367
+String = 416

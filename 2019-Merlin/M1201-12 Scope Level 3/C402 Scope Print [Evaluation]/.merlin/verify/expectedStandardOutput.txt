@@ -1,0 +1,12 @@
+String = -39
+String = 339
+String = -321
+String = -801
+String = -321
+String = -837
+String = -39
+String = -321
+String = -39
+String = 374
+String = 374
+String = -39

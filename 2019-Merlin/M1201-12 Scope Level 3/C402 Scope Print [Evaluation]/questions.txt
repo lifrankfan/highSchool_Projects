@@ -1,0 +1,27 @@
+let v = 374
+let z = -39
+do {
+    let s = -801
+    let p = -321
+    do {
+        let w = 339
+        let d = 427
+        print(z)
+        print(w)
+        print(p)
+    }
+    do {
+        let j = -657
+        let t = -396
+        let x = -837
+        print(s)
+        print(p)
+        print(x)
+    }
+    print(z)
+    print(p)
+    print(z)
+}
+print(v)
+print(v)
+print(z)

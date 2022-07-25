@@ -1,0 +1,7 @@
+1. Edit a file named "main.swift"
+2. Add an extension to Double with the following signature implementing the expected behavior:
+   asReal() -> Real
+
+
+
+   

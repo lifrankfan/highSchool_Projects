@@ -1,0 +1,33 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "multiplyIntegers" which:
+
+      - accepts two parameters
+
+         - the first parameter is "integers" of type array of integers
+
+ 	 - the second parameter is "multiplier" of type integer
+
+      - forms a new array by multiplying the multiplier with each element
+
+      - returns an array containing the new values
+
+     
+
+     
+
+     
+
+     
+
+     <bold>
+
+
+</bold>
+
+      
+
+ 
+

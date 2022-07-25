@@ -1,0 +1,4 @@
+let strings : [String] = ["large", "fully", "chunk", "healer", "burning", "believer", "crook"]
+let character : Character = "q"
+let count = printStringsStartingWith(strings:strings, character:character)
+print(count)

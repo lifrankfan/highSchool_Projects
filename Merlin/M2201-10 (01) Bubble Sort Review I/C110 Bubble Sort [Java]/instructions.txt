@@ -1,0 +1,11 @@
+1.  Edit the file named "BubbleSort.java"
+2.  Within this file, write a program which will sort the array of integers
+    using Bubble Sort.
+3.  The output should be as follows:
+    Pass: <p>, Swaps: <pass swap count>/<total swap count>, Array: [<comma-delimitted array contents>]
+    For example:
+        Pass: 0, Swaps: 0/0, Array: [5, 1, 4, 2, 8]
+    	Pass: 1, Swaps: 3/3, Array: [1, 4, 2, 5, 8]
+
+
+

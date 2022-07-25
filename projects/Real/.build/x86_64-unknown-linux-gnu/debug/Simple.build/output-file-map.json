@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/li-fan/projects/Real/Real.swift": {
+    "dependencies": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Real.d",
+    "object": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Real.swift.o",
+    "swiftmodule": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Real~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Real.swiftdeps"
+  },
+  "/home/li-fan/projects/Real/main.swift": {
+    "dependencies": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/projects/Real/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

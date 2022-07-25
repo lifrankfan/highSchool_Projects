@@ -1,0 +1,3 @@
+1.  Edit the file named "main.swift"
+2.  Considering the defined integer constant print a square of that size using "*" characters
+

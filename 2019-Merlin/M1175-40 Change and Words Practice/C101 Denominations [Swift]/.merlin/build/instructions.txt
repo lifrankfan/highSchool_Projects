@@ -1,0 +1,32 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Define a function with the following signature:
+         printDenominations(forSum:String)
+     
+     Given an arbitrary sum of money, print, in order from the largest denomination
+     to the smallest, the number of units of each denomination required to
+     produce the sum, each time using the largest denomination possible, and preferring
+     paper bills to coins.
+*    The first line should be the text "Original sum: " followed by the argument, properly
+     formatted for U.S. currency.
+*    The following output should be one denomination per line, skipping denominations with 
+     zero units.  The first number must be the number of units, followed by a space, an 'x',
+     another space then the name of the denomination as listed below, being sure to use
+     the singular or plural as appropriate.
+*    The final two lines should list the number of "Bills: " and the number of "Coins: ".     
+
+*    Available denominations are limited to:
+     $100 bill
+     $50 bill
+     $20 bill
+     $10 bill
+     $5 bill
+     $2 bill
+     $1 bill
+     
+     $1 (one dollar coin)
+     $0.50 (half-dollar coin)
+     $0.25 (quarter)
+     $0.10 (dime)
+     $0.05 (nickel)
+     $0.01 (penny)
+ 

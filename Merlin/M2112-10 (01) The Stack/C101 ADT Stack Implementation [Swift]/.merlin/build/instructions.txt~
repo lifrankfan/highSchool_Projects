@@ -1,0 +1,19 @@
+y1.  Create a file named "main.swift"
+2.  Create a STRUCT or CLASS implementing the Stack ADT which must hold up to 100 Integers
+    * REQUIREMENTS:  DO NOT USE .append(), .remove(), popLast(), etc.
+    		     You must keep track of an index that points to the top of the stack
+3.  Read from standard input until EOF
+4.  Process the following commands, one per line:
+    PUSH <integer>
+    	pushes the specified integer onto the stack
+    POP
+	pops the integer at the top of the stack
+	prints the integer
+    PEEK
+	prints the integer at the top of the stack
+    ISEMPTY
+	prints "true" iff the stack is empty, otherwise false
+    DUMP
+	prints every integer in the stack, delimited by spaces,
+	_without_ altering the stack
+

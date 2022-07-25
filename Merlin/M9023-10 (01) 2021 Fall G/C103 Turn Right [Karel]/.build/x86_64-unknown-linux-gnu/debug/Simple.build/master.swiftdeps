@@ -1,0 +1,7 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "cc211e5dd690e495a9d6a30458f98f23"
+build_time: [1635373380, 574056405]
+inputs:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/ActionPlan.swift": [1635373378, 944832951]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/WorldPlanner.swift": [1635373250, 447381058]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/main.swift": [1635373250, 471379835]

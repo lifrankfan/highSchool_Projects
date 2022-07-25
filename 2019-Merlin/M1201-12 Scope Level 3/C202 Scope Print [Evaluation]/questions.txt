@@ -1,0 +1,10 @@
+let k = -890
+let w = -972
+let i = 970
+do {
+    let t = -457
+    let q = -758
+    let f = 92
+    print(f)
+}
+print(i)

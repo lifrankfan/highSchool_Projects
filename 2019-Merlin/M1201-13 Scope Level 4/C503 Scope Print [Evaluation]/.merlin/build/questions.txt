@@ -1,0 +1,60 @@
+let h = 912
+var t = 890
+var a = -356
+a = 876
+t = -928
+func r(y:Int) {
+    let i = -809
+    let n = -541
+    var z = -157
+    var d = 617
+    d = 883
+    do {
+        let m = -183
+        var g = 450
+        g = 23
+        do {
+            let k = -598
+            var n = 987
+            var r = 504
+            t = -101
+            do {
+                let u = 419
+                var z = -475
+                z = 565
+                r = 192
+                print(u)
+                print(n)
+            }
+            do {
+                let r = -251
+                let b = 411
+                var t = 284
+                t = 485
+                z = -168
+                z = 93
+                print(k)
+                print(r)
+                print(n)
+            }
+            d = 99
+            print(g)
+            print(h)
+        }
+        g = 647
+        print(i)
+        print(m)
+        print(m)
+    }
+    a = 889
+    z = 60
+    print(t)
+    print(t)
+    print(z)
+}
+t = 46
+r(y:t)
+r(y:h)
+print(h)
+print(a)
+print(t)

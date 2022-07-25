@@ -1,0 +1,7 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "5c82e73eb045a01a091ef0e78589e5ac"
+build_time: [1635376417, 841270844]
+inputs:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/ActionPlan.swift": [1635376417, 469859578]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/WorldPlanner.swift": [1635376417, 425861821]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C107 Hockey Hat Trick [Karel]/.merlin/build/main.swift": [1635376417, 437861209]

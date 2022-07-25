@@ -1,0 +1,5 @@
+let integers : [Int] = []
+let multiplier = -669
+print(integers)
+print(multiplier)
+print(multiplyIntegers(integers:integers, multiplier:multiplier))

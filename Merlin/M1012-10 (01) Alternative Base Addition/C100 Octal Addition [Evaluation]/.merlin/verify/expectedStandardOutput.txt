@@ -1,0 +1,10 @@
+Int_base8 = 343 312
+Int_base8 = 001 240 312
+Int_base8 = 001 034 175
+Int_base8 = 001 627 417
+Int_base8 = 707 302
+Int_base8 = 001 463 001
+Int_base8 = 764 673
+Int_base8 = 606 123
+Int_base8 = 001 126 543
+Int_base8 = 666 123

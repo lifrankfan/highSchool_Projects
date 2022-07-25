@@ -1,0 +1,8 @@
+1.  Edit a file named "main.swift"
+2.  Write a function named "readIntegers" which accepts no parameters and returns an array
+    of Int.
+    The function must read integers from Standard Input until end-of-file is reached.
+    The function must return an array of all integers read.
+4.  Write a function named "printIntegers" which accepts one parameter named 'integers',
+    an array of Int.
+    The function must print the contents of the array, one element per line.

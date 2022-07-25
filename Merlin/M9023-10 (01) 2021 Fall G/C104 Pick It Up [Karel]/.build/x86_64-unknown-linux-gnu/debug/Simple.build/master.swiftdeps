@@ -1,0 +1,7 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "c0a344f1b3a2794b046f6965c2984184"
+build_time: [1635373511, 171604704]
+inputs:
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C104 Pick It Up [Karel]/ActionPlan.swift": [1635373447, 201354672]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C104 Pick It Up [Karel]/WorldPlanner.swift": [1635373447, 125358545]
+  "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C104 Pick It Up [Karel]/main.swift": [1635373447, 145357525]

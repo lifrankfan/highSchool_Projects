@@ -1,0 +1,39 @@
+let j = 289
+let w = 415
+var m = -744
+var y = 831
+func f() {
+    let w = -772
+    let u = -566
+    var e = 524
+    var b = 648
+    do {
+        let u = 438
+        var v = -889
+        do {
+            let g = 951
+            let v = 252
+            var w = -645
+            print(u)
+            print(u)
+            print(w)
+        }
+        do {
+            let b = -11
+            var t = 35
+            print(u)
+            print(b)
+        }
+        print(u)
+        print(v)
+        print(v)
+    }
+    print(w)
+    print(w)
+}
+f()
+f()
+f()
+print(j)
+print(j)
+print(m)

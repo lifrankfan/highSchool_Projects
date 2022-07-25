@@ -1,0 +1,6 @@
+version: "Swift version 5.2.4 (swift-5.2.4-RELEASE)"
+options: "7126674f73f4d8452504e7528067d726"
+build_time: [1605807312, 344613643]
+inputs:
+  "/home/li-fan/projects/Real/Real.swift": [1605806843, 552685608]
+  "/home/li-fan/projects/Real/main.swift": [1605807311, 191358254]

@@ -1,0 +1,9 @@
+{"digitCountLowerBound":5, 
+ "digitCountUpperBound":5,
+ "garbageCountLowerBound":5,
+ "garbageCountUpperBound":5,
+ "mLowerBound":1,
+ "mUpperBound":10,
+ "numberBase":16,
+ "garbageCharacters":"xXyYzZMmZz"
+ }

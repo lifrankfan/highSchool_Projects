@@ -1,0 +1,57 @@
+1. In emacs, to delete the character under the cursor, the correct key sequence is:
+	A.  DEL
+	B.  C-d
+	C.  M-DEL
+	D.  M-d
+
+2. In emacs, the search command is incremental.
+	A.  True
+	B.  False
+
+3. In emacs, to return to basic one-window editing, the correct key sequence is:
+	A.  M-x 1 (the second character is the digit one)
+	B.  C-x 1 (the second character is the digit one)
+	C.  ESC 1 (the second character is the digit one)
+	D.  ESC ESC
+
+4. In emacs, to discard a prefix argument or the beginning of a command that you do not want to finish, the correct key sequence is:
+	A.  M-g
+	B.  C-c
+	C.  ESC
+	D.  C-g
+
+5. In emacs, to move the cursor to the beginning of the line, the correct key sequence is:
+	A.  C-a
+	B.  M-e
+	C.  M-a
+	D.  C-e
+
+6. In emacs, to move the cursor to the end of the file, the correct key sequence is:
+	A.  ESC->
+	B.  ESC-<
+	C.  C-e
+	D.  C-b
+
+7. In emacs, to delete the character to the left of the cursor, the correct key sequence is:
+	A.  DEL
+	B.  M-DEL
+	C.  C-d
+	D.  M-d
+
+8. To start the tutorial in emacs, the correct key sequence is:
+	A.  TAB-h t
+	B.  SHIFT-h t
+	C.  META-h t
+	D.  CTRL-h t
+
+9. To get help in emacs, the correct key sequence is:
+	A.  CTRL-h
+	B.  SHIFT-h
+	C.  META-h
+	D.  FUNCTION-h
+
+10. In emacs, to view the list of buffers, the correct key sequence is:
+	A.  C-b
+	B.  C-b C-x
+	C.  C-x C-b
+	D.  M-b

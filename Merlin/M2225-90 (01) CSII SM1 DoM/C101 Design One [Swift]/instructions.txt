@@ -1,0 +1,7 @@
+1. Edit a file named "main.swift"
+2. Create a struct named "Real" to contain a double which exposes:
+     isNegative: Bool
+     significandBitPattern: UInt64
+     exponentBitPattern: UInt
+3. Add an initializer to the Real struct with signature:  init(_ d:Double)
+

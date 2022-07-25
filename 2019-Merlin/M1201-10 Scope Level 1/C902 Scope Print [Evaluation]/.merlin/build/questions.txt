@@ -1,0 +1,40 @@
+let b = 873
+let i = 341
+var m = -899
+func u() {
+    let e = -394
+    let m = 991
+    var c = 944
+    var p = -321
+    do {
+        let v = 197
+        var p = -827
+        var g = 203
+        do {
+            let n = 226
+            let g = 139
+            var s = 286
+            do {
+                let m = 949
+                let v = 38
+                var j = 908
+                var t = 284
+                print(p)
+                print(s)
+                print(g)
+            }
+            print(g)
+            print(s)
+            print(s)
+        }
+        print(p)
+        print(v)
+    }
+    print(b)
+    print(m)
+    print(p)
+}
+u()
+u()
+print(i)
+print(m)

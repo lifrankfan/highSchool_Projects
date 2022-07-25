@@ -1,0 +1,144 @@
+1. Consider the table below, a Boolean truth table of four inputs (a, b, c, and d)
+   and a single output (f).
+   Select the correct canonical representation from the choices provided.
+	┌───────┬───────┬───────┬───────┬───────┐
+	│   a   │   b   │   c   │   d   │   f   │
+	│   0   │   0   │   0   │   0   │   0   │
+	│   0   │   0   │   0   │   1   │   1   │
+	│   0   │   0   │   1   │   0   │   0   │
+	│   0   │   0   │   1   │   1   │   1   │
+	│   0   │   1   │   0   │   0   │   0   │
+	│   0   │   1   │   0   │   1   │   1   │
+	│   0   │   1   │   1   │   0   │   0   │
+	│   0   │   1   │   1   │   1   │   0   │
+	│   1   │   0   │   0   │   0   │   1   │
+	│   1   │   0   │   0   │   1   │   0   │
+	│   1   │   0   │   1   │   0   │   1   │
+	│   1   │   0   │   1   │   1   │   1   │
+	│   1   │   1   │   0   │   0   │   0   │
+	│   1   │   1   │   0   │   1   │   1   │
+	│   1   │   1   │   1   │   0   │   0   │
+	│   1   │   1   │   1   │   1   │   1   │
+	└───────┴───────┴───────┴───────┴───────┘
+	
+A. a̅b̅c̅d̅ + a̅b̅cd + a̅bc̅d + ab̅c̅d̅ + ab̅cd̅ + ab̅cd + abc̅d + abcd
+B. a̅b̅c̅d + a̅b̅cd + a̅bc̅d + ab̅c̅d̅ + ab̅cd̅ + ab̅cd + abc̅d + abcd
+C. a̅b̅c̅d + a̅b̅cd + a̅bc̅d̅ + ab̅c̅d̅ + ab̅cd̅ + ab̅cd + abc̅d + abcd
+D. a̅b̅c̅d + a̅bc̅d + a̅bcd̅ + ab̅c̅d̅ + ab̅cd̅ + ab̅cd + abc̅d + abcd
+
+
+2. Consider the table below, a Boolean truth table of four inputs (a, b, c, and d)
+   and a single output (f).
+   Select the correct canonical representation from the choices provided.
+	┌───────┬───────┬───────┬───────┬───────┐
+	│   a   │   b   │   c   │   d   │   f   │
+	│   0   │   0   │   0   │   0   │   1   │
+	│   0   │   0   │   0   │   1   │   0   │
+	│   0   │   0   │   1   │   0   │   0   │
+	│   0   │   0   │   1   │   1   │   0   │
+	│   0   │   1   │   0   │   0   │   0   │
+	│   0   │   1   │   0   │   1   │   1   │
+	│   0   │   1   │   1   │   0   │   1   │
+	│   0   │   1   │   1   │   1   │   1   │
+	│   1   │   0   │   0   │   0   │   1   │
+	│   1   │   0   │   0   │   1   │   0   │
+	│   1   │   0   │   1   │   0   │   1   │
+	│   1   │   0   │   1   │   1   │   0   │
+	│   1   │   1   │   0   │   0   │   0   │
+	│   1   │   1   │   0   │   1   │   1   │
+	│   1   │   1   │   1   │   0   │   0   │
+	│   1   │   1   │   1   │   1   │   0   │
+	└───────┴───────┴───────┴───────┴───────┘
+	
+A. a̅b̅c̅d̅ + a̅bc̅d + a̅bcd̅ + a̅bcd + ab̅c̅d̅ + ab̅cd̅ + abc̅d
+B. a̅b̅c̅d̅ + a̅b̅c̅d + a̅bcd̅ + a̅bcd + ab̅c̅d̅ + ab̅cd̅ + abc̅d
+C. a̅b̅c̅d̅ + a̅b̅cd̅ + a̅bc̅d + a̅bcd̅ + a̅bcd + ab̅c̅d̅ + ab̅cd̅
+D. a̅bc̅d + a̅bcd̅ + a̅bcd + ab̅c̅d̅ + ab̅cd̅ + ab̅cd + abc̅d
+
+
+3. Consider the table below, a Boolean truth table of four inputs (a, b, c, and d)
+   and a single output (f).
+   Select the correct canonical representation from the choices provided.
+	┌───────┬───────┬───────┬───────┬───────┐
+	│   a   │   b   │   c   │   d   │   f   │
+	│   0   │   0   │   0   │   0   │   0   │
+	│   0   │   0   │   0   │   1   │   0   │
+	│   0   │   0   │   1   │   0   │   0   │
+	│   0   │   0   │   1   │   1   │   0   │
+	│   0   │   1   │   0   │   0   │   1   │
+	│   0   │   1   │   0   │   1   │   1   │
+	│   0   │   1   │   1   │   0   │   1   │
+	│   0   │   1   │   1   │   1   │   1   │
+	│   1   │   0   │   0   │   0   │   1   │
+	│   1   │   0   │   0   │   1   │   1   │
+	│   1   │   0   │   1   │   0   │   0   │
+	│   1   │   0   │   1   │   1   │   1   │
+	│   1   │   1   │   0   │   0   │   1   │
+	│   1   │   1   │   0   │   1   │   0   │
+	│   1   │   1   │   1   │   0   │   0   │
+	│   1   │   1   │   1   │   1   │   0   │
+	└───────┴───────┴───────┴───────┴───────┘
+	
+A. a̅bc̅d + a̅bcd̅ + a̅bcd + ab̅c̅d̅ + ab̅c̅d + ab̅cd̅ + ab̅cd + abc̅d̅
+B. a̅bc̅d̅ + a̅bc̅d + a̅bcd̅ + a̅bcd + ab̅c̅d̅ + ab̅c̅d + ab̅cd + abc̅d̅
+C. a̅b̅c̅d̅ + a̅bc̅d̅ + a̅bc̅d + a̅bcd̅ + a̅bcd + ab̅c̅d + ab̅cd + abc̅d̅
+D. a̅b̅c̅d + a̅bc̅d̅ + a̅bc̅d + a̅bcd̅ + a̅bcd + ab̅c̅d̅ + ab̅c̅d + abc̅d̅
+
+
+4. Consider the table below, a Boolean truth table of four inputs (a, b, c, and d)
+   and a single output (f).
+   Select the correct canonical representation from the choices provided.
+	┌───────┬───────┬───────┬───────┬───────┐
+	│   a   │   b   │   c   │   d   │   f   │
+	│   0   │   0   │   0   │   0   │   0   │
+	│   0   │   0   │   0   │   1   │   1   │
+	│   0   │   0   │   1   │   0   │   0   │
+	│   0   │   0   │   1   │   1   │   1   │
+	│   0   │   1   │   0   │   0   │   0   │
+	│   0   │   1   │   0   │   1   │   0   │
+	│   0   │   1   │   1   │   0   │   0   │
+	│   0   │   1   │   1   │   1   │   0   │
+	│   1   │   0   │   0   │   0   │   0   │
+	│   1   │   0   │   0   │   1   │   0   │
+	│   1   │   0   │   1   │   0   │   0   │
+	│   1   │   0   │   1   │   1   │   0   │
+	│   1   │   1   │   0   │   0   │   0   │
+	│   1   │   1   │   0   │   1   │   0   │
+	│   1   │   1   │   1   │   0   │   1   │
+	│   1   │   1   │   1   │   1   │   1   │
+	└───────┴───────┴───────┴───────┴───────┘
+	
+A. a̅b̅c̅d + ab̅c̅d̅ + abcd̅ + abcd
+B. a̅b̅c̅d̅ + a̅b̅cd + abcd̅ + abcd
+C. a̅b̅c̅d + a̅b̅cd + ab̅c̅d + abcd
+D. a̅b̅c̅d + a̅b̅cd + abcd̅ + abcd
+
+
+5. Consider the table below, a Boolean truth table of four inputs (a, b, c, and d)
+   and a single output (f).
+   Select the correct canonical representation from the choices provided.
+	┌───────┬───────┬───────┬───────┬───────┐
+	│   a   │   b   │   c   │   d   │   f   │
+	│   0   │   0   │   0   │   0   │   0   │
+	│   0   │   0   │   0   │   1   │   0   │
+	│   0   │   0   │   1   │   0   │   1   │
+	│   0   │   0   │   1   │   1   │   0   │
+	│   0   │   1   │   0   │   0   │   1   │
+	│   0   │   1   │   0   │   1   │   0   │
+	│   0   │   1   │   1   │   0   │   0   │
+	│   0   │   1   │   1   │   1   │   1   │
+	│   1   │   0   │   0   │   0   │   1   │
+	│   1   │   0   │   0   │   1   │   0   │
+	│   1   │   0   │   1   │   0   │   0   │
+	│   1   │   0   │   1   │   1   │   1   │
+	│   1   │   1   │   0   │   0   │   0   │
+	│   1   │   1   │   0   │   1   │   0   │
+	│   1   │   1   │   1   │   0   │   0   │
+	│   1   │   1   │   1   │   1   │   0   │
+	└───────┴───────┴───────┴───────┴───────┘
+	
+A. a̅b̅cd̅ + a̅bc̅d̅ + a̅bcd + ab̅c̅d̅ + ab̅cd
+B. a̅b̅cd̅ + a̅bc̅d̅ + a̅bc̅d + ab̅c̅d̅ + ab̅cd
+C. a̅b̅c̅d̅ + a̅b̅cd̅ + a̅bcd + ab̅c̅d̅ + ab̅cd
+D. a̅bc̅d̅ + a̅bcd + ab̅c̅d̅ + ab̅c̅d + ab̅cd
+

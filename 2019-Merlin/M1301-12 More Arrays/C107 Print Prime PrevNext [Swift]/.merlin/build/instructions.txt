@@ -1,0 +1,31 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "adjacentPrimes" which accepts a single parameter named "integers"
+
+     of type array of integer.
+
+     On separate rows,  print a comma-delmited pair of numbers for each integer in the array,
+
+     where the first number of the pair is the largest prime number found which is less than the
+
+     array element, and the second number of the pair is the smallest prime number which is greater
+
+     than the array element.
+
+
+     Elements in the array will be greater than or equal to three.
+
+     
+
+     
+
+      
+
+     
+
+      
+
+ 
+

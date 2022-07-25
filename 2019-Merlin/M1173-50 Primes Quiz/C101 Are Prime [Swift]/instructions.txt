@@ -1,0 +1,4 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "isPrime" which accepts a single Integer parameter (n) and
+     returns a Boolean.  The return value should be true iff n is prime.
+ *.  Any number less than two should not be considered prime.

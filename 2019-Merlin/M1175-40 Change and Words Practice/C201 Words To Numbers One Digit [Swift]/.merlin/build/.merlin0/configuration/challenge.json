@@ -1,0 +1,8 @@
+{
+	"layers": [{
+		"numberLowerBound": 0,
+		"numberUpperBound": 9,
+		"countLowerBound": 2,
+		"countUpperBound": 3
+	}]
+}

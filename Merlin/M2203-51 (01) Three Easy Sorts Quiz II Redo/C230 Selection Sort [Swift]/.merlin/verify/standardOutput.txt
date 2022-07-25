@@ -1,0 +1,5 @@
+Pass: 0, Swaps: 0/0, Array: ["party", "troubled", "cactus", "obscene", "amount"]
+Pass: 1, Swaps: 1/1, Array: ["amount", "troubled", "cactus", "obscene", "party"]
+Pass: 2, Swaps: 1/2, Array: ["amount", "cactus", "troubled", "obscene", "party"]
+Pass: 3, Swaps: 1/3, Array: ["amount", "cactus", "obscene", "troubled", "party"]
+Pass: 4, Swaps: 1/4, Array: ["amount", "cactus", "obscene", "party", "troubled"]

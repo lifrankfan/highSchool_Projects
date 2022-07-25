@@ -1,0 +1,3 @@
+let strings : [String] = ["across", "electron", "bleakness", "hypothesis", "she", "chargeable", "position", "seen", "widen", "closeup", "flashed", "across", "accountable", "field", "ocean", "fancy", "bacteria", "drink", "pyramids"]
+let count = printStringsAtEvenIndex(strings:strings)
+print(count)

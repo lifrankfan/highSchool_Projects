@@ -1,0 +1,3 @@
+let strings : [String] = ["parcel", "chapter", "downward", "advice", "bleakness"]
+let count = printStringsAndIndex(strings:strings)
+print(count)

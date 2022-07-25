@@ -1,0 +1,23 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1.  Edit a file named "main.swift"
+ 2.  Write a new function named "gcd" which accepts two Integer parameters (p and q) and returns
+
+     the greatest common divisor of the two numbers.
+
+
+     Both p and q will be positive integers.
+
+
+     You may wish to make use of "Euclid's Algorithm" which states that:
+
+     If p > q, the gcd of p and q is the same as the gcd of q and p % q.
+
+
+     
+
+      
+
+ 
+

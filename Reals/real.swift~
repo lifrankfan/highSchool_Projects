@@ -1,0 +1,59 @@
+struct Real {
+    // properties
+    var binary : Int
+    var remain : Int
+    // initializer
+    init(_ d:Double) {
+    }
+    init(_ n:Int) {
+        repeat {
+            let value = n / 2
+            if n % 2 != 0 {
+                binary = 1
+            }
+        } while n > 1
+    }
+
+    // functions
+    func add(_ other:Real) -> Real {
+        
+
+        
+    }
+}
+
+
+let r = Real(1) // would use init Int
+let a = Real(1.2) // would use init Double
+let b = Real(3.4)
+let c = a.add(b)
+
+
+/*
+struct Real {
+    // properties
+    
+    // initializer
+    init(_ d:Double) {
+    }
+    init(_ n:Int) {
+    }
+
+    // functions
+    func add(_ other:Real) -> Real {
+        
+
+        
+    }
+}
+
+
+let r = Real(1) // would use init Int
+let a = Real(1.2) // would use init Double
+let b = Real(3.4)
+let c = a.add(b)
+
+
+
+ 
+ */

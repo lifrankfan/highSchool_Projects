@@ -1,0 +1,10 @@
+Content-Type: text/enriched
+Text-Width: 70
+
+ 1. Edit a file named "main.swift"
+ 2. Specify the private access modifier for the all properties
+
+ 3. Create a function with the signature add(child:Node) which appends a child to the end of children
+
+ 
+

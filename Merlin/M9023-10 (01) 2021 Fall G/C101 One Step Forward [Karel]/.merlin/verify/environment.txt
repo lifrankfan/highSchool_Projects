@@ -1,0 +1,2 @@
+merlinMissionManagerMode:IGIS
+merlinMissionManagerKey:8404266233373242042

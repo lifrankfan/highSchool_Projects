@@ -1,0 +1,140 @@
+================================================================================
+1. Printing is important not only for interacting with humans, but with other computing systems.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2.
+	Consider the following program:
+	
+	func delta(alpha:Int) -> Int {
+	    print("Class M planet, Captain.", terminator:"-")
+	    return alpha * 3 + 17
+	}
+	
+	let epsilon = delta(alpha: 7)
+	print(epsilon, epsilon)
+	
+	What will be printed to the console?
+------------------------------------------------------------
+	A.  38 Class M planet, Captain.
+	B.  76
+	C.  Class M planet, Captain.-38 38
+	D.  [Nothing]
+
+================================================================================
+3. In a real program, the result of an expression is automatically displayed to the console.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+4.
+	Consider the following program:
+	
+	func zulu(s:Bool, t:Bool) -> Bool { 
+	print("s || t=", s || t, terminator:"-") 
+	return s && t 
+	} 
+	
+	print(zulu(s:true, t:false))
+	
+	What will be printed to the console?
+------------------------------------------------------------
+	A.  zulu(s:true, t:false)
+	B.  s || t= true-false
+	C.  [Nothing]
+	D.  s || t= true-true
+
+================================================================================
+5.
+	Consider the following program:
+	
+	func thalassa(log: String) -> String { 
+	return log + log + log 
+	} 
+	func chapel(forboding: String) -> String { 
+	return "{" + thalassa(log: forboding) + "}" 
+	} 
+	func hypospray(patient: String) -> String { 
+	return "[" + chapel(forboding: patient) + "]" 
+	} 
+	print(hypospray(patient: "Scot"))
+	
+	What will be printed to the console?
+------------------------------------------------------------
+	A.  [Nothing]
+	B.  hypospray(patient: "Scot")
+	C.  {[ScotScotScot]}
+	D.  [{ScotScotScot}]
+
+================================================================================
+6. In most REPLs, the result of an expression is automatically displayed to the console.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7.
+	Consider the following program:
+	
+	func thalassa(log: String) -> String { 
+	    return log + log + log 
+	} 
+	func chapel(forboding: String) -> String { 
+	    return "{" + thalassa(log: forboding) + "}" 
+	} 
+	func hypospray(patient: String) -> String { 
+	    return "[" + chapel(forboding: patient) + "]" 
+	}   
+	let result = hypospray(patient: "Scot")
+	
+	What will be printed to the console?
+------------------------------------------------------------
+	A.  hypospray(patient: "Scot")
+	B.  {[ScotScotScot]}
+	C.  [{ScotScotScot}]
+	D.  [Nothing]
+
+================================================================================
+8.
+	Consider the following program:
+	func alpha() { 
+	print("She's dead, Jim.", terminator:"-") 
+	} 
+	alpha() 
+	alpha()
+	alpha()
+	
+	What will be printed to the console?
+------------------------------------------------------------
+	A.  She's dead, Jim.-
+	B.  [Nothing]
+	C.  She's dead, Jim.-She's dead, Jim.-She's dead, Jim.-
+	D.  She's dead, Jim.-She's dead, Jim.
+
+================================================================================
+9.
+	Consider the following program:
+	
+	func omega(someName:String) { 
+	print("Are you joking, ", terminator:"") 
+	print(someName, terminator:"") 
+	print("?") 
+	} 
+	
+	omega(someName: "Dr. McCoy") 
+	
+	What will be printed to the console?
+------------------------------------------------------------
+	A.  someName: Dr. McCoy
+	B.  [Nothing]
+	C.  omega(someName: "Dr. McCoy")
+	D.  Are you joking, Dr. McCoy?
+
+================================================================================
+10. Printing refers to sending a stream of data, most often text but sometimes binary data as well, to an output device.
+------------------------------------------------------------
+	A.  True
+	B.  False

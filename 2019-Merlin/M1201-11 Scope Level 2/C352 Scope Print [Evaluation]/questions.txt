@@ -1,0 +1,12 @@
+let y = -276
+let q = 540
+let k = 819
+do {
+    let m = 269
+    let h = 930
+    let c = -915
+    print(y)
+    print(y)
+}
+print(k)
+print(q)

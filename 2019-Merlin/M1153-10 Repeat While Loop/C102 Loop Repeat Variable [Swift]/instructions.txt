@@ -1,0 +1,4 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Add a repeat loop that executes through the limit specified by the constant upperLimit
+ 3.  Each time through the loop print "Howdy!"
+ 

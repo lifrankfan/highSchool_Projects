@@ -1,0 +1,4 @@
+1.  Create a file named "main.swift"
+2.  Add a repeat/while loop to print "Hello, World!" exactly twelve times
+
+

@@ -1,0 +1,37 @@
+============================================================
+Given: V=7U1,ω=17,P=
+	1 → 7U
+	7 → 17U
+	U → U71
+1. What are the terminals?
+2. What are the non-terminals?
+3. What is produced for generation 3?
+============================================================
+Given: V=6VJ,ω=6JV,P=
+	J → V6J
+	6 → J6
+	V → J6
+4. What are the terminals?
+5. What are the non-terminals?
+6. What is produced for generation 3?
+============================================================
+Given: V=6VF,ω=F,P=
+	V → F6V
+	6 → 6V
+7. What are the terminals?
+8. What are the non-terminals?
+9. What is produced for generation 2?
+============================================================
+Given: V=4C,ω=4,P=
+	C → C4
+	4 → 4C
+10. What are the terminals?
+11. What are the non-terminals?
+12. What is produced for generation 3?
+============================================================
+Given: V=0BCH8,ω=CHB8,P=
+	8 → 08
+	0 → 8H
+13. What are the terminals?
+14. What are the non-terminals?
+15. What is produced for generation 0?

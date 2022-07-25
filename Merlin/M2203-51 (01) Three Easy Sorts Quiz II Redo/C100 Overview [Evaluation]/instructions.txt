@@ -1,0 +1,17 @@
+1.  This is an evaluation.  Be sure to review the rules in the file evaluations.txt.
+2.  Read the questions in the file questions.txt.
+3.  For each question, provide an answer in the file answers.txt.
+4.  Given:
+    Xn, where X indicates the type of sort and n indicates either the pass or step as appropriate for the sort.
+    Sn indicates a Selection Sort
+    Bn indicates a Bubble Sort
+    In indicates an Insertion Sort
+
+    In all cases, n = 0 indicates the initial condition, prior to the first pass or step.
+
+5.  Each question specifies the state of a sort. Select one answer which correctly matches
+    the specified state using the same algorithmic implementation used in our labs.
+    If none of the specified answers match, select “None of the above”.
+
+
+

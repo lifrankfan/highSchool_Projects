@@ -1,0 +1,9 @@
+String = B3
+String = A3
+String = C2
+String = C3
+String = A1
+String = A2
+String = C1
+String = B1
+String = B2

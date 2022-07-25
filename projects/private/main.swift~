@@ -1,0 +1,19 @@
+class block {
+    private var height : Int
+    private var width : Int
+
+    init(h: Int, w: Int) {
+        self.height = h
+        self.width = w
+    }
+    func getHeight() -> Int {
+        return self.height
+    }
+    private func changeHeight() {
+        self.height = 30        
+    }
+}
+
+let b = block(h:20,w:20)
+
+print(b.changeHeight())

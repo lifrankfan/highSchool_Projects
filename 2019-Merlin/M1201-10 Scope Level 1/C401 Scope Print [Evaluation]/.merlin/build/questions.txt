@@ -1,0 +1,31 @@
+let r = -860
+let w = 219
+let s = -325
+func i() {
+    let j = -365
+    let q = -387
+    let w = -607
+    do {
+        let x = 874
+        let q = 988
+        let n = 740
+        print(q)
+        print(n)
+    }
+    func h() {
+        let w = -771
+        let c = -799
+        let d = -531
+        print(c)
+        print(d)
+        print(c)
+    }
+    h()
+    print(j)
+    print(w)
+    print(w)
+}
+i()
+print(r)
+print(r)
+print(w)

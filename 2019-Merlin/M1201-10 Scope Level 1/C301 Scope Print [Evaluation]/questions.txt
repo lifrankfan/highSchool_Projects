@@ -1,0 +1,11 @@
+let i = -922
+let p = 353
+func v() {
+    let i = 826
+    let k = -209
+    let j = 346
+    print(i)
+}
+v()
+print(i)
+print(p)

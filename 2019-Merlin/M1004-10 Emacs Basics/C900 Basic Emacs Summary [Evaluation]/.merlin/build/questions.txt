@@ -1,0 +1,153 @@
+1. In emacs, to scroll up (backwards), the correct key sequence is:
+	A.  M-v
+	B.  C-n
+	C.  C-v
+	D.  C-p
+
+2. In emacs, it is an error to find a file which does not yet exist.
+	A.  True
+	B.  False
+
+3. In emacs, to kill the next word after the cursor, the correct key sequence is:
+	A.  M-e
+	B.  C-d
+	C.  M-d
+	D.  M-DEL
+
+4. In emacs, in order to undo the changes made by one command, the correct key sequence is:
+	A.  M-_ (the second character is an underscore)
+	B.  M-u
+	C.  C-u
+	D.  C-_ (the second character is an underscore)
+
+5. In emacs, "dired" is a built-in facility to enable the user to list files in a directory and operate on those files.
+	A.  True
+	B.  False
+
+6. In emacs, the asterisks (stars) at the front of the mode line indicate:
+	A.  No changes have been made to the buffer that have not already been saved to the file.
+	B.  Emacs is busy accessing the disk.
+	C.  Emacs is busy in a CPU intensive task.
+	D.  Changes have been made to the buffer that have not yet been saved to the file.
+
+7. In emacs, to scroll down (forwards), the correct key sequence is:
+	A.  C-p
+	B.  C-n
+	C.  M-v
+	D.  C-v
+
+8. In emacs, minor modes enable minor modifications to the major mode.
+	A.  True
+	B.  False
+
+9. In emacs, at any given time, multiple major modes may be active in a particular buffer.
+	A.  True
+	B.  False
+
+10. In emacs, most commands use a prefix argument as a repeat count.
+	A.  True
+	B.  False
+
+11. To get help in emacs, the correct key sequence is:
+	A.  FUNCTION-h
+	B.  CTRL-h
+	C.  META-h
+	D.  SHIFT-h
+
+12. In emacs, to begin specifying a prefix argument, the correct key sequence is:
+	A.  M-u
+	B.  C-p
+	C.  C-u
+	D.  C-a
+
+13. In emacs, to kill from the cursor position to the end of the line, the correct key sequence is:
+	A.  M-k
+	B.  C-DEL
+	C.  C-k
+	D.  M-DEL
+
+14. In emacs, to move the cursor to the end of a sentence, the correct key sequence is:
+	A.  M-e
+	B.  C-f
+	C.  M-f
+	D.  C-e
+
+15. In emacs, after text has been yanked, it is no longer possible to yank the same text again (for example, to make two copies of the same text).
+	A.  True
+	B.  False
+
+16. To start the tutorial in emacs, the correct key sequence is:
+	A.  META-h t
+	B.  TAB-h t
+	C.  CTRL-h t
+	D.  SHIFT-h t
+
+17. In emacs, the location of the cursor in the text is also called "point".
+	A.  True
+	B.  False
+
+18. In emacs, it is possible to yank text either at the same place it was killed, or at some other place in the text being edited, or even in a different file.
+	A.  True
+	B.  False
+
+19. In emacs, to move the cursor to the end of the line, the correct key sequence is:
+	A.  C-a
+	B.  M-a
+	C.  C-e
+	D.  M-e
+
+20. In emacs, pressing the <Return> key may sometimes insert a Newline character and also insert whitespace in order to automatically align new text with that on the previous line.
+	A.  True
+	B.  False
+
+21. In emacs, to move the cursor to the beginning of a sentence, the correct key sequence is:
+	A.  C-b
+	B.  M-b
+	C.  M-a
+	D.  C-a
+
+22. In emacs, the mode line includes information to indicate the percent of buffer above the top of the screen.
+	A.  True
+	B.  False
+
+23. In emacs, completion of commands and file names can be invoked with the key sequence:
+	A.  TAB
+	B.  M-x
+	C.  C-c
+	D.  M-c
+
+24. In emacs, to move the cursor to the end of the file, the correct key sequence is:
+	A.  C-b
+	B.  ESC->
+	C.  ESC-<
+	D.  C-e
+
+25. In a text file, the special character which separates one line from the next is called a:
+	A.  Line divider character
+	B.  Nextline character
+	C.  Newline character
+	D.  Line separation character
+
+26. In emacs, there's no need to explicitly save the contents you are editing to a file.  Emacs performs this automatically as you type.
+	A.  True
+	B.  False
+
+27. In emacs, to kill from the cursor position to the end of the current sentence, the correct key sequence is:
+	A.  M-DEL
+	B.  C-DEL
+	C.  M-k
+	D.  C-k
+
+28. In emacs, in order to save a file, the correct key sequence is:
+	A.  C-x C-s
+	B.  C-s
+	C.  M-s
+	D.  C-x C-f
+
+29. In emacs, reinsertion of text is called "yanking".
+	A.  True
+	B.  False
+
+30. In emacs, there are some buffers which do not correspond to files.
+	A.  True
+	B.  False

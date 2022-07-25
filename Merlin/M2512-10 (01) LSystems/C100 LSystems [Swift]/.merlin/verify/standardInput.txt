@@ -1,0 +1,7 @@
+alphabet:W5Q+-0#
+productionRule:+ -> #Q5W-
+productionRule:0 -> +Q5W-
+productionRule:5 -> 0W+
+productionRule:W -> -+0Q5#W
+axiom:5#W0Q-+
+generationCount:1

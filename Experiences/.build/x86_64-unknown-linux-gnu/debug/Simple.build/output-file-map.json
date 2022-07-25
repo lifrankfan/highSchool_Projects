@@ -1,0 +1,599 @@
+{
+  "": {
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1501f/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1501f/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1502f/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1502f/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1503f/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1503f/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1504f/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1504f/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1505f/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1505f/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1511/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1511/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Package.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Package.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Package.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Package~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Package.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Sources/ScenesShell/Background.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/Background.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/Background.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/Background~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/Background.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Sources/ScenesShell/BackgroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/BackgroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/BackgroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/BackgroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/BackgroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Sources/ScenesShell/ForegroundLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ForegroundLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ForegroundLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ForegroundLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ForegroundLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Sources/ScenesShell/InteractionLayer.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/InteractionLayer.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/InteractionLayer.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/InteractionLayer~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/InteractionLayer.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Sources/ScenesShell/MainScene.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/MainScene.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/MainScene.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/MainScene~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/MainScene.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Sources/ScenesShell/ShellDirector.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ShellDirector.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ShellDirector.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ShellDirector~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/ShellDirector.swiftdeps"
+  },
+  "/home/li-fan/Experiences/W1512/Sources/ScenesShell/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/W1512/Sources/ScenesShell/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/project-1292/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/project-1292/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/project-1292/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/project-1292/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/project-1292/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/recursion/main.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/main.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/main.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/main~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/main.swiftdeps"
+  },
+  "/home/li-fan/Experiences/recursion/name.swift": {
+    "dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/name.d",
+    "object": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/name.swift.o",
+    "swiftmodule": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/name~partial.swiftmodule",
+    "swift-dependencies": "/home/li-fan/Experiences/.build/x86_64-unknown-linux-gnu/debug/Simple.build/recursion/name.swiftdeps"
+  }
+}

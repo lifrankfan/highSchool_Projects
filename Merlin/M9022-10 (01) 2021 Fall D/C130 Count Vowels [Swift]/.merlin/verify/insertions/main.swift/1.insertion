@@ -1,0 +1,8 @@
+let strings = [
+	"language",
+	"letters",
+	"meeting",
+	"scary",
+	"splendid",
+	"grieving"
+]

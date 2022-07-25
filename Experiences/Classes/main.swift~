@@ -1,0 +1,35 @@
+class VideoGame {
+    let name : String
+
+    init(name: String) {
+        self.name = name
+    }
+}
+
+class StragtegyGame: VideoGame {
+    let puzzleCount: Int
+
+    init(name: String, puzzleCount: Int) {
+        self.puzzle.count = puzzleCount
+
+        super.init(name: name)
+    }
+}
+
+let videoGame = VideoGame(name: "Fortnite")
+let strategetGames = StragetyGame(name: "Minecraft", puzzleCount: 69)
+
+print(strategyGame.name)
+print(strategyGame.puzzleCount)
+print(videoGame.name)
+
+let games = [videoGame, strategyGame]
+
+for game in game {
+    var description = game.name
+    if game is StrategyGame {        
+        description += " is a strategy game"
+    }
+    print(description)
+}
+        

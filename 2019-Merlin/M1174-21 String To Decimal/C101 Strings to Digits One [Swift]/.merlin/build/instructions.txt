@@ -1,0 +1,9 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Without using an explicit conversion from a String to an Integer,
+     convert the specified string 'string' to a base ten integer, ignoring any
+     characters which are non-digits.
+ 3.  Divide the result (using integer division) by the integer 'm'.
+ 4.  Print the original string on the first line.
+ 4.  Print the result of the calculation on the second line.
+ 
+ 

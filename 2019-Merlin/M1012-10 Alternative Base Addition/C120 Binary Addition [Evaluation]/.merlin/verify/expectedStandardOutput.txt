@@ -1,0 +1,10 @@
+Int_base2 = 0001 0101 1010
+Int_base2 = 1011 1111
+Int_base2 = 0001 0011 1000
+Int_base2 = 0001 0010 1101
+Int_base2 = 0101 0100
+Int_base2 = 1101 0111
+Int_base2 = 0001 0001 0000
+Int_base2 = 1110 1010
+Int_base2 = 1101 1000
+Int_base2 = 0001 0001 1000

@@ -1,0 +1,4 @@
+1.  Edit the file "hello.adb"
+*.  Note that Ada's syntax is substantially more complex than that of Swift.
+*.  Also note that the "end" specifies the name of the procedure.
+2.  Identify the line to be modified so that "Hello, World!" is printed to the console

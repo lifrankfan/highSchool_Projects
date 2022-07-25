@@ -1,0 +1,106 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.Simple-debug.module" : {
+      "executable" : "/opt/swift-5.4.2-RELEASE-ubuntu20.04/usr/bin/swiftc",
+      "importPath" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/ActionPlan.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/WorldPlanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/main.swift"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "Simple",
+      "moduleOutputPath" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule",
+      "objects" : [
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o",
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o",
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics",
+        "-I",
+        "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug",
+        "-L",
+        "/usr/local/lib/merlin/Igis-1.3.7/Igis/.build/debug",
+        "-lIgis",
+        "-I",
+        "/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug",
+        "-L",
+        "/usr/local/lib/merlin/Scenes-1.1.5/Scenes/.build/debug",
+        "-lScenes",
+        "-I",
+        "/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug",
+        "-L",
+        "/usr/local/lib/merlin/ScenesAnimations-0.1.5/ScenesAnimations/.build/debug",
+        "-lScenesAnimations",
+        "-I",
+        "/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug",
+        "-L",
+        "/usr/local/lib/merlin/MerlinKarel-0.1.7/MerlinKarel/.build/debug",
+        "-lMerlinKarel"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/ActionPlan.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WorldPlanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/ActionPlan.swift",
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/WorldPlanner.swift",
+        "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/main.swift"
+      ],
+      "tempsPath" : "/home/li-fan/Merlin/M9023-10 (01) 2021 Fall G/C103 Turn Right [Karel]/.build/x86_64-unknown-linux-gnu/debug/Simple.build",
+      "WMO" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}
